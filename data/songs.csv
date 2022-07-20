@@ -1,0 +1,1982 @@
+Index,Title,Artist,Top Genre,Beats Per Minute (BPM),Energy,Loudness (dB),Liveness,Length (Duration),Acousticness,Speechiness,Popularity,Age
+1,Sunrise,Norah Jones,adult standards,157.0,30.0,-14.0,11.0,201.0,94.0,3.0,71.0,17.0
+2,Black Night,Deep Purple,album rock,135.0,79.0,-11.0,17.0,207.0,17.0,7.0,39.0,22.0
+3,Clint Eastwood,Gorillaz,alternative hip hop,168.0,69.0,-9.0,7.0,341.0,2.0,17.0,69.0,21.0
+4,The Pretender,Foo Fighters,alternative metal,173.0,96.0,-4.0,3.0,269.0,0.0,4.0,76.0,15.0
+5,Waitin' On A Sunny Day,Bruce Springsteen,classic rock,106.0,82.0,-5.0,10.0,256.0,1.0,3.0,59.0,19.0
+6,The Road Ahead (Miles Of The Unknown),City To City,alternative pop rock,99.0,46.0,-9.0,14.0,247.0,0.0,2.0,45.0,18.0
+7,She Will Be Loved,Maroon 5,pop,102.0,71.0,-6.0,13.0,257.0,6.0,3.0,74.0,19.0
+8,Knights of Cydonia,Muse,modern rock,137.0,96.0,-5.0,12.0,366.0,0.0,14.0,69.0,15.0
+9,Mr. Brightside,The Killers,modern rock,148.0,92.0,-4.0,10.0,223.0,0.0,8.0,77.0,18.0
+10,Without Me,Eminem,detroit hip hop,112.0,67.0,-3.0,24.0,290.0,0.0,7.0,82.0,19.0
+11,Love Me Tender,Elvis Presley,adult standards,109.0,5.0,-16.0,11.0,162.0,88.0,4.0,49.0,20.0
+12,Seven Nation Army,The White Stripes,alternative rock,124.0,46.0,-8.0,26.0,232.0,1.0,8.0,74.0,18.0
+13,Als Het Golft,De Dijk,dutch indie,102.0,88.0,-6.0,53.0,214.0,2.0,3.0,34.0,21.0
+14,I'm going home,Ten Years After,album rock,117.0,93.0,-2.0,81.0,639.0,18.0,10.0,26.0,17.0
+15,Fluorescent Adolescent,Arctic Monkeys,garage rock,112.0,81.0,-5.0,14.0,173.0,0.0,3.0,66.0,15.0
+16,Zonder Jou,Paul de Leeuw,dutch cabaret,133.0,42.0,-10.0,16.0,236.0,84.0,4.0,48.0,16.0
+17,Speed of Sound,Coldplay,permanent wave,123.0,90.0,-7.0,7.0,288.0,0.0,6.0,69.0,17.0
+18,Uninvited,Alanis Morissette,alternative rock,127.0,54.0,-5.0,9.0,276.0,2.0,3.0,57.0,17.0
+19,Music,John Miles,classic uk pop,87.0,31.0,-13.0,63.0,352.0,1.0,3.0,46.0,17.0
+20,Cry Me a River,Justin Timberlake,dance pop,74.0,65.0,-7.0,10.0,288.0,57.0,18.0,74.0,20.0
+21,Fix You,Coldplay,permanent wave,138.0,42.0,-9.0,11.0,296.0,16.0,3.0,81.0,16.0
+22,The Cave,Mumford & Sons,modern folk rock,142.0,51.0,-10.0,11.0,218.0,5.0,4.0,67.0,13.0
+23,Als De Morgen Is Gekomen,Jan Smit,dutch pop,96.0,89.0,-6.0,9.0,176.0,5.0,3.0,55.0,15.0
+24,Somebody Told Me,The Killers,modern rock,138.0,99.0,-3.0,12.0,197.0,0.0,9.0,69.0,18.0
+25,Dichterbij Dan Ooit,BLØF,dutch pop,112.0,74.0,-7.0,23.0,261.0,18.0,3.0,16.0,19.0
+26,Miracle,Ilse DeLange,dutch americana,130.0,48.0,-8.0,10.0,270.0,48.0,3.0,50.0,13.0
+27,Smokers Outside the Hospital Doors,Editors,alternative dance,123.0,68.0,-4.0,12.0,298.0,0.0,4.0,56.0,14.0
+28,Cleanin' Out My Closet,Eminem,detroit hip hop,148.0,76.0,-5.0,8.0,298.0,7.0,17.0,71.0,20.0
+29,Der Weg,Herbert Grönemeyer,german pop,142.0,24.0,-11.0,12.0,259.0,92.0,4.0,48.0,14.0
+30,7 Seconds (feat. Neneh Cherry),Youssou N'Dour,afropop,154.0,70.0,-10.0,33.0,306.0,8.0,3.0,59.0,17.0
+31,The Scientist,Coldplay,permanent wave,146.0,44.0,-7.0,11.0,310.0,73.0,2.0,84.0,20.0
+32,Big Log - 2006 Remaster,Robert Plant,album rock,181.0,59.0,-9.0,20.0,306.0,32.0,3.0,57.0,14.0
+33,Chasing Pavements,Adele,british soul,80.0,47.0,-6.0,11.0,211.0,31.0,3.0,63.0,14.0
+34,Don't Know Why,Norah Jones,adult standards,88.0,20.0,-12.0,7.0,186.0,88.0,3.0,74.0,20.0
+35,Tears Dry On Their Own,Amy Winehouse,british soul,122.0,87.0,-3.0,29.0,185.0,49.0,12.0,72.0,16.0
+36,The Eyes of Jenny,Sandy Coast,classic uk pop,119.0,53.0,-12.0,8.0,264.0,34.0,4.0,44.0,13.0
+37,Iris,The Goo Goo Dolls,alternative rock,156.0,79.0,-6.0,8.0,290.0,0.0,4.0,75.0,15.0
+38,The Saints Are Coming,U2,irish rock,152.0,81.0,-7.0,15.0,202.0,8.0,5.0,40.0,16.0
+39,All My Life,Foo Fighters,alternative metal,168.0,60.0,-6.0,48.0,263.0,0.0,5.0,72.0,19.0
+40,De Weg,Guus Meeuwis,dutch pop,72.0,21.0,-11.0,11.0,266.0,91.0,3.0,42.0,17.0
+41,Don't Let Me Be Misunderstood,Santa Esmeralda,disco,118.0,82.0,-9.0,5.0,629.0,3.0,8.0,59.0,19.0
+42,Traffic - Radio Edit,Tiësto,big room,138.0,64.0,-10.0,19.0,177.0,0.0,9.0,53.0,13.0
+43,Take Me Out,Franz Ferdinand,alternative rock,105.0,68.0,-9.0,14.0,237.0,0.0,4.0,74.0,18.0
+44,American Idiot,Green Day,modern rock,186.0,99.0,-2.0,37.0,176.0,0.0,6.0,78.0,17.0
+45,Breaking the Habit,Linkin Park,alternative metal,100.0,85.0,-5.0,9.0,197.0,11.0,3.0,65.0,18.0
+46,Come Undone,Robbie Williams,dance pop,168.0,57.0,-5.0,35.0,278.0,4.0,3.0,56.0,20.0
+47,Sweet Jane,Lou Reed,art rock,115.0,46.0,-10.0,70.0,331.0,48.0,6.0,43.0,14.0
+48,Run,Snow Patrol,irish rock,75.0,64.0,-6.0,17.0,355.0,0.0,3.0,65.0,18.0
+49,"You're The First, The Last, My Everything",Barry White,adult standards,131.0,72.0,-7.0,14.0,213.0,1.0,4.0,67.0,12.0
+50,The Day After Tomorrow,Saybia,danish pop rock,76.0,77.0,-5.0,14.0,234.0,1.0,3.0,51.0,17.0
+51,Just Breathe,Pearl Jam,alternative rock,108.0,35.0,-11.0,8.0,216.0,72.0,3.0,69.0,13.0
+52,Dansen Aan Zee,BLØF,dutch pop,194.0,43.0,-11.0,10.0,275.0,16.0,3.0,52.0,22.0
+53,Goodbye My Lover,James Blunt,neo mellow,90.0,26.0,-13.0,9.0,259.0,95.0,5.0,69.0,17.0
+54,The Unforgiven III,Metallica,alternative metal,122.0,77.0,-3.0,12.0,467.0,0.0,3.0,52.0,14.0
+55,Hurt,Christina Aguilera,dance pop,149.0,30.0,-7.0,11.0,243.0,78.0,3.0,67.0,15.0
+56,Grounds for Divorce,Elbow,britpop,92.0,76.0,-5.0,57.0,219.0,42.0,3.0,43.0,13.0
+57,Sometimes You Can't Make It On Your Own,U2,irish rock,96.0,60.0,-6.0,11.0,305.0,0.0,2.0,57.0,18.0
+58,"Listen (From the Motion Picture ""Dreamgirls"")",Beyoncé,dance pop,123.0,59.0,-5.0,18.0,218.0,27.0,5.0,44.0,15.0
+59,I Want It That Way,Backstreet Boys,boy band,99.0,70.0,-6.0,16.0,214.0,22.0,3.0,77.0,20.0
+60,Goin To The Run,Golden Earring,album rock,124.0,59.0,-8.0,28.0,236.0,42.0,3.0,38.0,13.0
+61,De Neus Umhoeg,Rowwen Hèze,carnaval limburg,132.0,41.0,-14.0,10.0,215.0,7.0,3.0,32.0,16.0
+62,Solitary Man,Johnny Cash,arkansas country,86.0,56.0,-7.0,25.0,144.0,35.0,3.0,47.0,21.0
+63,Smoorverliefd,Doe Maar,dutch cabaret,166.0,75.0,-9.0,19.0,195.0,13.0,10.0,48.0,14.0
+64,Me Gustas Tu,Manu Chao,latin alternative,176.0,74.0,-7.0,22.0,240.0,66.0,8.0,70.0,21.0
+65,Kryptonite,3 Doors Down,alternative metal,99.0,87.0,-6.0,17.0,234.0,1.0,3.0,77.0,22.0
+66,Crazy,Seal,british soul,103.0,86.0,-7.0,7.0,357.0,21.0,5.0,63.0,17.0
+67,Family Portrait,P!nk,dance pop,92.0,69.0,-5.0,57.0,297.0,3.0,5.0,56.0,20.0
+68,In The Army Now,Status Quo,album rock,105.0,73.0,-8.0,14.0,281.0,11.0,2.0,59.0,20.0
+69,I Surrender,Saybia,danish pop rock,136.0,43.0,-7.0,6.0,219.0,28.0,3.0,55.0,17.0
+70,Maybe Tomorrow,Stereophonics,britpop,81.0,65.0,-7.0,33.0,273.0,22.0,4.0,64.0,18.0
+71,Make You Feel My Love,Adele,british soul,77.0,18.0,-11.0,11.0,212.0,89.0,3.0,73.0,14.0
+72,No One Knows,Queens of the Stone Age,alternative metal,171.0,58.0,-5.0,37.0,279.0,3.0,6.0,65.0,20.0
+73,Where Do You Go To (My Lovely) - Re-Recorded,Peter Sarstedt,british folk,183.0,44.0,-8.0,12.0,288.0,29.0,3.0,58.0,14.0
+74,The Wild Rover,The Dubliners,celtic,178.0,68.0,-8.0,43.0,249.0,83.0,25.0,46.0,14.0
+75,Little Lion Man,Mumford & Sons,modern folk rock,139.0,48.0,-8.0,9.0,247.0,3.0,3.0,67.0,13.0
+76,Dirty Diana,Michael Jackson,pop,131.0,80.0,-5.0,42.0,281.0,24.0,5.0,55.0,18.0
+77,Ne me quitte pas,Jacques Brel,chanson,101.0,24.0,-11.0,19.0,229.0,82.0,5.0,58.0,18.0
+78,Sad Man's Tongue,Volbeat,alternative metal,110.0,96.0,-4.0,17.0,186.0,0.0,4.0,57.0,14.0
+79,Wat Zou Je Doen - Live,Marco Borsato,dutch cabaret,104.0,92.0,-6.0,61.0,229.0,38.0,17.0,30.0,15.0
+80,One Day Like This,Elbow,britpop,159.0,67.0,-6.0,14.0,394.0,9.0,3.0,45.0,13.0
+81,Bagagedrager,Spinvis,dutch indie,160.0,71.0,-8.0,43.0,375.0,8.0,5.0,45.0,20.0
+82,Wêr Bisto,Twarres,dutch pop,88.0,32.0,-11.0,9.0,226.0,33.0,2.0,48.0,20.0
+83,Only Time,Enya,celtic,83.0,25.0,-14.0,11.0,219.0,84.0,3.0,70.0,21.0
+84,Sorry Seems To Be The Hardest Word,Blue,boy band,79.0,60.0,-7.0,38.0,210.0,18.0,3.0,58.0,18.0
+85,Self Esteem,The Offspring,alternative metal,105.0,91.0,-4.0,36.0,258.0,2.0,6.0,72.0,16.0
+86,Aanzoek Zonder Ringen,BLØF,dutch pop,160.0,85.0,-8.0,32.0,283.0,2.0,4.0,42.0,16.0
+87,Modern World,Anouk,dutch indie,120.0,76.0,-5.0,13.0,210.0,12.0,6.0,42.0,15.0
+88,Rosie,Claw Boys Claw,dutch indie,100.0,55.0,-12.0,11.0,264.0,47.0,3.0,43.0,15.0
+89,This Is Not America - 2002 Remaster,David Bowie,album rock,115.0,67.0,-12.0,5.0,231.0,6.0,4.0,43.0,20.0
+90,Times Like These,Foo Fighters,alternative metal,145.0,91.0,-4.0,24.0,266.0,0.0,9.0,65.0,20.0
+91,De Vondeling Van Ameland,Boudewijn de Groot,dutch indie,110.0,35.0,-10.0,11.0,306.0,67.0,3.0,19.0,14.0
+92,I'm Gonna Be (500 Miles),The Proclaimers,celtic rock,132.0,55.0,-5.0,8.0,219.0,15.0,4.0,74.0,19.0
+93,Afscheid Nemen Bestaat Niet,Marco Borsato,dutch cabaret,128.0,40.0,-9.0,9.0,240.0,3.0,3.0,49.0,16.0
+94,Blauwe Ruis,BLØF,dutch pop,130.0,70.0,-7.0,13.0,268.0,4.0,4.0,41.0,20.0
+95,Limburg - Live,Rowwen Hèze,carnaval limburg,157.0,93.0,-5.0,93.0,403.0,29.0,17.0,32.0,13.0
+96,21 Guns,Green Day,modern rock,160.0,74.0,-5.0,63.0,321.0,5.0,4.0,75.0,13.0
+97,Valerie (feat. Amy Winehouse) - Version Revisited,Mark Ronson,dance pop,106.0,84.0,-5.0,12.0,219.0,0.0,5.0,62.0,14.0
+98,Blaosmuziek,Gé Reinders,carnaval limburg,61.0,13.0,-14.0,33.0,232.0,94.0,4.0,38.0,16.0
+99,Binnen,Marco Borsato,dutch cabaret,92.0,90.0,-7.0,15.0,275.0,1.0,6.0,30.0,20.0
+100,Motorcycle Emptiness,Manic Street Preachers,alternative rock,112.0,81.0,-4.0,16.0,306.0,0.0,3.0,39.0,20.0
+101,In the End,Linkin Park,alternative metal,105.0,86.0,-6.0,21.0,217.0,1.0,6.0,83.0,21.0
+102,Halt mich,Herbert Grönemeyer,german pop,104.0,44.0,-7.0,8.0,207.0,79.0,3.0,44.0,14.0
+103,Girl,Anouk,dutch indie,136.0,80.0,-5.0,6.0,211.0,1.0,3.0,56.0,18.0
+104,"Trapped - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",Bruce Springsteen,classic rock,162.0,62.0,-6.0,60.0,308.0,3.0,3.0,40.0,19.0
+105,Ik Wou Dat Ik Jou Was,Veldhuis & Kemper,dutch cabaret,160.0,61.0,-6.0,11.0,237.0,54.0,4.0,58.0,19.0
+106,Empire State of Mind (Part II) Broken Down,Alicia Keys,hip pop,93.0,37.0,-8.0,12.0,216.0,74.0,3.0,75.0,12.0
+107,Numb / Encore,JAY-Z,east coast hip hop,107.0,79.0,-4.0,58.0,206.0,6.0,17.0,75.0,17.0
+108,Ben Ik Te Min,Armand,dutch rock,101.0,69.0,-7.0,6.0,208.0,28.0,3.0,47.0,13.0
+109,All Summer Long,Kid Rock,alternative metal,103.0,86.0,-4.0,10.0,298.0,2.0,3.0,72.0,15.0
+110,Forever Autumn,Jeff Wayne,classic uk pop,122.0,49.0,-7.0,21.0,273.0,47.0,3.0,41.0,14.0
+111,Waiting On the World to Change,John Mayer,neo mellow,177.0,76.0,-6.0,25.0,201.0,16.0,12.0,74.0,16.0
+112,Everybody's Changing,Keane,modern rock,94.0,84.0,-4.0,10.0,215.0,0.0,3.0,54.0,18.0
+113,How to Save a Life,The Fray,modern rock,122.0,74.0,-4.0,10.0,263.0,27.0,4.0,80.0,16.0
+114,"Bloed, Zweet En Tranen",Andre Hazes,dutch pop,68.0,72.0,-4.0,35.0,242.0,8.0,3.0,59.0,20.0
+115,"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,detroit hip hop,171.0,74.0,-5.0,36.0,326.0,1.0,26.0,77.0,17.0
+116,Europa (Earth's Cry Heaven's Smile),Santana,blues rock,75.0,67.0,-5.0,15.0,306.0,3.0,5.0,59.0,14.0
+117,Feeling Good,Muse,modern rock,109.0,42.0,-8.0,10.0,199.0,30.0,3.0,51.0,21.0
+118,"Harder, Better, Faster, Stronger",Daft Punk,electro,123.0,72.0,-9.0,36.0,225.0,4.0,14.0,71.0,21.0
+119,Use Somebody,Kings of Leon,modern rock,137.0,72.0,-5.0,20.0,231.0,1.0,4.0,76.0,14.0
+120,Sweet Disposition,The Temper Trap,alternative dance,129.0,82.0,-7.0,12.0,231.0,7.0,4.0,64.0,13.0
+121,Single Ladies (Put a Ring on It),Beyoncé,dance pop,193.0,58.0,-5.0,19.0,193.0,4.0,30.0,70.0,14.0
+122,You're the Voice,John Farnham,australian pop,85.0,76.0,-9.0,58.0,302.0,22.0,5.0,62.0,14.0
+123,Voltooid Verleden Tijd,IOS,dutch pop,138.0,44.0,-9.0,10.0,294.0,66.0,3.0,39.0,13.0
+124,Eternal Flame,The Bangles,album rock,79.0,36.0,-7.0,9.0,238.0,53.0,2.0,70.0,18.0
+125,Papa Was A Rolling Stone,The Temptations,adult standards,120.0,60.0,-12.0,19.0,433.0,6.0,4.0,44.0,21.0
+126,Crazy In Love (feat. Jay-Z),Beyoncé,dance pop,99.0,77.0,-7.0,7.0,236.0,0.0,23.0,75.0,18.0
+127,Best of You,Foo Fighters,alternative metal,130.0,94.0,-5.0,19.0,256.0,0.0,7.0,75.0,16.0
+128,Daughters,John Mayer,neo mellow,125.0,41.0,-8.0,10.0,238.0,84.0,3.0,68.0,19.0
+129,De wedstrijd,Bram Vermeulen,belgian rock,136.0,85.0,-6.0,79.0,302.0,53.0,5.0,42.0,16.0
+130,Papillon,Editors,alternative dance,126.0,95.0,-5.0,30.0,324.0,0.0,6.0,56.0,12.0
+131,Sadeness,Enigma,downtempo,96.0,64.0,-10.0,9.0,256.0,9.0,3.0,58.0,20.0
+132,Red Mij Niet - Single Edit,Maarten Van Roozendaal,dutch indie,119.0,38.0,-9.0,10.0,270.0,76.0,4.0,36.0,20.0
+133,Love Is A Losing Game,Amy Winehouse,british soul,165.0,56.0,-6.0,18.0,154.0,32.0,3.0,67.0,15.0
+134,Zij,Marco Borsato,dutch cabaret,18.0,40.0,-9.0,9.0,245.0,45.0,4.0,52.0,19.0
+135,Tribute,Tenacious D,alternative metal,94.0,77.0,-6.0,9.0,248.0,18.0,7.0,59.0,21.0
+136,You Know I'm No Good,Amy Winehouse,british soul,103.0,81.0,-4.0,7.0,257.0,1.0,3.0,74.0,15.0
+137,Talk,Coldplay,permanent wave,120.0,56.0,-11.0,16.0,311.0,1.0,3.0,63.0,17.0
+138,Love Is A Battlefield,Pat Benatar,album rock,91.0,63.0,-12.0,10.0,245.0,1.0,5.0,54.0,20.0
+139,Home,Michael Bublé,adult standards,128.0,37.0,-9.0,11.0,226.0,84.0,3.0,64.0,16.0
+140,Sonne,Rammstein,alternative metal,75.0,92.0,-5.0,40.0,272.0,1.0,9.0,60.0,21.0
+141,I Gotta Feeling,The Black Eyed Peas,dance pop,128.0,77.0,-6.0,51.0,289.0,9.0,3.0,69.0,13.0
+142,She Sells Sanctuary,The Cult,album rock,139.0,77.0,-9.0,13.0,253.0,0.0,3.0,63.0,22.0
+143,Alie,Normaal,dutch rock,93.0,77.0,-11.0,6.0,181.0,14.0,6.0,42.0,14.0
+144,Red Red Wine,UB40,reggae fusion,89.0,47.0,-9.0,27.0,184.0,0.0,5.0,74.0,22.0
+145,A Little Less Conversation - JXL Radio Edit Remix,Elvis Presley,adult standards,115.0,97.0,-6.0,13.0,212.0,0.0,5.0,64.0,20.0
+146,Love You More,Racoon,dutch indie,171.0,20.0,-11.0,11.0,197.0,76.0,3.0,43.0,17.0
+147,Old Man,Neil Young,album rock,141.0,30.0,-12.0,10.0,203.0,44.0,3.0,44.0,17.0
+148,Zij Maakt Het Verschil,De Poema's,dutch pop,173.0,55.0,-8.0,12.0,280.0,33.0,4.0,54.0,18.0
+149,I Want To Hold Your Hand - Remastered 2015,The Beatles,british invasion,131.0,72.0,-6.0,31.0,146.0,39.0,5.0,75.0,21.0
+150,Black Magic Woman,Santana,blues rock,124.0,55.0,-7.0,9.0,196.0,68.0,3.0,62.0,15.0
+151,Set The Fire To The Third Bar,Snow Patrol,irish rock,96.0,38.0,-7.0,8.0,204.0,52.0,3.0,49.0,15.0
+152,Ghost Love Score,Nightwish,finnish metal,101.0,78.0,-5.0,29.0,602.0,1.0,4.0,38.0,18.0
+153,Going To A Town,Rufus Wainwright,canadian pop,124.0,46.0,-7.0,10.0,245.0,72.0,3.0,38.0,15.0
+154,Is Dit Alles,Doe Maar,dutch cabaret,121.0,41.0,-14.0,5.0,324.0,46.0,13.0,44.0,14.0
+155,A Gentleman's Excuse Me,Fish,album rock,126.0,17.0,-14.0,32.0,259.0,86.0,4.0,44.0,14.0
+156,God Put a Smile upon Your Face,Coldplay,permanent wave,127.0,56.0,-6.0,4.0,297.0,18.0,3.0,64.0,19.0
+157,Heartbreak Warfare,John Mayer,neo mellow,97.0,55.0,-8.0,30.0,270.0,19.0,2.0,66.0,12.0
+158,Sailing to Philadelphia,Mark Knopfler,classic rock,99.0,48.0,-10.0,9.0,353.0,64.0,2.0,39.0,16.0
+159,Accidentally In Love,Counting Crows,alternative rock,138.0,93.0,-4.0,9.0,189.0,4.0,4.0,59.0,18.0
+160,It's Raining Men,The Weather Girls,disco,136.0,93.0,-6.0,70.0,212.0,46.0,16.0,58.0,13.0
+161,One Word,Anouk,dutch indie,92.0,57.0,-8.0,11.0,243.0,10.0,3.0,52.0,18.0
+162,Goodnight Saigon,Billy Joel,album rock,129.0,39.0,-14.0,7.0,423.0,13.0,6.0,46.0,21.0
+163,Moonlight Shadow,Mike Oldfield,album rock,129.0,72.0,-8.0,36.0,218.0,29.0,3.0,64.0,12.0
+164,Zing - Vecht - Huil - Bid - Lach - Werk En Bewonder,Ramses Shaffy,dutch cabaret,130.0,32.0,-17.0,97.0,281.0,53.0,8.0,41.0,15.0
+165,Uprising,Muse,modern rock,128.0,91.0,-4.0,12.0,305.0,0.0,8.0,76.0,12.0
+166,My Immortal,Evanescence,alternative metal,79.0,27.0,-9.0,13.0,263.0,86.0,4.0,74.0,19.0
+167,Feel Like Flying,Racoon,dutch indie,98.0,69.0,-7.0,10.0,213.0,6.0,3.0,41.0,17.0
+168,Everything,Michael Bublé,adult standards,123.0,69.0,-5.0,9.0,212.0,39.0,3.0,73.0,15.0
+169,Hey There Delilah,Plain White T's,neo mellow,104.0,29.0,-11.0,11.0,233.0,87.0,3.0,80.0,17.0
+170,Speeltuin,Marco Borsato,dutch cabaret,112.0,8.0,-16.0,11.0,135.0,92.0,5.0,50.0,19.0
+171,"Comptine d'un autre été, l'après-midi",Yann Tiersen,bow pop,100.0,19.0,-15.0,11.0,141.0,99.0,5.0,56.0,20.0
+172,Sweet Goodbyes,Krezip,dutch indie,110.0,33.0,-9.0,11.0,193.0,74.0,3.0,56.0,13.0
+173,The Man Who Can't Be Moved,The Script,celtic rock,100.0,63.0,-5.0,10.0,241.0,43.0,3.0,64.0,14.0
+174,"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",John Mayer,neo mellow,173.0,30.0,-13.0,70.0,264.0,77.0,3.0,75.0,13.0
+175,Halo,Beyoncé,dance pop,80.0,72.0,-6.0,6.0,262.0,27.0,6.0,78.0,13.0
+176,Hollereer,De Jeugd Van Tegenwoordig,dutch hip hop,190.0,76.0,-7.0,10.0,346.0,3.0,24.0,46.0,13.0
+177,Hier,BLØF,dutch pop,164.0,76.0,-8.0,14.0,248.0,0.0,3.0,40.0,21.0
+178,Ice Queen,Within Temptation,dutch metal,92.0,57.0,-8.0,11.0,319.0,4.0,3.0,47.0,19.0
+179,Another 45 Miles,Golden Earring,album rock,91.0,59.0,-10.0,23.0,284.0,28.0,3.0,50.0,13.0
+180,Like a Hurricane - 2003 Remaster,Neil Young,album rock,114.0,83.0,-5.0,16.0,501.0,1.0,4.0,49.0,18.0
+181,Father & Friend,Alain Clark,dutch pop,98.0,62.0,-9.0,7.0,256.0,51.0,3.0,35.0,15.0
+182,"(I've Had) The Time of My Life - From ""Dirty Dancing"" Soundtrack",Bill Medley,soft rock,109.0,78.0,-8.0,6.0,289.0,9.0,5.0,70.0,17.0
+183,The Blower's Daughter,Damien Rice,acoustic pop,133.0,20.0,-14.0,34.0,287.0,13.0,3.0,56.0,18.0
+184,Magnificent,U2,irish rock,115.0,72.0,-6.0,11.0,324.0,0.0,3.0,44.0,13.0
+185,Virtual Insanity - Remastered,Jamiroquai,acid jazz,92.0,95.0,-5.0,14.0,229.0,13.0,11.0,69.0,16.0
+186,Belle Hélène,Doe Maar,dutch cabaret,138.0,56.0,-10.0,8.0,170.0,11.0,4.0,49.0,14.0
+187,Go With The Flow,Queens of the Stone Age,alternative metal,159.0,99.0,-4.0,83.0,187.0,1.0,10.0,58.0,19.0
+188,Sound Of The Screameng Day,Golden Earrings,dutch prog,138.0,55.0,-8.0,29.0,171.0,0.0,3.0,26.0,13.0
+189,Plug in Baby,Muse,modern rock,136.0,97.0,-4.0,11.0,218.0,0.0,5.0,53.0,21.0
+190,Heavy Cross,Gossip,alternative dance,120.0,69.0,-4.0,14.0,243.0,8.0,3.0,59.0,13.0
+191,Nederwiet,Doe Maar,dutch cabaret,131.0,71.0,-9.0,6.0,414.0,46.0,19.0,39.0,14.0
+192,Heart Of Glass,Blondie,candy pop,115.0,70.0,-8.0,6.0,252.0,0.0,3.0,52.0,16.0
+193,The Real Slim Shady,Eminem,detroit hip hop,105.0,66.0,-4.0,5.0,284.0,3.0,6.0,80.0,22.0
+194,Stuck In A Moment You Can't Get Out Of,U2,irish rock,159.0,64.0,-5.0,17.0,272.0,39.0,2.0,52.0,22.0
+195,Tumble and Fall,JOHAN,dutch indie,170.0,61.0,-7.0,9.0,209.0,2.0,3.0,36.0,21.0
+196,Les lacs du Connemara,Michel Sardou,chanson,112.0,59.0,-10.0,63.0,364.0,57.0,5.0,59.0,17.0
+197,Hier Kom Ik Weg,Daniël Lohues,dutch indie,92.0,38.0,-10.0,13.0,208.0,85.0,3.0,39.0,13.0
+198,Starlight,Muse,modern rock,122.0,87.0,-4.0,21.0,240.0,0.0,3.0,73.0,15.0
+199,Dakota,Stereophonics,britpop,147.0,93.0,-3.0,9.0,297.0,13.0,7.0,68.0,17.0
+200,Time To Say Goodbye (Con Te Partirò),Sarah Brightman,operatic pop,105.0,44.0,-7.0,10.0,246.0,91.0,3.0,59.0,16.0
+201,Green Eyes,Coldplay,permanent wave,130.0,41.0,-9.0,23.0,223.0,54.0,3.0,63.0,20.0
+202,Silence (feat. Sarah McLachlan) - DJ Tiësto's In Search of Sunrise Edit,Delerium,trance,138.0,85.0,-6.0,6.0,235.0,1.0,6.0,58.0,17.0
+203,De Kapitein Deel II,Acda en de Munnik,dutch cabaret,115.0,61.0,-11.0,11.0,181.0,41.0,3.0,51.0,22.0
+204,Supermassive Black Hole,Muse,modern rock,120.0,92.0,-4.0,9.0,212.0,5.0,4.0,73.0,16.0
+205,Pak Maar M'n Hand,Nick & Simon,dutch pop,166.0,57.0,-5.0,11.0,212.0,38.0,3.0,59.0,14.0
+206,De Bom,Doe Maar,dutch cabaret,133.0,81.0,-8.0,12.0,161.0,31.0,4.0,49.0,14.0
+207,Bombay,Golden Earring,album rock,125.0,92.0,-7.0,2.0,234.0,2.0,5.0,34.0,13.0
+208,Mary Jane's Last Dance,Tom Petty and the Heartbreakers,album rock,170.0,66.0,-9.0,33.0,274.0,3.0,6.0,72.0,14.0
+209,Oerend Hard,Normaal,dutch rock,127.0,66.0,-10.0,8.0,225.0,12.0,10.0,52.0,13.0
+210,Society,Eddie Vedder,permanent wave,162.0,33.0,-11.0,11.0,236.0,90.0,3.0,67.0,14.0
+211,White Flag,Dido,dance pop,170.0,54.0,-7.0,9.0,241.0,31.0,4.0,54.0,19.0
+212,Heaven Must Be Missing An Angel - Pt. 1,Tavares,adult standards,117.0,75.0,-9.0,39.0,394.0,1.0,3.0,49.0,18.0
+213,Wake Me up When September Ends,Green Day,modern rock,105.0,81.0,-5.0,10.0,286.0,2.0,3.0,77.0,17.0
+214,Can't Stop,Red Hot Chili Peppers,alternative rock,91.0,94.0,-3.0,17.0,269.0,2.0,5.0,80.0,19.0
+215,Driving Home for Christmas,Chris Rea,art rock,180.0,66.0,-9.0,21.0,240.0,33.0,4.0,80.0,15.0
+216,Mutter,Rammstein,alternative metal,116.0,62.0,-7.0,13.0,269.0,2.0,3.0,51.0,21.0
+217,Pa,Doe Maar,dutch cabaret,129.0,59.0,-12.0,11.0,219.0,43.0,5.0,41.0,13.0
+218,Blauw,The Scene,belgian rock,135.0,75.0,-7.0,14.0,236.0,0.0,3.0,47.0,15.0
+219,Spicks And Specks,Bee Gees,adult standards,123.0,63.0,-7.0,28.0,172.0,78.0,3.0,47.0,20.0
+220,Stan,Eminem,detroit hip hop,80.0,77.0,-4.0,52.0,404.0,4.0,24.0,75.0,21.0
+221,Beautiful,Christina Aguilera,dance pop,76.0,57.0,-4.0,11.0,239.0,58.0,3.0,71.0,20.0
+222,Gravity,John Mayer,neo mellow,124.0,33.0,-10.0,24.0,246.0,73.0,3.0,75.0,15.0
+223,Leave the Light On,Beth Hart,blues rock,142.0,48.0,-6.0,10.0,244.0,26.0,3.0,32.0,12.0
+224,Ruthless Queen,Kayak,dutch prog,124.0,46.0,-10.0,20.0,291.0,8.0,3.0,32.0,13.0
+225,Everlong - Acoustic Version,Foo Fighters,alternative metal,144.0,34.0,-11.0,11.0,251.0,91.0,3.0,69.0,13.0
+226,Here Without You,3 Doors Down,alternative metal,144.0,55.0,-7.0,13.0,239.0,5.0,2.0,75.0,19.0
+227,One,Mary J. Blige,dance pop,186.0,87.0,-3.0,13.0,260.0,8.0,8.0,61.0,16.0
+228,Mijn Houten Hart,De Poema's,dutch pop,70.0,59.0,-6.0,9.0,259.0,46.0,3.0,45.0,18.0
+229,Mad World (Feat. Michael Andrews),Gary Jules,neo mellow,174.0,6.0,-17.0,10.0,190.0,98.0,4.0,70.0,20.0
+230,Sinds 1 Dag Of 2 (32 Jaar),Doe Maar,dutch cabaret,114.0,60.0,-11.0,14.0,201.0,28.0,4.0,53.0,14.0
+231,Feeling Good,Michael Bublé,adult standards,115.0,55.0,-7.0,12.0,237.0,53.0,4.0,64.0,17.0
+232,The Wall Street Shuffle,10cc,album rock,98.0,50.0,-11.0,11.0,242.0,16.0,3.0,46.0,18.0
+233,Song 2,Blur,alternative rock,130.0,71.0,-7.0,7.0,122.0,0.0,9.0,64.0,22.0
+234,I Would Stay,Krezip,dutch indie,95.0,26.0,-11.0,12.0,232.0,82.0,4.0,55.0,21.0
+235,Piano Man,Billy Joel,album rock,179.0,47.0,-9.0,32.0,336.0,60.0,3.0,70.0,21.0
+236,Fireflies,Owl City,pop,180.0,66.0,-7.0,12.0,228.0,3.0,4.0,79.0,12.0
+237,Lost,Anouk,dutch indie,90.0,25.0,-10.0,14.0,222.0,22.0,3.0,51.0,18.0
+238,Woman,Wolfmother,alternative rock,113.0,95.0,-4.0,16.0,176.0,0.0,18.0,62.0,16.0
+239,Where Is The Love?,The Black Eyed Peas,dance pop,94.0,70.0,-3.0,13.0,273.0,11.0,20.0,66.0,19.0
+240,Yellow,Coldplay,permanent wave,173.0,66.0,-7.0,23.0,267.0,0.0,3.0,82.0,22.0
+241,This Is The Life,Amy Macdonald,scottish singer-songwriter,95.0,88.0,-5.0,7.0,184.0,27.0,3.0,41.0,14.0
+242,Wicked Game,Chris Isaak,mellow gold,113.0,55.0,-8.0,9.0,287.0,74.0,3.0,70.0,15.0
+243,Breakeven,The Script,celtic rock,94.0,70.0,-5.0,8.0,261.0,17.0,2.0,74.0,13.0
+244,Not An Addict,K's Choice,alternative pop,169.0,65.0,-7.0,12.0,288.0,0.0,4.0,43.0,13.0
+245,So Incredible,Ilse DeLange,dutch americana,104.0,86.0,-6.0,72.0,177.0,11.0,3.0,54.0,13.0
+246,Mr Rock & Roll,Amy Macdonald,scottish singer-songwriter,111.0,87.0,-5.0,11.0,215.0,3.0,3.0,30.0,14.0
+247,Will You Be There - Single Version,Michael Jackson,pop,83.0,63.0,-7.0,8.0,220.0,51.0,7.0,53.0,17.0
+248,Vlinder,Rowwen Hèze,carnaval limburg,175.0,79.0,-5.0,38.0,231.0,16.0,4.0,33.0,19.0
+249,Cambodia,Kim Wilde,dance pop,111.0,57.0,-8.0,11.0,236.0,1.0,3.0,51.0,16.0
+250,Back To Black,Amy Winehouse,british soul,123.0,73.0,-3.0,10.0,240.0,12.0,4.0,77.0,16.0
+251,Dochters,Marco Borsato,dutch cabaret,128.0,52.0,-10.0,11.0,270.0,57.0,3.0,57.0,14.0
+252,Hocus Pocus,Focus,album rock,184.0,82.0,-6.0,28.0,403.0,2.0,15.0,53.0,20.0
+253,Mensch,Herbert Grönemeyer,german pop,174.0,78.0,-6.0,8.0,270.0,3.0,8.0,47.0,13.0
+254,Amsterdam,Coldplay,permanent wave,73.0,18.0,-10.0,12.0,319.0,84.0,3.0,57.0,20.0
+255,Time Is Running Out,Muse,modern rock,118.0,84.0,-6.0,9.0,237.0,0.0,6.0,69.0,18.0
+256,Rain Down on Me,Kane,dutch pop,133.0,88.0,-3.0,11.0,247.0,0.0,6.0,47.0,18.0
+257,Denis,Blondie,candy pop,139.0,77.0,-7.0,6.0,139.0,0.0,5.0,42.0,16.0
+258,Hometown Glory,Adele,british soul,123.0,34.0,-9.0,10.0,269.0,96.0,4.0,59.0,14.0
+259,Live And Let Die - Live,Paul McCartney,album rock,150.0,93.0,-3.0,97.0,185.0,36.0,8.0,60.0,18.0
+260,I Still Cry,Ilse DeLange,dutch americana,98.0,35.0,-9.0,13.0,274.0,32.0,3.0,30.0,21.0
+261,Ren Lenny Ren,Acda en de Munnik,dutch cabaret,110.0,87.0,-5.0,33.0,233.0,1.0,5.0,43.0,20.0
+262,In My Place,Coldplay,permanent wave,145.0,59.0,-5.0,30.0,227.0,6.0,3.0,70.0,19.0
+263,Numb,Linkin Park,alternative metal,110.0,86.0,-4.0,64.0,186.0,0.0,4.0,81.0,19.0
+264,Slow Dancing in a Burning Room,John Mayer,neo mellow,134.0,36.0,-9.0,8.0,242.0,57.0,3.0,76.0,16.0
+265,Empire State Of Mind,JAY-Z,east coast hip hop,174.0,96.0,-2.0,46.0,277.0,3.0,39.0,77.0,12.0
+266,Drops of Jupiter,Train,dance pop,79.0,64.0,-6.0,15.0,260.0,15.0,3.0,77.0,20.0
+267,Omarm,BLØF,dutch pop,184.0,44.0,-9.0,10.0,252.0,41.0,3.0,46.0,19.0
+268,(What A) Wonderful World,Sam Cooke,adult standards,129.0,51.0,-10.0,46.0,125.0,63.0,3.0,71.0,21.0
+269,Teardrops,Womack & Womack,disco,133.0,72.0,-10.0,18.0,229.0,9.0,5.0,61.0,20.0
+270,The Rising,Bruce Springsteen,classic rock,110.0,76.0,-6.0,9.0,287.0,7.0,3.0,53.0,19.0
+271,Snow (Hey Oh),Red Hot Chili Peppers,alternative rock,105.0,90.0,-4.0,12.0,335.0,12.0,5.0,80.0,16.0
+272,I Don't Wanna Hurt,Anouk,dutch indie,79.0,48.0,-7.0,10.0,213.0,60.0,3.0,46.0,15.0
+273,Ordinary People,John Legend,neo mellow,67.0,13.0,-14.0,9.0,281.0,93.0,8.0,69.0,17.0
+274,Iedereen Is Van De Wereld,The Scene,belgian rock,118.0,73.0,-7.0,29.0,228.0,0.0,4.0,50.0,15.0
+275,Gold,Spandau Ballet,dance rock,143.0,74.0,-8.0,10.0,231.0,26.0,4.0,66.0,22.0
+276,All Night Long (All Night) - Single Version,Lionel Richie,adult standards,109.0,58.0,-12.0,5.0,260.0,12.0,5.0,64.0,19.0
+277,Can't Stop Loving You - 2016 Remaster,Phil Collins,mellow gold,100.0,78.0,-6.0,11.0,256.0,1.0,3.0,62.0,19.0
+278,City Of Blinding Lights,U2,irish rock,139.0,77.0,-4.0,11.0,346.0,0.0,3.0,60.0,17.0
+279,Munich,Editors,alternative dance,149.0,88.0,-4.0,32.0,226.0,0.0,5.0,61.0,16.0
+280,Hey Ya!,OutKast,atl hip hop,80.0,97.0,-2.0,18.0,235.0,10.0,7.0,79.0,18.0
+281,There Must Be an Angel (Playing with My Heart),Eurythmics,dance pop,112.0,78.0,-5.0,8.0,281.0,28.0,4.0,40.0,17.0
+282,Laat Me / Vivre - Lange Versie,Alderliefste met Ramses Shaffy en Liesbeth List,dutch pop,81.0,41.0,-9.0,16.0,386.0,60.0,3.0,43.0,17.0
+283,Watskeburt?!,De Jeugd Van Tegenwoordig,dutch hip hop,130.0,49.0,-8.0,23.0,376.0,1.0,23.0,55.0,13.0
+284,Feel,Robbie Williams,dance pop,98.0,73.0,-7.0,14.0,264.0,1.0,3.0,72.0,20.0
+285,Lady Jane - (Original Single Mono Version),The Rolling Stones,album rock,305.0,47.0,-12.0,9.0,190.0,34.0,5.0,34.0,18.0
+286,La Isla Bonita,Madonna,dance pop,100.0,83.0,-5.0,6.0,243.0,39.0,4.0,66.0,13.0
+287,Go Like Elijah,Chi Coltrane,alternative pop rock,134.0,88.0,-5.0,17.0,242.0,4.0,4.0,40.0,12.0
+288,Chop Suey!,System Of A Down,alternative metal,127.0,93.0,-4.0,13.0,210.0,0.0,12.0,80.0,21.0
+289,Sorry - (Live in Tivoli),Kyteman,dutch indie,68.0,47.0,-9.0,66.0,150.0,94.0,4.0,47.0,13.0
+290,Black or White - Single Version,Michael Jackson,pop,115.0,89.0,-4.0,9.0,203.0,8.0,5.0,64.0,16.0
+291,Shut Your Eyes,Snow Patrol,irish rock,125.0,74.0,-6.0,8.0,197.0,15.0,3.0,42.0,16.0
+292,Ironic,Alanis Morissette,alternative rock,171.0,64.0,-6.0,19.0,229.0,25.0,6.0,62.0,17.0
+293,I Bet You Look Good On The Dancefloor,Arctic Monkeys,garage rock,103.0,95.0,-4.0,38.0,174.0,0.0,4.0,58.0,15.0
+294,Hurt,Johnny Cash,arkansas country,90.0,39.0,-8.0,9.0,217.0,65.0,3.0,75.0,20.0
+295,Vogue,Madonna,dance pop,116.0,88.0,-6.0,42.0,317.0,0.0,4.0,66.0,12.0
+296,If I Were a Boy,Beyoncé,dance pop,90.0,52.0,-6.0,35.0,249.0,11.0,3.0,68.0,14.0
+297,Dyna-Mite,Mud,classic uk pop,141.0,92.0,-5.0,20.0,177.0,0.0,6.0,40.0,17.0
+298,Une Belle Histoire (Een Mooi Verhaal),Alderliefste,dutch pop,87.0,68.0,-8.0,18.0,268.0,36.0,3.0,38.0,13.0
+299,Sandstorm - Radio Edit,Darude,eurodance,136.0,98.0,-8.0,8.0,225.0,17.0,5.0,61.0,14.0
+300,Right Next Door (Because Of Me),Robert Cray,blues,87.0,65.0,-8.0,5.0,259.0,23.0,5.0,52.0,20.0
+301,Hald Mich 'S Vas,Neet Oét Lottum,carnaval limburg,179.0,54.0,-8.0,12.0,251.0,29.0,4.0,39.0,18.0
+302,Like a Prayer,Madonna,dance pop,111.0,84.0,-5.0,18.0,343.0,26.0,4.0,71.0,13.0
+303,Rockin' All Over The World,Status Quo,album rock,131.0,96.0,-5.0,51.0,217.0,13.0,4.0,47.0,16.0
+304,Blue Hotel,Chris Isaak,mellow gold,149.0,81.0,-4.0,12.0,192.0,0.0,3.0,42.0,16.0
+305,Dear Mr. President,P!nk,dance pop,128.0,30.0,-9.0,11.0,281.0,85.0,4.0,43.0,13.0
+306,Stiekem Gedanst,Toontje Lager,dutch rock,96.0,63.0,-10.0,60.0,215.0,21.0,6.0,53.0,14.0
+307,Human,The Killers,modern rock,135.0,80.0,-8.0,9.0,245.0,0.0,6.0,73.0,14.0
+308,Lady Madonna - Remastered 2015,The Beatles,british invasion,110.0,78.0,-5.0,22.0,137.0,14.0,3.0,63.0,22.0
+309,Both Sides Now,Joni Mitchell,canadian folk,78.0,14.0,-14.0,10.0,345.0,87.0,3.0,65.0,21.0
+310,God Is a DJ,Faithless,big beat,131.0,90.0,-7.0,17.0,209.0,18.0,4.0,57.0,16.0
+311,Viva La Vida,Coldplay,permanent wave,138.0,62.0,-7.0,11.0,242.0,9.0,3.0,78.0,14.0
+312,Kids,MGMT,alternative dance,123.0,93.0,-4.0,36.0,303.0,0.0,7.0,76.0,14.0
+313,Bend & Break,Keane,modern rock,138.0,84.0,-4.0,16.0,220.0,0.0,3.0,43.0,18.0
+314,We Can Work It Out - Remastered 2015,The Beatles,british invasion,106.0,68.0,-9.0,18.0,136.0,6.0,3.0,63.0,21.0
+315,Sing for Absolution,Muse,modern rock,170.0,68.0,-7.0,9.0,295.0,46.0,3.0,57.0,17.0
+316,Superstition - Single Version,Stevie Wonder,adult standards,100.0,63.0,-12.0,4.0,245.0,4.0,7.0,77.0,20.0
+317,Vertigo,U2,irish rock,140.0,82.0,-4.0,15.0,194.0,0.0,6.0,65.0,18.0
+318,By the Way,Red Hot Chili Peppers,alternative rock,122.0,97.0,-5.0,10.0,217.0,3.0,11.0,74.0,20.0
+319,Hey Jude,The Beatles,british invasion,74.0,63.0,-7.0,40.0,239.0,9.0,2.0,63.0,15.0
+320,November,Rowwen Hèze,carnaval limburg,186.0,40.0,-9.0,22.0,296.0,63.0,4.0,35.0,17.0
+321,Geef Mij Je Angst,Guus Meeuwis,dutch pop,81.0,56.0,-11.0,97.0,224.0,75.0,5.0,54.0,15.0
+322,Stuck In The Middle With You,Stealers Wheel,classic rock,124.0,56.0,-10.0,6.0,204.0,9.0,4.0,72.0,13.0
+323,Het Regent Zonnestralen,Acda en de Munnik,dutch cabaret,108.0,75.0,-6.0,11.0,226.0,41.0,3.0,57.0,16.0
+324,Violet Hill,Coldplay,permanent wave,76.0,58.0,-8.0,12.0,223.0,6.0,4.0,61.0,14.0
+325,Dog Days Are Over,Florence + The Machine,art pop,150.0,81.0,-5.0,12.0,252.0,4.0,8.0,69.0,12.0
+326,Beautiful Day,U2,irish rock,136.0,93.0,-6.0,36.0,246.0,1.0,5.0,63.0,22.0
+327,Major Tom,Peter Schilling,german pop,164.0,54.0,-6.0,22.0,274.0,3.0,6.0,48.0,16.0
+328,An End Has a Start,Editors,alternative dance,150.0,92.0,-2.0,34.0,226.0,0.0,5.0,53.0,14.0
+329,Lost!,Coldplay,permanent wave,87.0,78.0,-8.0,38.0,236.0,1.0,4.0,53.0,13.0
+330,What It Is,Mark Knopfler,classic rock,122.0,67.0,-7.0,28.0,298.0,64.0,3.0,43.0,22.0
+331,Blue Monday - 2016 Remaster,New Order,alternative rock,130.0,70.0,-10.0,8.0,451.0,0.0,6.0,73.0,17.0
+332,Behind Blue Eyes,Limp Bizkit,alternative metal,120.0,49.0,-7.0,12.0,270.0,50.0,3.0,72.0,18.0
+333,Rehab,Amy Winehouse,british soul,72.0,87.0,-3.0,40.0,214.0,5.0,7.0,74.0,16.0
+334,Bird of Paradise,Snowy White,blues rock,144.0,44.0,-11.0,32.0,281.0,60.0,4.0,52.0,18.0
+335,I'm Yours,Jason Mraz,acoustic pop,151.0,46.0,-8.0,11.0,242.0,60.0,5.0,82.0,14.0
+336,Onderweg,Abel,dutch rock,98.0,68.0,-6.0,8.0,190.0,35.0,2.0,59.0,22.0
+337,Mr. Bojangles - Single Version,Sammy Davis Jr.,adult standards,117.0,18.0,-13.0,11.0,343.0,75.0,5.0,56.0,20.0
+338,Unwritten,Natasha Bedingfield,dance pop,100.0,80.0,-6.0,8.0,259.0,1.0,4.0,76.0,17.0
+339,Resistance,Muse,modern rock,135.0,77.0,-7.0,11.0,347.0,6.0,5.0,63.0,12.0
+340,Bedshaped,Keane,modern rock,75.0,41.0,-7.0,10.0,276.0,61.0,3.0,41.0,17.0
+341,Mia,Gorki,belgian rock,114.0,30.0,-17.0,10.0,332.0,4.0,3.0,52.0,19.0
+342,You Oughta Know,Alanis Morissette,alternative rock,105.0,86.0,-7.0,87.0,250.0,23.0,7.0,52.0,16.0
+343,Overcome,Live,alternative metal,146.0,40.0,-7.0,10.0,256.0,78.0,3.0,49.0,20.0
+344,Stand My Ground,Within Temptation,dutch metal,88.0,87.0,-4.0,12.0,268.0,5.0,5.0,56.0,18.0
+345,Chasing Cars,Snow Patrol,irish rock,104.0,59.0,-5.0,13.0,268.0,21.0,3.0,78.0,16.0
+346,Dani California,Red Hot Chili Peppers,alternative rock,96.0,91.0,-2.0,35.0,282.0,2.0,4.0,76.0,16.0
+347,Unfinished Sympathy,Massive Attack,big beat,114.0,89.0,-6.0,51.0,312.0,1.0,3.0,53.0,16.0
+348,Nine Million Bicycles,Katie Melua,uk pop,82.0,25.0,-16.0,12.0,197.0,52.0,3.0,61.0,17.0
+349,You're Beautiful,James Blunt,neo mellow,82.0,48.0,-10.0,9.0,209.0,63.0,3.0,76.0,17.0
+350,It's My Life,Bon Jovi,glam metal,120.0,91.0,-4.0,35.0,224.0,3.0,5.0,77.0,22.0
+351,Politik,Coldplay,permanent wave,171.0,48.0,-8.0,11.0,319.0,4.0,3.0,62.0,19.0
+352,Mooie Dag,BLØF,dutch pop,85.0,58.0,-11.0,14.0,279.0,11.0,3.0,40.0,19.0
+353,In Nije Dei,De Kast,dutch pop,130.0,49.0,-9.0,96.0,296.0,51.0,3.0,38.0,18.0
+354,Sex on Fire,Kings of Leon,modern rock,153.0,91.0,-6.0,14.0,203.0,0.0,5.0,79.0,14.0
+355,Hallelujah,Lisa Lois,dutch pop,182.0,24.0,-13.0,11.0,226.0,24.0,3.0,49.0,13.0
+356,Somewhere Only We Know,Keane,modern rock,172.0,66.0,-4.0,8.0,236.0,8.0,3.0,67.0,17.0
+357,Sunrise,Simply Red,british soul,106.0,73.0,-5.0,10.0,200.0,0.0,3.0,55.0,18.0
+358,How You Remind Me,Nickelback,alternative metal,172.0,76.0,-5.0,10.0,224.0,0.0,3.0,78.0,21.0
+359,When You Say Nothing At All,Ronan Keating,dance pop,174.0,45.0,-11.0,8.0,257.0,16.0,3.0,74.0,21.0
+360,Hard Sun,Eddie Vedder,permanent wave,143.0,83.0,-7.0,32.0,322.0,5.0,3.0,66.0,14.0
+361,Belfast Child,Simple Minds,art rock,81.0,39.0,-13.0,10.0,404.0,30.0,5.0,43.0,13.0
+362,Feel Good Inc.,Gorillaz,alternative hip hop,139.0,71.0,-7.0,61.0,223.0,1.0,18.0,80.0,17.0
+363,Alles Is Liefde,BLØF,dutch pop,144.0,77.0,-6.0,17.0,210.0,0.0,4.0,36.0,14.0
+364,Jerusalem,Anouk,dutch indie,132.0,84.0,-7.0,8.0,236.0,0.0,4.0,40.0,17.0
+365,Mr Bojangles,Robbie Williams,dance pop,137.0,33.0,-11.0,18.0,198.0,72.0,11.0,58.0,20.0
+366,Tranen Gelachen,Guus Meeuwis,dutch pop,186.0,54.0,-8.0,12.0,203.0,16.0,4.0,50.0,15.0
+367,When The Sun Goes Down,Arctic Monkeys,garage rock,169.0,88.0,-5.0,12.0,202.0,3.0,20.0,57.0,16.0
+368,Frozen,Madonna,dance pop,108.0,74.0,-8.0,18.0,379.0,51.0,3.0,55.0,13.0
+369,The Racing Rats,Editors,alternative dance,153.0,84.0,-4.0,8.0,258.0,0.0,5.0,43.0,15.0
+370,Poker Face,Lady Gaga,dance pop,119.0,81.0,-5.0,12.0,237.0,12.0,8.0,69.0,13.0
+371,Life in Technicolor ii,Coldplay,permanent wave,131.0,91.0,-7.0,25.0,245.0,0.0,4.0,47.0,14.0
+372,One,Johnny Cash,arkansas country,94.0,50.0,-8.0,39.0,232.0,61.0,3.0,47.0,21.0
+373,Ruby,Kaiser Chiefs,alternative rock,93.0,93.0,-3.0,8.0,203.0,1.0,5.0,62.0,15.0
+374,Het Land Van,Lange Frans,dutch hip hop,83.0,53.0,-9.0,14.0,230.0,89.0,17.0,49.0,17.0
+375,Bad Romance,Lady Gaga,dance pop,119.0,92.0,-4.0,8.0,295.0,0.0,4.0,79.0,13.0
+376,Elevation,U2,irish rock,110.0,80.0,-8.0,5.0,226.0,0.0,4.0,49.0,21.0
+377,Trouble,Coldplay,permanent wave,140.0,55.0,-7.0,17.0,273.0,19.0,3.0,71.0,22.0
+378,De Peel In Brand,Rowwen Hèze,carnaval limburg,199.0,36.0,-13.0,14.0,205.0,61.0,4.0,33.0,17.0
+379,Black Betty,Ram Jam,album rock,117.0,73.0,-9.0,16.0,236.0,0.0,9.0,61.0,16.0
+380,Wrong,Novastar,belgian rock,90.0,66.0,-8.0,55.0,214.0,14.0,4.0,48.0,22.0
+381,Never Be Clever,Herman Brood & His Wild Romance,dutch indie,138.0,89.0,-5.0,32.0,183.0,54.0,4.0,41.0,21.0
+382,Undisclosed Desires,Muse,modern rock,116.0,59.0,-7.0,8.0,235.0,1.0,3.0,65.0,12.0
+383,Auto Vliegtuug,Rowwen Hèze,carnaval limburg,96.0,52.0,-7.0,16.0,238.0,48.0,2.0,34.0,17.0
+384,Meer Dan Een Ander,Van Dik Hout,dutch cabaret,94.0,18.0,-13.0,7.0,223.0,81.0,3.0,34.0,13.0
+385,Brabant,Guus Meeuwis,dutch pop,82.0,47.0,-7.0,10.0,210.0,56.0,3.0,61.0,19.0
+386,Mother Earth,Within Temptation,dutch metal,105.0,59.0,-6.0,24.0,330.0,2.0,3.0,45.0,19.0
+387,One More Time,Daft Punk,electro,123.0,70.0,-9.0,33.0,320.0,2.0,13.0,75.0,21.0
+388,(You're The) Devil in Disguise,Elvis Presley,adult standards,123.0,73.0,-8.0,11.0,140.0,57.0,17.0,65.0,20.0
+389,TRUE - Single Edit,Spandau Ballet,dance rock,97.0,55.0,-9.0,6.0,328.0,51.0,3.0,72.0,14.0
+390,Make It Wit Chu,Queens of the Stone Age,alternative metal,92.0,81.0,-5.0,13.0,290.0,36.0,3.0,59.0,15.0
+391,Bring Me To Life,Evanescence,alternative metal,95.0,94.0,-3.0,24.0,236.0,1.0,7.0,78.0,18.0
+392,Clocks,Coldplay,permanent wave,131.0,75.0,-7.0,18.0,308.0,60.0,3.0,76.0,20.0
+393,Farewell To The Fairground,White Lies,alternative dance,118.0,77.0,-5.0,12.0,257.0,0.0,4.0,54.0,13.0
+394,Bliss,Muse,modern rock,128.0,80.0,-9.0,11.0,251.0,0.0,5.0,46.0,20.0
+395,Kijk Omhoog,Nick & Simon,dutch pop,166.0,56.0,-5.0,19.0,176.0,5.0,3.0,48.0,14.0
+396,9 Crimes,Damien Rice,acoustic pop,74.0,17.0,-13.0,9.0,219.0,91.0,3.0,57.0,16.0
+397,Working On a Dream,Bruce Springsteen,classic rock,110.0,77.0,-7.0,22.0,209.0,0.0,3.0,48.0,12.0
+398,Nutbush City Limits,Ike & Tina Turner,brill building pop,77.0,89.0,-6.0,3.0,182.0,9.0,3.0,56.0,13.0
+399,Do They Know It's Christmas? - 1984 Version,Band Aid,electro,115.0,64.0,-7.0,10.0,223.0,16.0,4.0,84.0,18.0
+400,Changes,2Pac,g funk,111.0,66.0,-7.0,14.0,269.0,4.0,8.0,72.0,15.0
+401,Mag Ik Dan Bij Jou,Claudia De Breij,dutch cabaret,132.0,29.0,-10.0,71.0,206.0,97.0,3.0,53.0,11.0
+402,Sterrenstof,De Jeugd Van Tegenwoordig,dutch hip hop,97.0,79.0,-4.0,20.0,221.0,32.0,11.0,48.0,11.0
+403,Love Will Tear Us Apart - 2010 Remaster,Joy Division,alternative rock,147.0,90.0,-9.0,14.0,205.0,0.0,4.0,64.0,12.0
+404,Mag Het Licht Uit,De Dijk,dutch indie,113.0,42.0,-10.0,10.0,259.0,36.0,3.0,43.0,11.0
+405,Why Tell Me Why,Anita Meyer,dutch pop,112.0,77.0,-6.0,59.0,214.0,23.0,6.0,54.0,12.0
+406,Wonderful Days,Charly Lownoise,happy hardcore,174.0,92.0,-11.0,99.0,332.0,1.0,7.0,37.0,12.0
+407,Dat Komt Door Jou,Guus Meeuwis,dutch pop,134.0,53.0,-10.0,12.0,287.0,38.0,4.0,57.0,12.0
+408,Don't Give up the Fight,Racoon,dutch indie,91.0,30.0,-13.0,12.0,210.0,88.0,3.0,27.0,11.0
+409,I Follow Rivers - Live @ Giel!,Triggerfinger,belgian rock,110.0,41.0,-9.0,3.0,214.0,15.0,6.0,42.0,11.0
+410,Liverpool Rain,Racoon,dutch indie,183.0,50.0,-7.0,11.0,266.0,25.0,3.0,26.0,12.0
+411,No Mercy,Racoon,dutch indie,104.0,57.0,-6.0,11.0,165.0,9.0,3.0,36.0,11.0
+412,Peter Gunn Theme,"Emerson, Lake & Palmer",album rock,131.0,83.0,-7.0,92.0,217.0,1.0,3.0,14.0,11.0
+413,Alors on danse,Stromae,belgian pop,120.0,59.0,-9.0,7.0,206.0,9.0,8.0,61.0,12.0
+414,The Eve of the War,Jeff Wayne,classic uk pop,127.0,59.0,-9.0,11.0,263.0,8.0,4.0,28.0,12.0
+415,A Night Like This,Caro Emerald,dutch pop,123.0,71.0,-6.0,10.0,226.0,57.0,4.0,40.0,11.0
+416,Raise Your Glass,P!nk,dance pop,122.0,71.0,-5.0,3.0,203.0,0.0,8.0,76.0,12.0
+417,Verdammt ich lieb dich - Remastered,Matthias Reim,classic schlager,100.0,80.0,-7.0,9.0,220.0,50.0,7.0,38.0,12.0
+418,Christmas Lights,Coldplay,permanent wave,131.0,42.0,-9.0,8.0,242.0,13.0,3.0,84.0,11.0
+419,The Promise You Made,Cock Robin,dance rock,117.0,41.0,-14.0,15.0,227.0,38.0,4.0,48.0,11.0
+420,Back Home,Golden Earring,album rock,123.0,84.0,-6.0,10.0,232.0,6.0,5.0,37.0,11.0
+421,Times Are Changing,DI-RECT,dutch indie,123.0,81.0,-6.0,15.0,206.0,4.0,4.0,47.0,12.0
+422,Proosten,Guus Meeuwis,dutch pop,136.0,65.0,-6.0,12.0,232.0,43.0,3.0,49.0,12.0
+423,Just the Way You Are,Bruno Mars,dance pop,109.0,84.0,-5.0,9.0,221.0,2.0,4.0,80.0,12.0
+424,Need You Now,Lady Antebellum,contemporary country,108.0,72.0,-4.0,24.0,236.0,3.0,3.0,53.0,12.0
+425,Man Down,Rihanna,barbadian pop,156.0,91.0,-4.0,5.0,267.0,4.0,19.0,59.0,11.0
+426,Pyro,Kings of Leon,modern rock,115.0,61.0,-7.0,10.0,251.0,1.0,4.0,66.0,11.0
+427,You Got It,Roy Orbison,adult standards,115.0,59.0,-12.0,31.0,204.0,60.0,3.0,44.0,11.0
+428,Atmosphere - 2010 Remaster,Joy Division,alternative rock,120.0,39.0,-12.0,12.0,249.0,23.0,3.0,51.0,11.0
+429,Grenade,Bruno Mars,dance pop,110.0,56.0,-7.0,12.0,223.0,15.0,6.0,75.0,12.0
+430,Have You Ever Been Mellow,Party Animals,gabba,172.0,96.0,-4.0,25.0,188.0,20.0,5.0,47.0,12.0
+431,Back Down South,Kings of Leon,modern rock,117.0,62.0,-7.0,26.0,241.0,6.0,4.0,58.0,11.0
+432,Riverside,Agnes Obel,chamber pop,99.0,19.0,-14.0,13.0,231.0,98.0,3.0,48.0,12.0
+433,Hold On Tight,Solomon Burke,brill building pop,89.0,73.0,-6.0,16.0,324.0,9.0,3.0,38.0,12.0
+434,Someone Like You,Adele,british soul,135.0,33.0,-8.0,10.0,285.0,89.0,3.0,79.0,10.0
+435,Set Fire to the Rain,Adele,british soul,108.0,68.0,-4.0,13.0,242.0,0.0,3.0,75.0,11.0
+436,Rainbow In The Sky - K & A's Radio Blast,DJ Paul Elstak,gabba,168.0,94.0,-7.0,28.0,213.0,0.0,3.0,60.0,11.0
+437,Levels,Avicii,big room,126.0,83.0,-7.0,34.0,339.0,3.0,4.0,58.0,10.0
+438,Somebody That I Used To Know,Gotye,australian pop,129.0,50.0,-7.0,10.0,245.0,59.0,4.0,76.0,11.0
+439,Paradise,Coldplay,permanent wave,140.0,59.0,-7.0,8.0,279.0,5.0,3.0,78.0,10.0
+440,Rood,Marco Borsato,dutch cabaret,138.0,78.0,-8.0,8.0,319.0,1.0,5.0,53.0,10.0
+441,A Boy Named Sue (Live),Johnny Cash,arkansas country,105.0,46.0,-16.0,78.0,218.0,93.0,5.0,18.0,11.0
+442,Still Loving You,Scorpions,album rock,104.0,61.0,-5.0,10.0,403.0,0.0,3.0,72.0,11.0
+443,Little Black Submarines,The Black Keys,alternative rock,95.0,47.0,-8.0,11.0,251.0,16.0,4.0,65.0,10.0
+444,Walk,Foo Fighters,alternative metal,138.0,87.0,-5.0,29.0,256.0,0.0,5.0,69.0,11.0
+445,The A Team,Ed Sheeran,pop,85.0,29.0,-10.0,18.0,258.0,67.0,4.0,76.0,10.0
+446,kom terug,Spinvis,dutch indie,97.0,73.0,-6.0,20.0,231.0,2.0,3.0,47.0,11.0
+447,Prachtig mooie dag,Daniël Lohues,dutch indie,103.0,69.0,-4.0,8.0,161.0,10.0,3.0,42.0,10.0
+448,lippy kids,Elbow,britpop,155.0,20.0,-15.0,8.0,366.0,96.0,3.0,29.0,11.0
+449,Titanium (feat. Sia),David Guetta,dance pop,126.0,79.0,-4.0,13.0,245.0,7.0,10.0,67.0,11.0
+450,Faster,Within Temptation,dutch metal,120.0,93.0,-3.0,14.0,264.0,0.0,4.0,53.0,11.0
+451,Lonely Boy,The Black Keys,alternative rock,166.0,87.0,-8.0,10.0,194.0,0.0,7.0,73.0,11.0
+452,Turning Tables,Adele,british soul,80.0,45.0,-6.0,13.0,250.0,95.0,3.0,66.0,11.0
+453,Luv U More - K&A's Radio blast,DJ Paul,electro,168.0,82.0,-11.0,14.0,232.0,0.0,3.0,51.0,11.0
+454,Kan Ik Iets Voor Je Doen,De Dijk,dutch indie,79.0,73.0,-6.0,31.0,200.0,14.0,3.0,30.0,11.0
+455,Driver's Seat,Sniff 'n' The Tears,classic uk pop,133.0,80.0,-8.0,19.0,239.0,0.0,4.0,54.0,11.0
+456,Zing Voor Me,Lange Frans,dutch hip hop,82.0,52.0,-9.0,22.0,216.0,80.0,7.0,52.0,11.0
+457,Every Teardrop Is a Waterfall,Coldplay,permanent wave,118.0,73.0,-7.0,17.0,241.0,0.0,4.0,68.0,10.0
+458,Waarom Nou Jij,Marco Borsato,dutch cabaret,140.0,51.0,-8.0,13.0,245.0,12.0,3.0,40.0,11.0
+459,Mijn Vlakke Land,Jacques Brel,chanson,79.0,33.0,-11.0,8.0,173.0,26.0,5.0,33.0,11.0
+460,Rumour Has It,Adele,british soul,120.0,75.0,-5.0,9.0,221.0,64.0,5.0,65.0,11.0
+461,Keep Your Head Up,Ben Howard,british singer-songwriter,79.0,60.0,-9.0,11.0,265.0,44.0,3.0,66.0,11.0
+462,Pumped Up Kicks,Foster The People,indie pop,128.0,71.0,-6.0,10.0,240.0,14.0,3.0,84.0,11.0
+463,Happiness,Jonathan Jeremiah,dutch indie,89.0,57.0,-10.0,13.0,182.0,72.0,6.0,49.0,10.0
+464,Give Me Love,Ed Sheeran,pop,116.0,33.0,-10.0,11.0,526.0,69.0,5.0,73.0,11.0
+465,Gold on the Ceiling,The Black Keys,alternative rock,130.0,83.0,-5.0,7.0,224.0,1.0,5.0,69.0,11.0
+466,Ni**as In Paris,JAY-Z,east coast hip hop,140.0,86.0,-6.0,35.0,219.0,13.0,32.0,77.0,11.0
+467,Run the World (Girls),Beyoncé,dance pop,127.0,90.0,-4.0,37.0,236.0,0.0,14.0,75.0,10.0
+468,I Won' T Let You Down,Road Band,pop,106.0,35.0,-14.0,7.0,233.0,54.0,3.0,33.0,10.0
+469,Love On Top,Beyoncé,dance pop,94.0,75.0,-5.0,60.0,267.0,8.0,9.0,76.0,11.0
+470,Lego House,Ed Sheeran,pop,160.0,64.0,-8.0,13.0,185.0,56.0,10.0,71.0,10.0
+471,Skinny Love,Birdy,neo mellow,166.0,29.0,-8.0,12.0,201.0,95.0,5.0,75.0,11.0
+472,Dust Bowl,Joe Bonamassa,blues rock,86.0,75.0,-7.0,20.0,273.0,36.0,5.0,44.0,11.0
+473,Damn Those Eyes,Kane,dutch pop,172.0,76.0,-7.0,35.0,251.0,0.0,4.0,39.0,11.0
+474,These Days,Foo Fighters,alternative metal,135.0,66.0,-4.0,21.0,298.0,0.0,3.0,64.0,10.0
+475,Original Sin,INXS,australian rock,132.0,63.0,-7.0,6.0,319.0,1.0,4.0,42.0,11.0
+476,Terug Naar De Kust,Maggie MacNeal,nederpop,117.0,45.0,-9.0,62.0,266.0,82.0,3.0,39.0,11.0
+477,Georgia on My Mind,Ray Charles,adult standards,131.0,32.0,-8.0,19.0,215.0,86.0,3.0,49.0,10.0
+478,Charlie Brown,Coldplay,permanent wave,138.0,74.0,-7.0,33.0,285.0,2.0,4.0,67.0,10.0
+479,I've Just Lost Somebody,Golden Earring,album rock,88.0,40.0,-13.0,8.0,189.0,4.0,3.0,27.0,10.0
+480,Skyfall - Full Length,Adele,british soul,76.0,55.0,-7.0,11.0,286.0,42.0,3.0,74.0,9.0
+481,Zo Stil,BLØF,dutch pop,170.0,69.0,-7.0,11.0,237.0,4.0,3.0,54.0,9.0
+482,Holiday In Spain,Counting Crows,alternative rock,126.0,32.0,-11.0,13.0,233.0,66.0,3.0,56.0,10.0
+483,Radioactive,Imagine Dragons,modern rock,136.0,78.0,-4.0,67.0,187.0,11.0,6.0,73.0,10.0
+484,Video Games - Remastered,Lana Del Rey,art pop,122.0,26.0,-10.0,9.0,282.0,81.0,3.0,55.0,9.0
+485,Demons,Imagine Dragons,modern rock,90.0,71.0,-3.0,33.0,175.0,19.0,3.0,73.0,10.0
+486,She,Elvis Costello,art rock,131.0,28.0,-13.0,13.0,188.0,43.0,3.0,64.0,10.0
+487,Just Give Me a Reason (feat. Nate Ruess),P!nk,dance pop,95.0,55.0,-7.0,13.0,243.0,35.0,5.0,81.0,9.0
+488,Try,P!nk,dance pop,104.0,63.0,-7.0,9.0,248.0,0.0,3.0,73.0,10.0
+489,I Will Wait,Mumford & Sons,modern folk rock,131.0,76.0,-5.0,31.0,277.0,1.0,3.0,69.0,9.0
+490,Home Again,Kensington,dutch pop,142.0,75.0,-6.0,35.0,197.0,1.0,4.0,44.0,9.0
+491,Tubular Bells,Mike Oldfield,album rock,149.0,20.0,-17.0,13.0,809.0,49.0,3.0,31.0,10.0
+492,Winter,Tori Amos,art pop,78.0,20.0,-14.0,11.0,345.0,98.0,3.0,19.0,10.0
+493,Droomland,Andre Hazes,dutch pop,100.0,47.0,-7.0,95.0,208.0,26.0,3.0,42.0,10.0
+494,Wat Zou Je Doen?,BLØF,dutch pop,184.0,51.0,-8.0,71.0,291.0,40.0,3.0,51.0,9.0
+495,Madness,Muse,modern rock,180.0,42.0,-8.0,11.0,281.0,13.0,7.0,70.0,10.0
+496,Sovereign Light Café,Keane,modern rock,123.0,73.0,-6.0,16.0,219.0,1.0,3.0,51.0,9.0
+497,Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,dance pop,146.0,92.0,-4.0,9.0,258.0,3.0,8.0,83.0,10.0
+498,Lover of the Light,Mumford & Sons,modern folk rock,107.0,69.0,-7.0,27.0,315.0,1.0,5.0,57.0,9.0
+499,San Quentin,Johnny Cash,arkansas country,84.0,40.0,-14.0,90.0,158.0,56.0,6.0,27.0,9.0
+500,On Top Of The World,Imagine Dragons,modern rock,100.0,93.0,-6.0,9.0,190.0,9.0,15.0,66.0,10.0
+501,Flappie,Youp van 't Hek,dutch cabaret,131.0,24.0,-13.0,44.0,206.0,79.0,8.0,52.0,10.0
+502,Home Again,Michael Kiwanuka,british soul,85.0,32.0,-11.0,12.0,212.0,70.0,3.0,51.0,10.0
+503,If You Could See Me Now,The Script,celtic rock,100.0,76.0,-7.0,14.0,220.0,1.0,7.0,51.0,10.0
+504,Hall of Fame,The Script,celtic rock,85.0,87.0,-4.0,12.0,203.0,7.0,6.0,70.0,9.0
+505,Dodenrit,Drs. P,dutch rock,148.0,60.0,-14.0,81.0,312.0,67.0,10.0,34.0,10.0
+506,When I Was Your Man,Bruno Mars,dance pop,73.0,28.0,-9.0,9.0,214.0,93.0,4.0,82.0,10.0
+507,I Won't Give Up,Jason Mraz,acoustic pop,137.0,30.0,-10.0,12.0,240.0,69.0,4.0,72.0,10.0
+508,Slapeloze Nachten,The Opposites,dutch hip hop,112.0,65.0,-7.0,15.0,229.0,35.0,6.0,57.0,9.0
+509,One Moment in Time,Whitney Houston,dance pop,155.0,54.0,-7.0,10.0,285.0,49.0,3.0,54.0,10.0
+510,Zaterdag,BLØF,dutch pop,141.0,71.0,-10.0,10.0,283.0,9.0,3.0,41.0,9.0
+511,Babel,Mumford & Sons,modern folk rock,80.0,81.0,-6.0,8.0,209.0,3.0,5.0,57.0,9.0
+512,Hopeless Wanderer,Mumford & Sons,modern folk rock,154.0,58.0,-8.0,11.0,308.0,1.0,4.0,58.0,10.0
+513,Follow the Sun,Xavier Rudd,australian indie folk,124.0,39.0,-11.0,11.0,255.0,53.0,4.0,67.0,10.0
+514,Later Als Ik Groter Ben,BLØF,dutch pop,130.0,73.0,-5.0,8.0,205.0,0.0,3.0,48.0,10.0
+515,Clown,Emeli Sandé,dance pop,119.0,26.0,-8.0,11.0,221.0,92.0,4.0,46.0,9.0
+516,Stay - Album Version (Edited),Rihanna,barbadian pop,112.0,31.0,-10.0,12.0,241.0,95.0,3.0,66.0,9.0
+517,Diamonds,Rihanna,barbadian pop,92.0,71.0,-5.0,11.0,225.0,0.0,5.0,67.0,10.0
+518,It's Time,Imagine Dragons,modern rock,105.0,88.0,-5.0,14.0,238.0,2.0,4.0,66.0,9.0
+519,Little Talks,Of Monsters and Men,folk-pop,103.0,76.0,-5.0,15.0,267.0,2.0,3.0,75.0,9.0
+520,Euphoria,Loreen,electropop,132.0,68.0,-5.0,6.0,214.0,8.0,4.0,56.0,9.0
+521,Oceaan,Racoon,dutch indie,126.0,34.0,-8.0,11.0,165.0,86.0,4.0,63.0,9.0
+522,Lola Montez,Volbeat,alternative metal,152.0,88.0,-5.0,7.0,268.0,0.0,3.0,57.0,9.0
+523,Wake Me Up,Avicii,big room,124.0,78.0,-6.0,16.0,247.0,0.0,5.0,85.0,9.0
+524,Formidable,Stromae,belgian pop,71.0,63.0,-9.0,15.0,214.0,10.0,19.0,49.0,9.0
+525,Do I Wanna Know?,Arctic Monkeys,garage rock,85.0,53.0,-8.0,22.0,272.0,19.0,3.0,82.0,9.0
+526,Another Love,Tom Odell,modern rock,123.0,54.0,-9.0,9.0,244.0,70.0,4.0,58.0,8.0
+527,Hey Brother,Avicii,big room,125.0,78.0,-5.0,8.0,255.0,3.0,4.0,78.0,8.0
+528,I See Fire,Ed Sheeran,pop,76.0,5.0,-21.0,10.0,301.0,56.0,4.0,64.0,9.0
+529,This Is What It Feels Like,Armin van Buuren,edm,130.0,83.0,-5.0,6.0,204.0,4.0,3.0,65.0,9.0
+530,All of Me,John Legend,neo mellow,120.0,26.0,-7.0,13.0,270.0,92.0,3.0,86.0,9.0
+531,Dansen Op De Vulkaan,De Dijk,dutch indie,151.0,95.0,-4.0,4.0,269.0,2.0,6.0,40.0,9.0
+532,Witch Doctor,De Staat,dutch indie,145.0,56.0,-7.0,5.0,207.0,0.0,6.0,47.0,8.0
+533,Diamonds,The Boxer Rebellion,chamber pop,170.0,75.0,-6.0,18.0,243.0,17.0,6.0,35.0,9.0
+534,Let Her Go,Passenger,folk-pop,75.0,55.0,-7.0,10.0,253.0,37.0,7.0,76.0,9.0
+535,Papaoutai,Stromae,belgian pop,116.0,81.0,-7.0,6.0,232.0,3.0,8.0,55.0,9.0
+536,Strong,London Grammar,metropopolis,78.0,40.0,-11.0,8.0,266.0,74.0,3.0,49.0,8.0
+537,Layla,Derek & The Dominos,album rock,114.0,93.0,-5.0,60.0,163.0,34.0,10.0,32.0,8.0
+538,Pompeii,Bastille,metropopolis,127.0,72.0,-6.0,27.0,214.0,8.0,4.0,70.0,9.0
+539,Waves,Mr. Probz,dutch hip hop,174.0,28.0,-12.0,38.0,174.0,54.0,4.0,59.0,9.0
+540,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Daft Punk,electro,116.0,81.0,-9.0,10.0,248.0,4.0,4.0,77.0,9.0
+541,All I Want,Kodaline,irish pop,86.0,41.0,-10.0,8.0,306.0,17.0,4.0,72.0,9.0
+542,Addicted To You,Avicii,big room,128.0,79.0,-4.0,9.0,148.0,5.0,5.0,69.0,8.0
+543,Animals,Martin Garrix,big room,128.0,87.0,-6.0,37.0,304.0,0.0,4.0,65.0,8.0
+544,Just Say Yes,Snow Patrol,irish rock,108.0,88.0,-5.0,3.0,282.0,2.0,3.0,48.0,8.0
+545,Watermensen,3JS,dutch pop,144.0,40.0,-8.0,11.0,209.0,66.0,3.0,36.0,9.0
+546,Sky and Sand,Paul Kalkbrenner,electronica,127.0,33.0,-13.0,19.0,231.0,60.0,6.0,67.0,9.0
+547,The Monster,Eminem,detroit hip hop,110.0,85.0,-4.0,12.0,250.0,5.0,7.0,75.0,8.0
+548,Mirrors,Justin Timberlake,dance pop,77.0,51.0,-7.0,9.0,484.0,23.0,5.0,77.0,9.0
+549,Story of My Life,One Direction,boy band,121.0,66.0,-6.0,12.0,245.0,23.0,5.0,80.0,9.0
+550,Royals,Lorde,art pop,85.0,43.0,-10.0,13.0,190.0,12.0,12.0,79.0,8.0
+551,tous les mêmes,Stromae,belgian pop,110.0,64.0,-9.0,28.0,211.0,22.0,17.0,53.0,9.0
+552,Mijn Van Straat Geredde Roos,De Dijk,dutch indie,81.0,76.0,-5.0,26.0,208.0,9.0,3.0,33.0,8.0
+553,Love You Like I Love Myself,Herman Brood & His Wild Romance,dutch indie,148.0,84.0,-7.0,20.0,213.0,1.0,6.0,28.0,8.0
+555,Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys,boy band,108.0,87.0,-3.0,27.0,225.0,3.0,4.0,62.0,8.0
+556,A Ton of Love,Editors,alternative dance,142.0,96.0,-4.0,28.0,238.0,7.0,6.0,26.0,8.0
+557,Foolish Games,Jewel,alaska indie,131.0,22.0,-10.0,11.0,243.0,90.0,3.0,41.0,9.0
+558,Grow Old with Me,Tom Odell,modern rock,146.0,58.0,-7.0,25.0,183.0,51.0,3.0,49.0,8.0
+559,Things We Lost In The Fire,Bastille,metropopolis,134.0,92.0,-5.0,27.0,241.0,6.0,6.0,48.0,8.0
+560,Blurred Lines,Robin Thicke,dance pop,120.0,60.0,-5.0,8.0,264.0,0.0,4.0,76.0,8.0
+561,The Road To Mandalay,Robbie Williams,dance pop,99.0,68.0,-8.0,16.0,240.0,11.0,3.0,30.0,8.0
+562,Iron Sky,Paolo Nutini,british soul,140.0,63.0,-7.0,11.0,373.0,24.0,3.0,49.0,8.0
+563,A Sky Full of Stars,Coldplay,permanent wave,125.0,64.0,-7.0,22.0,268.0,1.0,3.0,78.0,8.0
+564,Rolling In The Deep,Adele,british soul,105.0,76.0,-5.0,6.0,228.0,13.0,3.0,61.0,8.0
+565,Streets,Kensington,dutch pop,168.0,77.0,-6.0,27.0,185.0,0.0,4.0,57.0,8.0
+566,Thinking out Loud,Ed Sheeran,pop,79.0,45.0,-6.0,18.0,282.0,47.0,3.0,84.0,8.0
+567,Take Me to Church,Hozier,irish singer-songwriter,129.0,66.0,-5.0,12.0,242.0,63.0,5.0,77.0,7.0
+568,Une belle histoire,Michel Fugain,chanson,83.0,58.0,-9.0,37.0,198.0,50.0,4.0,40.0,8.0
+569,In Your Arms,Chef'Special,dutch indie,93.0,41.0,-12.0,11.0,215.0,65.0,5.0,60.0,7.0
+570,Born Slippy (Nuxx),Underworld,alternative dance,140.0,95.0,-9.0,47.0,456.0,0.0,4.0,65.0,8.0
+571,War,Kensington,dutch pop,126.0,81.0,-6.0,7.0,177.0,8.0,3.0,59.0,8.0
+572,Op 't platteland,Daniël Lohues,dutch indie,80.0,37.0,-10.0,9.0,182.0,93.0,4.0,27.0,8.0
+573,"Happy - From ""Despicable Me 2""",Pharrell Williams,dance pop,160.0,82.0,-5.0,9.0,233.0,22.0,18.0,80.0,8.0
+574,Calm After The Storm,The Common Linnets,dutch americana,116.0,39.0,-11.0,12.0,213.0,49.0,3.0,52.0,8.0
+575,Riddles,Kensington,dutch pop,148.0,70.0,-8.0,8.0,209.0,4.0,4.0,52.0,7.0
+576,Under The Pressure,The War On Drugs,chamber pop,134.0,71.0,-7.0,13.0,532.0,31.0,3.0,60.0,7.0
+577,Magic,Coldplay,permanent wave,93.0,48.0,-9.0,11.0,285.0,3.0,4.0,73.0,8.0
+578,Photograph,Ed Sheeran,pop,108.0,38.0,-10.0,10.0,259.0,61.0,5.0,84.0,7.0
+579,All For Nothing,Kensington,dutch pop,152.0,86.0,-6.0,10.0,289.0,0.0,7.0,47.0,8.0
+580,My Silver Lining,First Aid Kit,stomp and holler,102.0,73.0,-5.0,21.0,215.0,3.0,3.0,64.0,7.0
+581,Zandloper,Typhoon,dutch hip hop,135.0,72.0,-8.0,95.0,280.0,5.0,24.0,47.0,7.0
+582,Home,Dotan,dutch pop,130.0,70.0,-9.0,4.0,268.0,7.0,4.0,42.0,8.0
+583,Red Eyes,The War On Drugs,chamber pop,162.0,82.0,-6.0,16.0,299.0,1.0,4.0,65.0,8.0
+584,L'amour Toujours (Small Mix),Gigi D'Agostino,eurodance,139.0,88.0,-4.0,36.0,242.0,8.0,3.0,70.0,8.0
+585,"See Me, Feel Me - Single Version",The Who,album rock,94.0,34.0,-11.0,8.0,217.0,9.0,3.0,39.0,8.0
+586,Hemel Valt,Typhoon,dutch hip hop,97.0,74.0,-7.0,33.0,161.0,24.0,14.0,43.0,7.0
+587,Glycerine,Bush,alternative metal,114.0,34.0,-11.0,10.0,266.0,4.0,3.0,65.0,8.0
+588,Wit Licht,Jeroen van Koningsbrugge,pop,146.0,69.0,-7.0,10.0,212.0,72.0,8.0,43.0,8.0
+589,Yellow Submarine,The Beatles,british invasion,111.0,64.0,-7.0,52.0,159.0,21.0,3.0,58.0,7.0
+590,California Love,2Pac,g funk,92.0,88.0,-3.0,69.0,348.0,3.0,9.0,41.0,7.0
+591,Superheroes,The Script,celtic rock,167.0,89.0,-4.0,7.0,245.0,0.0,4.0,75.0,8.0
+592,Stay With Me,Sam Smith,pop,84.0,42.0,-6.0,11.0,173.0,59.0,4.0,84.0,8.0
+593,Shake It Off,Taylor Swift,dance pop,160.0,80.0,-5.0,33.0,219.0,6.0,17.0,66.0,8.0
+594,Looking Too Closely,Fink,chamber pop,175.0,52.0,-12.0,9.0,311.0,33.0,4.0,63.0,7.0
+595,No Good in Goodbye,The Script,celtic rock,156.0,87.0,-5.0,8.0,308.0,1.0,4.0,59.0,8.0
+596,Counting Stars,OneRepublic,dance pop,122.0,71.0,-5.0,12.0,258.0,7.0,4.0,74.0,8.0
+597,Time After Time,Cyndi Lauper,dance pop,130.0,44.0,-9.0,9.0,243.0,58.0,3.0,72.0,7.0
+598,Sexy Als Ik Dans,Nielson,dutch pop,94.0,54.0,-7.0,20.0,215.0,9.0,5.0,49.0,8.0
+599,Done With It,Kensington,dutch pop,116.0,78.0,-7.0,10.0,203.0,13.0,4.0,49.0,8.0
+600,Love Never Felt So Good,Michael Jackson,pop,118.0,72.0,-6.0,7.0,246.0,13.0,4.0,70.0,7.0
+601,Shut Up and Dance,WALK THE MOON,indie pop,128.0,87.0,-4.0,26.0,199.0,1.0,6.0,82.0,7.0
+602,Nothing Really Matters,Mr. Probz,dutch hip hop,135.0,23.0,-9.0,11.0,222.0,89.0,4.0,61.0,7.0
+603,Promises of No Man's Land,Blaudzun,dutch indie,124.0,85.0,-6.0,24.0,215.0,12.0,3.0,43.0,8.0
+604,Let It Go,James Bay,neo mellow,147.0,31.0,-10.0,11.0,261.0,82.0,3.0,74.0,7.0
+605,The Sound of Silence,Disturbed,alternative metal,86.0,28.0,-9.0,10.0,248.0,47.0,3.0,75.0,6.0
+606,Het Dorp - Live,Wim Sonneveld,dutch cabaret,114.0,44.0,-15.0,67.0,198.0,82.0,8.0,15.0,6.0
+607,Psycho,Muse,modern rock,125.0,88.0,-3.0,87.0,317.0,0.0,3.0,69.0,7.0
+608,Élan,Nightwish,finnish metal,128.0,58.0,-9.0,14.0,287.0,1.0,3.0,58.0,7.0
+609,Dat Ik Je Mis,Maaike Ouboter,dutch pop,174.0,13.0,-13.0,10.0,256.0,88.0,6.0,29.0,6.0
+610,Heading Up High,Armin van Buuren,edm,128.0,93.0,-5.0,11.0,233.0,0.0,9.0,53.0,6.0
+611,Zeg Maar Niets Meer - Remastered,Andre Hazes,dutch pop,95.0,79.0,-8.0,91.0,167.0,16.0,4.0,26.0,6.0
+612,Chandelier,Sia,australian dance,117.0,79.0,-3.0,7.0,216.0,2.0,5.0,71.0,6.0
+613,Uptown Funk,Mark Ronson,dance pop,115.0,61.0,-7.0,3.0,270.0,1.0,8.0,82.0,6.0
+614,Birds,Anouk,dutch indie,85.0,41.0,-8.0,11.0,203.0,61.0,3.0,33.0,7.0
+615,Michel,Anouk,dutch indie,122.0,39.0,-8.0,9.0,249.0,76.0,3.0,20.0,7.0
+616,Let It Happen,Tame Impala,australian psych,125.0,88.0,-6.0,11.0,468.0,0.0,4.0,76.0,7.0
+617,Everglow,Coldplay,permanent wave,146.0,45.0,-9.0,11.0,283.0,46.0,3.0,69.0,6.0
+618,The Less I Know The Better,Tame Impala,australian psych,117.0,74.0,-4.0,17.0,216.0,1.0,3.0,85.0,7.0
+619,Ordinary Love,U2,irish rock,121.0,48.0,-9.0,18.0,219.0,4.0,3.0,45.0,7.0
+620,Stressed Out,Twenty One Pilots,modern rock,170.0,64.0,-6.0,6.0,202.0,5.0,14.0,83.0,7.0
+621,For Bitter Or Worse,Anouk,dutch indie,83.0,41.0,-8.0,12.0,255.0,29.0,3.0,21.0,6.0
+622,All I Need - Edit,Air,downtempo,95.0,42.0,-12.0,20.0,242.0,88.0,3.0,41.0,6.0
+623,Hymn for the Weekend,Coldplay,permanent wave,90.0,74.0,-5.0,30.0,259.0,26.0,4.0,78.0,7.0
+624,Adventure of a Lifetime,Coldplay,permanent wave,112.0,92.0,-4.0,15.0,264.0,0.0,4.0,74.0,7.0
+625,Three Days In A Row,Anouk,dutch indie,171.0,50.0,-6.0,16.0,254.0,0.0,3.0,13.0,6.0
+626,Moondance,Van Morrison,classic rock,135.0,33.0,-11.0,22.0,272.0,43.0,3.0,42.0,7.0
+627,R U Kiddin' Me,Anouk,dutch indie,89.0,82.0,-6.0,9.0,200.0,1.0,4.0,16.0,7.0
+628,"Theme From New York, New York",Frank Sinatra,adult standards,109.0,59.0,-5.0,28.0,204.0,55.0,3.0,68.0,7.0
+629,Hold Me,Douwe Bob,dutch americana,161.0,38.0,-8.0,15.0,230.0,61.0,3.0,26.0,7.0
+630,Budapest,George Ezra,folk-pop,128.0,46.0,-8.0,11.0,201.0,8.0,3.0,68.0,7.0
+631,Shoes of Lightning,Racoon,dutch indie,78.0,40.0,-8.0,11.0,220.0,66.0,4.0,32.0,7.0
+632,Mercy,Muse,modern rock,130.0,93.0,-5.0,31.0,232.0,1.0,5.0,60.0,7.0
+633,Tennessee Whiskey,Chris Stapleton,contemporary country,49.0,37.0,-11.0,8.0,293.0,21.0,3.0,78.0,6.0
+634,"Oxygene, Pt. 4",Jean-Michel Jarre,laboratorio,189.0,76.0,-8.0,55.0,247.0,2.0,4.0,57.0,6.0
+635,A Head Full of Dreams,Coldplay,permanent wave,123.0,92.0,-5.0,33.0,224.0,0.0,7.0,68.0,7.0
+636,We Come 1 - Radio Edit,Faithless,big beat,136.0,90.0,-11.0,15.0,222.0,0.0,4.0,54.0,6.0
+637,Forever Man - 2015 Remaster,Eric Clapton,album rock,111.0,90.0,-6.0,17.0,192.0,20.0,4.0,46.0,6.0
+638,Down Man,Brainbox,dutch prog,168.0,76.0,-9.0,10.0,155.0,0.0,6.0,35.0,7.0
+639,Liquid Spirit - Claptone Remix,Gregory Porter,contemporary vocal jazz,121.0,62.0,-9.0,5.0,384.0,0.0,5.0,63.0,7.0
+640,Living Doll - 2003 Remaster,Cliff Richard & The Drifters,rock-and-roll,127.0,47.0,-7.0,10.0,157.0,54.0,4.0,33.0,7.0
+641,Ocean of Night,Editors,alternative dance,106.0,67.0,-10.0,11.0,305.0,2.0,3.0,58.0,7.0
+642,Be the One,Dua Lipa,dance pop,87.0,65.0,-4.0,6.0,203.0,12.0,5.0,73.0,6.0
+643,Up&Up,Coldplay,permanent wave,164.0,72.0,-5.0,10.0,405.0,5.0,6.0,70.0,6.0
+644,Ship To Wreck,Florence + The Machine,art pop,142.0,92.0,-4.0,28.0,235.0,0.0,3.0,54.0,6.0
+645,Love Yourself,Justin Bieber,canadian pop,100.0,38.0,-10.0,28.0,234.0,84.0,44.0,83.0,7.0
+646,Happy Xmas (War Is Over),John Lennon,album rock,147.0,68.0,-6.0,68.0,212.0,18.0,3.0,47.0,7.0
+647,Sorry,Kensington,dutch pop,134.0,41.0,-8.0,10.0,227.0,50.0,3.0,63.0,6.0
+648,Cold Little Heart,Michael Kiwanuka,british soul,108.0,40.0,-8.0,14.0,598.0,49.0,3.0,67.0,5.0
+649,Barcelona,Freddie Mercury,glam rock,170.0,46.0,-9.0,9.0,267.0,74.0,4.0,40.0,5.0
+650,Leef,André Hazes Jr.,dutch pop,121.0,73.0,-7.0,18.0,218.0,28.0,4.0,62.0,6.0
+651,Hello,Adele,british soul,158.0,45.0,-6.0,9.0,295.0,34.0,3.0,73.0,5.0
+652,Against All Odds (Take a Look at Me Now) - 2016 Remaster,Phil Collins,mellow gold,116.0,50.0,-7.0,13.0,206.0,20.0,3.0,74.0,6.0
+653,Treur Niet (Ode Aan Het Leven),Diggy Dex,dutch hip hop,98.0,72.0,-9.0,13.0,225.0,20.0,6.0,60.0,5.0
+654,When We Were Young,Adele,british soul,144.0,59.0,-6.0,9.0,291.0,35.0,5.0,73.0,6.0
+655,Do I Ever,Kensington,dutch pop,163.0,79.0,-6.0,40.0,204.0,0.0,5.0,53.0,6.0
+656,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,dance pop,113.0,83.0,-6.0,10.0,238.0,1.0,7.0,75.0,6.0
+657,Whatever You Want,Status Quo,album rock,123.0,55.0,-11.0,18.0,242.0,85.0,4.0,36.0,6.0
+658,Lazarus,David Bowie,album rock,130.0,70.0,-7.0,9.0,382.0,5.0,3.0,61.0,6.0
+659,Million Years Ago,Adele,british soul,106.0,27.0,-8.0,11.0,227.0,73.0,3.0,62.0,5.0
+660,Dark Necessities,Red Hot Chili Peppers,alternative rock,92.0,74.0,-7.0,11.0,302.0,7.0,7.0,74.0,5.0
+661,You Want It Darker,Leonard Cohen,canadian folk,109.0,33.0,-17.0,8.0,284.0,61.0,6.0,63.0,5.0
+662,Bridges,Kensington,dutch pop,150.0,83.0,-7.0,7.0,220.0,0.0,6.0,49.0,5.0
+663,Once Upon a Time in the West - Main Theme,Ennio Morricone,classic soundtrack,90.0,21.0,-11.0,13.0,223.0,84.0,4.0,54.0,5.0
+664,Mooi,Marco Borsato,dutch cabaret,150.0,43.0,-8.0,12.0,315.0,10.0,3.0,59.0,6.0
+666,Love & Hate,Michael Kiwanuka,british soul,170.0,49.0,-8.0,17.0,427.0,16.0,3.0,66.0,5.0
+667,New Gold Dream (81/82/83/84),Simple Minds,art rock,123.0,75.0,-11.0,34.0,339.0,0.0,3.0,44.0,5.0
+668,Disco Inferno,The Trammps,disco,130.0,70.0,-9.0,14.0,214.0,0.0,3.0,54.0,5.0
+669,Someone Somewhere (In Summertime),Simple Minds,art rock,100.0,53.0,-11.0,11.0,278.0,2.0,3.0,41.0,6.0
+670,24K Magic,Bruno Mars,dance pop,107.0,80.0,-4.0,15.0,226.0,3.0,8.0,78.0,5.0
+671,Blackstar,David Bowie,album rock,98.0,55.0,-8.0,18.0,598.0,21.0,3.0,55.0,6.0
+672,Water Under the Bridge,Adele,british soul,95.0,84.0,-7.0,11.0,240.0,2.0,7.0,67.0,5.0
+673,All I Ask,Adele,british soul,142.0,28.0,-5.0,15.0,272.0,88.0,3.0,70.0,5.0
+674,The Life I Live,Q'65,dutch prog,131.0,46.0,-12.0,22.0,204.0,10.0,4.0,27.0,5.0
+675,We All Stand Together - Remastered 2016,Paul McCartney,album rock,72.0,26.0,-12.0,13.0,265.0,61.0,3.0,24.0,6.0
+676,Heathens,Twenty One Pilots,modern rock,90.0,40.0,-9.0,11.0,196.0,8.0,3.0,81.0,6.0
+677,Jacob’s Song,Douwe Bob,dutch americana,74.0,51.0,-8.0,16.0,318.0,4.0,3.0,40.0,6.0
+678,Way Down We Go,KALEO,icelandic indie,163.0,51.0,-8.0,10.0,214.0,58.0,12.0,76.0,5.0
+679,7 Years,Lukas Graham,danish pop,120.0,47.0,-6.0,39.0,237.0,29.0,5.0,80.0,6.0
+680,Forbidden Colours,Ryuichi Sakamoto,compositional ambient,105.0,24.0,-17.0,25.0,290.0,76.0,3.0,28.0,6.0
+681,The Book Of Love,Gavin James,neo mellow,108.0,7.0,-14.0,13.0,177.0,70.0,4.0,34.0,5.0
+682,Zoutelande - feat. Geike,BLØF,dutch pop,129.0,64.0,-7.0,14.0,223.0,22.0,3.0,41.0,4.0
+683,Pokémon Theme-New Studio Recording,Jason Paige,pop,145.0,91.0,-5.0,14.0,197.0,3.0,5.0,41.0,5.0
+684,Perfect,Ed Sheeran,pop,95.0,45.0,-6.0,11.0,263.0,16.0,2.0,87.0,5.0
+685,Thriller,Michael Jackson,pop,118.0,89.0,-4.0,85.0,358.0,8.0,7.0,69.0,5.0
+686,Boulevard of Broken Dreams,Green Day,modern rock,167.0,68.0,-4.0,6.0,262.0,1.0,3.0,74.0,4.0
+687,What About Us,P!nk,dance pop,114.0,59.0,-6.0,9.0,270.0,3.0,5.0,76.0,5.0
+688,Shape of You,Ed Sheeran,pop,96.0,65.0,-3.0,9.0,234.0,58.0,8.0,87.0,5.0
+689,Believer,Imagine Dragons,modern rock,125.0,78.0,-4.0,8.0,204.0,6.0,13.0,88.0,4.0
+690,Human,Rag'n'Bone Man,neo soul,75.0,71.0,-4.0,17.0,200.0,39.0,30.0,78.0,4.0
+691,Het het nog nooit zo donker west,Ede Staal,streektaal,98.0,21.0,-20.0,8.0,274.0,60.0,3.0,28.0,4.0
+692,Castle on the Hill,Ed Sheeran,pop,135.0,83.0,-5.0,14.0,261.0,2.0,10.0,79.0,5.0
+693,Sign of the Times,Harry Styles,dance pop,120.0,60.0,-5.0,11.0,341.0,3.0,3.0,80.0,4.0
+694,In the Blood,John Mayer,neo mellow,80.0,66.0,-7.0,10.0,244.0,39.0,3.0,66.0,5.0
+695,Nao ’t Zuuje,Lex Uiting,carnaval limburg,190.0,53.0,-6.0,5.0,213.0,39.0,4.0,41.0,5.0
+696,"Roll Over Lay Down - Live At The Kursaal, Southend / 1975",Status Quo,album rock,132.0,69.0,-9.0,34.0,341.0,0.0,4.0,32.0,5.0
+697,Whatever It Takes,Imagine Dragons,modern rock,135.0,66.0,-5.0,12.0,201.0,4.0,3.0,82.0,4.0
+698,Amigo,Chef'Special,dutch indie,145.0,91.0,-5.0,35.0,180.0,1.0,7.0,33.0,5.0
+699,Iederene Hef Een Reden,Bökkers,dutch rock,108.0,61.0,-9.0,10.0,185.0,56.0,4.0,41.0,4.0
+700,Everything Now,Arcade Fire,alternative dance,116.0,87.0,-5.0,46.0,303.0,0.0,3.0,66.0,5.0
+701,Sorry,Nothing But Thieves,alternative pop rock,128.0,78.0,-5.0,13.0,215.0,0.0,3.0,62.0,4.0
+702,One More Light,Linkin Park,alternative metal,84.0,20.0,-11.0,9.0,255.0,90.0,3.0,75.0,5.0
+703,Through the Barricades - Remastered,Spandau Ballet,dance rock,146.0,28.0,-14.0,12.0,360.0,30.0,3.0,60.0,5.0
+704,Freedom! '90 - Remastered,George Michael,dance rock,92.0,85.0,-11.0,6.0,391.0,23.0,5.0,69.0,5.0
+705,Amsterdam,Nothing But Thieves,alternative pop rock,168.0,93.0,-5.0,24.0,272.0,0.0,24.0,63.0,4.0
+706,Something Just Like This,The Chainsmokers,electropop,103.0,64.0,-7.0,16.0,247.0,5.0,3.0,84.0,4.0
+707,Thunder,Imagine Dragons,modern rock,168.0,82.0,-5.0,15.0,187.0,1.0,4.0,86.0,4.0
+708,Thinking Of A Place,The War On Drugs,chamber pop,103.0,63.0,-7.0,12.0,671.0,39.0,3.0,59.0,4.0
+709,Happier,Ed Sheeran,pop,90.0,39.0,-7.0,14.0,208.0,54.0,3.0,83.0,5.0
+710,Galway Girl,Ed Sheeran,pop,100.0,88.0,-3.0,33.0,171.0,7.0,10.0,80.0,5.0
+711,Sunny Days,Armin van Buuren,edm,115.0,71.0,-7.0,14.0,210.0,1.0,3.0,54.0,5.0
+712,Supermarket Flowers,Ed Sheeran,pop,90.0,24.0,-11.0,9.0,221.0,91.0,4.0,78.0,5.0
+713,Holiday,Green Day,modern rock,147.0,89.0,-3.0,89.0,233.0,0.0,3.0,67.0,5.0
+714,Max,Paolo Conte,italian pop,125.0,40.0,-9.0,12.0,225.0,34.0,3.0,25.0,4.0
+715,Rapper's Delight,The Sugarhill Gang,east coast hip hop,112.0,75.0,-10.0,4.0,234.0,7.0,25.0,48.0,4.0
+716,Pain,The War On Drugs,chamber pop,116.0,83.0,-4.0,8.0,331.0,0.0,4.0,62.0,4.0
+717,Love On The Rocks,Neil Diamond,adult standards,103.0,31.0,-8.0,12.0,262.0,92.0,3.0,40.0,5.0
+718,Tuesday Afternoon (Forever Afternoon),The Moody Blues,album rock,114.0,32.0,-13.0,24.0,249.0,10.0,3.0,50.0,4.0
+719,Magnificent (She Says),Elbow,britpop,92.0,87.0,-7.0,5.0,266.0,19.0,5.0,31.0,5.0
+720,Nicotine,Chef'Special,dutch indie,90.0,30.0,-10.0,10.0,238.0,62.0,3.0,36.0,5.0
+721,Homesick,Dua Lipa,dance pop,86.0,22.0,-9.0,11.0,230.0,95.0,4.0,71.0,4.0
+722,Beautiful Trauma,P!nk,dance pop,96.0,62.0,-6.0,40.0,250.0,9.0,7.0,68.0,5.0
+723,World Gone Mad,Bastille,metropopolis,140.0,68.0,-3.0,18.0,196.0,28.0,3.0,64.0,4.0
+724,Leave a Light On,Tom Walker,indie anthem-folk,69.0,62.0,-6.0,13.0,186.0,2.0,11.0,75.0,5.0
+725,Skin,Rag'n'Bone Man,neo soul,171.0,75.0,-8.0,15.0,240.0,27.0,31.0,69.0,4.0
+726,Lost on You,LP,la pop,174.0,72.0,-6.0,9.0,268.0,10.0,4.0,78.0,5.0
+727,Shallow,Lady Gaga,dance pop,96.0,39.0,-6.0,23.0,216.0,37.0,3.0,88.0,3.0
+728,Kleine Jongen,Andre Hazes,dutch pop,91.0,70.0,-6.0,10.0,221.0,5.0,3.0,30.0,4.0
+729,Duurt Te Lang,Davina Michelle,dutch pop,174.0,44.0,-14.0,9.0,154.0,13.0,20.0,68.0,4.0
+730,I Want To Break Free,Queen,glam rock,109.0,41.0,-9.0,8.0,223.0,11.0,4.0,59.0,3.0
+731,September,"Earth, Wind & Fire",disco,126.0,83.0,-7.0,25.0,215.0,17.0,3.0,82.0,4.0
+732,Voor Haar,Frans Halsema,dutch rock,82.0,36.0,-12.0,25.0,172.0,65.0,3.0,30.0,4.0
+733,Testament,Boudewijn de Groot,dutch indie,122.0,40.0,-10.0,12.0,195.0,48.0,5.0,28.0,4.0
+734,Atemlos durch die Nacht,Helene Fischer,german pop,128.0,78.0,-4.0,19.0,220.0,6.0,5.0,38.0,4.0
+735,Zij Gelooft In Mij,Andre Hazes,dutch pop,152.0,60.0,-6.0,25.0,240.0,11.0,3.0,30.0,3.0
+736,Verdronken Vlinder,Boudewijn de Groot,dutch indie,128.0,54.0,-9.0,21.0,146.0,57.0,4.0,29.0,3.0
+737,Als Het Avond Is,Suzan & Freek,dutch pop,105.0,47.0,-7.0,11.0,206.0,53.0,3.0,65.0,4.0
+738,De Vlieger,Andre Hazes,dutch pop,105.0,66.0,-7.0,23.0,217.0,3.0,3.0,27.0,4.0
+739,Geef Mij Je Angst,Andre Hazes,dutch pop,140.0,57.0,-7.0,42.0,257.0,6.0,3.0,30.0,3.0
+740,Natural,Imagine Dragons,modern rock,100.0,61.0,-6.0,8.0,189.0,22.0,4.0,84.0,4.0
+741,IJskoud,Nielson,dutch pop,98.0,73.0,-7.0,37.0,210.0,4.0,5.0,65.0,4.0
+742,Welterusten Mijnheer De President,Boudewijn de Groot,dutch indie,131.0,41.0,-11.0,24.0,152.0,46.0,5.0,23.0,4.0
+743,Jimmy,Boudewijn de Groot,dutch indie,111.0,74.0,-10.0,32.0,236.0,23.0,3.0,32.0,3.0
+744,Bad Liar,Imagine Dragons,modern rock,178.0,64.0,-7.0,37.0,261.0,7.0,7.0,83.0,4.0
+745,Sammy,Ramses Shaffy,dutch cabaret,81.0,49.0,-8.0,14.0,135.0,76.0,5.0,23.0,4.0
+746,High Hopes,Panic! At The Disco,baroque pop,82.0,90.0,-3.0,6.0,191.0,19.0,6.0,87.0,3.0
+747,Het Land Van Maas En Waal,Boudewijn de Groot,dutch indie,126.0,60.0,-10.0,6.0,179.0,40.0,5.0,23.0,4.0
+748,Shotgun,George Ezra,folk-pop,116.0,74.0,-5.0,24.0,201.0,29.0,5.0,82.0,3.0
+749,New Light,John Mayer,neo mellow,124.0,69.0,-8.0,8.0,216.0,33.0,3.0,81.0,3.0
+750,You Say,Lauren Daigle,ccm,148.0,63.0,-7.0,9.0,275.0,68.0,3.0,80.0,4.0
+751,Een Beetje Verliefd,Andre Hazes,dutch pop,198.0,61.0,-7.0,15.0,251.0,6.0,3.0,32.0,3.0
+752,Someone You Loved,Lewis Capaldi,pop,110.0,41.0,-6.0,11.0,182.0,75.0,3.0,85.0,4.0
+753,Banger Hart - Radio Mix,Rob De Nijs,dutch pop,124.0,89.0,-9.0,6.0,261.0,7.0,4.0,16.0,3.0
+754,Malle Babbe,Rob De Nijs,dutch pop,87.0,38.0,-10.0,12.0,253.0,73.0,4.0,15.0,4.0
+755,Vluchten Kan Niet Meer,Frans Halsema,dutch rock,87.0,25.0,-13.0,38.0,221.0,74.0,3.0,17.0,4.0
+756,Faded,Alan Walker,electro house,180.0,63.0,-5.0,11.0,212.0,3.0,5.0,80.0,4.0
+757,High On Life (feat. Bonn),Martin Garrix,big room,128.0,49.0,-6.0,11.0,231.0,1.0,3.0,78.0,4.0
+758,Het Is Koud Zonder Jou,Andre Hazes,dutch pop,197.0,64.0,-7.0,12.0,241.0,11.0,4.0,30.0,4.0
+759,N Vriend,Andre Hazes,dutch pop,68.0,58.0,-7.0,9.0,292.0,8.0,3.0,31.0,4.0
+760,Always Remember Us This Way,Lady Gaga,dance pop,130.0,50.0,-6.0,76.0,210.0,30.0,4.0,81.0,4.0
+761,Een Meisje Van Zestien,Boudewijn de Groot,dutch indie,140.0,49.0,-11.0,17.0,179.0,2.0,5.0,20.0,4.0
+762,Why Don't You Do Right,Beth Hart,blues rock,106.0,74.0,-8.0,17.0,276.0,47.0,4.0,44.0,4.0
+763,De Zon Op,Diggy Dex,dutch hip hop,100.0,57.0,-8.0,10.0,209.0,51.0,4.0,52.0,3.0
+764,Youngblood,5 Seconds of Summer,boy band,120.0,85.0,-5.0,12.0,203.0,2.0,46.0,84.0,3.0
+765,Prikkebeen,Boudewijn de Groot,dutch indie,109.0,52.0,-11.0,13.0,252.0,5.0,3.0,17.0,4.0
+766,Outlaw In 'Em,Waylon,dutch americana,87.0,93.0,-3.0,37.0,217.0,3.0,8.0,39.0,4.0
+767,Als De Rook Om Je Hoofd Is Verdwenen,Boudewijn de Groot,dutch indie,132.0,71.0,-11.0,3.0,205.0,14.0,3.0,19.0,3.0
+768,Skandal im Sperrbezirk,Spider Murphy Gang,austropop,93.0,84.0,-8.0,21.0,216.0,42.0,4.0,26.0,3.0
+769,Pain and Misery,The Teskey Brothers,australian americana,89.0,34.0,-7.0,16.0,241.0,79.0,3.0,50.0,4.0
+770,I Do,Douwe Bob,dutch americana,73.0,25.0,-11.0,8.0,202.0,88.0,3.0,52.0,3.0
+771,Het Laatste Rondje - Remastered,Andre Hazes,dutch pop,103.0,76.0,-7.0,14.0,258.0,6.0,4.0,33.0,3.0
+772,Guiding Light,Mumford & Sons,modern folk rock,100.0,71.0,-8.0,8.0,218.0,6.0,5.0,60.0,4.0
+773,Havana (feat. Young Thug),Camila Cabello,dance pop,105.0,52.0,-4.0,13.0,217.0,18.0,3.0,85.0,3.0
+774,Hou Vol Hou Vast,BLØF,dutch pop,86.0,61.0,-5.0,8.0,295.0,0.0,2.0,12.0,4.0
+775,One Kiss (with Dua Lipa),Calvin Harris,dance pop,124.0,86.0,-3.0,8.0,215.0,4.0,11.0,86.0,4.0
+777,Lay Your Weapons Down,Ilse DeLange,dutch americana,94.0,68.0,-9.0,9.0,219.0,1.0,6.0,21.0,4.0
+778,In My Blood,Shawn Mendes,canadian pop,140.0,71.0,-7.0,13.0,211.0,6.0,7.0,82.0,3.0
+779,Roller Coaster,Danny Vera,dutch americana,97.0,38.0,-10.0,12.0,270.0,51.0,3.0,70.0,2.0
+780,Arcade,Duncan Laurence,dutch pop,72.0,33.0,-13.0,14.0,184.0,82.0,4.0,73.0,2.0
+781,A Whiter Shade of Pale - Original Single Version,Procol Harum,album rock,150.0,66.0,-7.0,9.0,249.0,50.0,3.0,67.0,2.0
+782,Don't You (Forget About Me),Simple Minds,art rock,111.0,75.0,-9.0,29.0,261.0,8.0,3.0,73.0,2.0
+783,The Load-Out - Remastered,Jackson Browne,album rock,106.0,32.0,-12.0,13.0,335.0,74.0,3.0,37.0,2.0
+784,Stay - Remastered,Jackson Browne,album rock,107.0,77.0,-8.0,11.0,204.0,10.0,3.0,36.0,2.0
+785,Last Christmas,Wham!,dance rock,108.0,58.0,-9.0,18.0,265.0,19.0,3.0,85.0,3.0
+786,Time To Give,White Lies,alternative dance,120.0,83.0,-6.0,14.0,455.0,2.0,5.0,50.0,3.0
+787,bad guy,Billie Eilish,electropop,135.0,43.0,-11.0,10.0,194.0,33.0,38.0,95.0,3.0
+788,Memories,Maroon 5,pop,91.0,32.0,-7.0,8.0,189.0,84.0,5.0,98.0,2.0
+789,Love Like Blood,Killing Joke,alternative metal,124.0,76.0,-8.0,37.0,261.0,10.0,5.0,37.0,2.0
+790,Reünie,Snelle,dutch hip hop,96.0,35.0,-9.0,59.0,172.0,67.0,15.0,71.0,2.0
+791,About A Girl - Live Version,Nirvana,alternative rock,121.0,76.0,-9.0,73.0,218.0,14.0,7.0,50.0,3.0
+792,DEUTSCHLAND,Rammstein,alternative metal,120.0,90.0,-5.0,10.0,322.0,0.0,4.0,72.0,2.0
+793,Phantom Of The Opera,Floor Jansen,dutch pop,132.0,87.0,-6.0,25.0,244.0,0.0,5.0,56.0,3.0
+794,Dance Monkey,Tones and I,australian pop,98.0,59.0,-6.0,15.0,209.0,69.0,9.0,100.0,2.0
+795,Blauwe Dag,Suzan & Freek,dutch pop,98.0,56.0,-7.0,28.0,183.0,25.0,5.0,68.0,2.0
+796,Homburg - Single Version - 2009 Remaster - Mono,Procol Harum,album rock,142.0,66.0,-8.0,6.0,237.0,10.0,3.0,32.0,2.0
+797,Uncharted,Kensington,dutch pop,139.0,53.0,-7.0,29.0,241.0,14.0,3.0,65.0,2.0
+798,Despacito,Luis Fonsi,latin,178.0,80.0,-5.0,7.0,229.0,20.0,15.0,80.0,2.0
+799,Dancing On My Own,Calum Scott,australian pop,113.0,17.0,-9.0,10.0,260.0,84.0,3.0,28.0,2.0
+800,Child in Time,Deep Purple,album rock,127.0,46.0,-11.0,9.0,620.0,17.0,4.0,45.0,52.0
+801,Let It Be - Remastered 2009,The Beatles,british invasion,143.0,40.0,-8.0,11.0,243.0,63.0,3.0,79.0,51.0
+802,Bridge Over Troubled Water,Simon & Garfunkel,classic rock,80.0,21.0,-14.0,12.0,293.0,82.0,3.0,71.0,52.0
+803,Paranoid - 2016 Remaster,Black Sabbath,album rock,163.0,66.0,-12.0,18.0,168.0,0.0,7.0,68.0,52.0
+804,Have You Ever Seen The Rain,Creedence Clearwater Revival,album rock,116.0,47.0,-13.0,19.0,160.0,9.0,3.0,71.0,51.0
+805,Your Song,Elton John,glam rock,128.0,32.0,-11.0,10.0,242.0,83.0,3.0,77.0,51.0
+806,The Boxer,Simon & Garfunkel,classic rock,93.0,49.0,-14.0,16.0,309.0,70.0,6.0,72.0,51.0
+807,Du,Peter Maffay,classic schlager,94.0,45.0,-12.0,43.0,298.0,15.0,3.0,53.0,51.0
+808,I Walk the Line,Johnny Cash,arkansas country,99.0,26.0,-15.0,10.0,177.0,88.0,4.0,71.0,51.0
+809,Samba Pa Ti,Santana,blues rock,92.0,36.0,-13.0,8.0,285.0,83.0,3.0,63.0,52.0
+810,Immigrant Song - Remaster,Led Zeppelin,album rock,113.0,93.0,-10.0,35.0,146.0,1.0,6.0,77.0,51.0
+811,Who'll Stop The Rain,Creedence Clearwater Revival,album rock,124.0,80.0,-7.0,7.0,147.0,4.0,3.0,66.0,51.0
+812,Our House,"Crosby, Stills, Nash & Young",album rock,140.0,21.0,-15.0,12.0,180.0,90.0,5.0,68.0,52.0
+813,Teach Your Children,"Crosby, Stills, Nash & Young",album rock,155.0,28.0,-15.0,39.0,173.0,64.0,3.0,63.0,52.0
+814,The Long And Winding Road - Remastered 2009,The Beatles,british invasion,132.0,33.0,-10.0,6.0,218.0,76.0,3.0,64.0,51.0
+815,Father And Son,Yusuf / Cat Stevens,british folk,136.0,33.0,-11.0,10.0,221.0,59.0,3.0,74.0,52.0
+816,Almost Cut My Hair,"Crosby, Stills, Nash & Young",album rock,137.0,47.0,-10.0,16.0,269.0,18.0,4.0,62.0,52.0
+817,El Condor Pasa (If I Could),Simon & Garfunkel,classic rock,148.0,21.0,-18.0,18.0,187.0,84.0,3.0,62.0,52.0
+818,Question,The Moody Blues,album rock,76.0,66.0,-10.0,47.0,344.0,2.0,5.0,50.0,51.0
+819,I Heard It Through The Grapevine,Creedence Clearwater Revival,album rock,119.0,84.0,-6.0,10.0,663.0,8.0,5.0,47.0,52.0
+820,Since I've Been Loving You - 1990 Remaster,Led Zeppelin,album rock,119.0,36.0,-11.0,12.0,444.0,0.0,3.0,63.0,51.0
+821,Get Back - Remastered 2009,The Beatles,british invasion,123.0,59.0,-10.0,61.0,189.0,49.0,6.0,65.0,51.0
+822,The Man Who Sold the World - 2015 Remaster,David Bowie,album rock,118.0,39.0,-14.0,14.0,241.0,64.0,3.0,63.0,52.0
+823,Long As I Can See The Light,Creedence Clearwater Revival,album rock,127.0,41.0,-7.0,6.0,211.0,35.0,4.0,60.0,52.0
+824,Roadhouse Blues,The Doors,album rock,121.0,63.0,-8.0,15.0,244.0,34.0,3.0,73.0,51.0
+825,My Sweet Lord,George Harrison,album rock,121.0,70.0,-9.0,8.0,281.0,10.0,3.0,76.0,51.0
+826,Memories,Earth & Fire,classic uk pop,131.0,79.0,-8.0,11.0,201.0,35.0,5.0,29.0,51.0
+827,Cecilia,Simon & Garfunkel,classic rock,103.0,88.0,-9.0,22.0,175.0,36.0,4.0,73.0,52.0
+828,Fire and Rain,James Taylor,adult standards,76.0,35.0,-14.0,8.0,201.0,50.0,4.0,73.0,52.0
+829,Lookin' Out My Back Door,Creedence Clearwater Revival,album rock,105.0,66.0,-6.0,9.0,152.0,19.0,4.0,67.0,52.0
+830,25 or 6 to 4 - 2002 Remaster,Chicago,adult standards,147.0,91.0,-7.0,8.0,290.0,31.0,6.0,64.0,51.0
+831,Working Class Hero - Remastered 2010 / Lennon Legend Version,John Lennon,album rock,159.0,17.0,-19.0,12.0,228.0,73.0,5.0,57.0,51.0
+832,Lucky Man - 2012 Remastered Version,"Emerson, Lake & Palmer",album rock,154.0,38.0,-16.0,5.0,276.0,9.0,3.0,60.0,51.0
+833,Into the Mystic - 2013 Remaster,Van Morrison,classic rock,86.0,52.0,-10.0,12.0,206.0,37.0,3.0,72.0,51.0
+834,Carry On,"Crosby, Stills, Nash & Young",album rock,119.0,50.0,-12.0,27.0,266.0,6.0,4.0,58.0,51.0
+835,(They Long To Be) Close To You,Carpenters,adult standards,89.0,25.0,-15.0,12.0,276.0,71.0,3.0,60.0,52.0
+836,Move On Up,Curtis Mayfield,chicago soul,139.0,97.0,-6.0,12.0,166.0,42.0,9.0,67.0,52.0
+837,Tears In The Morning - Remastered 2009,The Beach Boys,baroque pop,128.0,36.0,-11.0,29.0,251.0,71.0,4.0,38.0,52.0
+838,Up Around The Bend,Creedence Clearwater Revival,album rock,130.0,85.0,-6.0,27.0,161.0,6.0,3.0,69.0,52.0
+839,Southern Man - 2009 Remaster,Neil Young,album rock,162.0,57.0,-9.0,13.0,331.0,39.0,3.0,53.0,52.0
+840,Stairway to Heaven - Remaster,Led Zeppelin,album rock,82.0,34.0,-12.0,12.0,483.0,58.0,3.0,79.0,51.0
+841,Imagine - Remastered,John Lennon,album rock,76.0,26.0,-12.0,9.0,188.0,91.0,3.0,78.0,51.0
+842,Riders on the Storm,The Doors,album rock,104.0,72.0,-12.0,11.0,435.0,25.0,3.0,74.0,51.0
+843,Echoes,Pink Floyd,album rock,134.0,32.0,-17.0,11.0,1412.0,37.0,4.0,58.0,51.0
+844,Vincent,Don McLean,adult standards,92.0,9.0,-19.0,34.0,243.0,91.0,4.0,69.0,51.0
+845,Me and Bobby McGee,Janis Joplin,blues rock,93.0,46.0,-11.0,15.0,271.0,30.0,4.0,71.0,51.0
+846,Baba O'Riley,The Who,album rock,117.0,72.0,-8.0,29.0,300.0,31.0,4.0,77.0,51.0
+847,Life on Mars? - 2015 Remaster,David Bowie,album rock,123.0,38.0,-15.0,5.0,236.0,64.0,4.0,71.0,51.0
+848,I Am...I Said - Single Version,Neil Diamond,adult standards,91.0,38.0,-14.0,11.0,213.0,14.0,3.0,60.0,50.0
+849,Ain't No Sunshine,Bill Withers,classic soul,80.0,42.0,-11.0,12.0,125.0,46.0,12.0,76.0,50.0
+850,Wild Horses,The Rolling Stones,album rock,140.0,39.0,-7.0,8.0,342.0,69.0,3.0,72.0,51.0
+851,L.A. Woman,The Doors,album rock,171.0,73.0,-9.0,12.0,471.0,8.0,4.0,67.0,51.0
+852,What's Going On,Marvin Gaye,classic soul,203.0,82.0,-6.0,36.0,233.0,10.0,10.0,69.0,50.0
+853,Halo of Flies,Alice Cooper,album rock,122.0,57.0,-13.0,9.0,502.0,39.0,5.0,44.0,51.0
+854,American Pie,Don McLean,adult standards,138.0,48.0,-12.0,8.0,517.0,70.0,6.0,74.0,51.0
+855,Tiny Dancer,Elton John,glam rock,145.0,43.0,-11.0,15.0,377.0,38.0,3.0,79.0,51.0
+856,Morning Has Broken,Yusuf / Cat Stevens,british folk,133.0,32.0,-13.0,9.0,200.0,62.0,3.0,68.0,51.0
+857,One Way Wind,The Cats,classic uk pop,109.0,65.0,-10.0,18.0,221.0,4.0,2.0,54.0,51.0
+858,One of These Days,Pink Floyd,album rock,104.0,51.0,-15.0,54.0,355.0,1.0,5.0,55.0,50.0
+859,Nothing Rhymed,Gilbert O'Sullivan,adult standards,175.0,59.0,-9.0,13.0,204.0,31.0,4.0,35.0,51.0
+860,Brown Sugar - Remastered,The Rolling Stones,album rock,129.0,93.0,-4.0,6.0,229.0,22.0,3.0,71.0,50.0
+861,You've Got a Friend,Carole King,adult standards,169.0,26.0,-11.0,12.0,309.0,88.0,3.0,68.0,50.0
+862,Locomotive Breath,Jethro Tull,album rock,125.0,53.0,-13.0,6.0,266.0,42.0,9.0,60.0,51.0
+863,She Flies On Strange Wings,Golden Earring,album rock,131.0,70.0,-8.0,11.0,443.0,2.0,4.0,37.0,50.0
+864,Changes - 2015 Remaster,David Bowie,album rock,115.0,31.0,-12.0,11.0,218.0,51.0,4.0,66.0,51.0
+865,Mercedes Benz,Janis Joplin,blues rock,87.0,11.0,-15.0,7.0,108.0,94.0,55.0,58.0,50.0
+866,Honky Tonk Women - Mono Version,The Rolling Stones,album rock,120.0,78.0,-7.0,7.0,179.0,36.0,6.0,67.0,51.0
+867,You've Got a Friend,James Taylor,adult standards,92.0,28.0,-15.0,8.0,269.0,68.0,3.0,68.0,51.0
+868,Cry Baby,Janis Joplin,blues rock,83.0,42.0,-10.0,5.0,239.0,52.0,3.0,66.0,51.0
+869,Storm And Thunder,Earth & Fire,classic uk pop,133.0,33.0,-11.0,13.0,388.0,5.0,4.0,24.0,51.0
+870,Roundabout - 2003 Remaster,Yes,album rock,133.0,76.0,-9.0,8.0,511.0,7.0,7.0,66.0,50.0
+871,Maggie May,Rod Stewart,adult standards,129.0,57.0,-11.0,7.0,350.0,56.0,4.0,72.0,51.0
+872,Won't Get Fooled Again - Original Album Version,The Who,album rock,135.0,92.0,-6.0,8.0,511.0,30.0,6.0,65.0,51.0
+873,After Midnight,J.J. Cale,blues,96.0,31.0,-19.0,9.0,144.0,17.0,4.0,62.0,50.0
+874,Give Up Your Guns,The Buoys,alternative pop rock,131.0,50.0,-13.0,20.0,254.0,48.0,3.0,39.0,50.0
+875,Love Her Madly,The Doors,album rock,147.0,59.0,-7.0,4.0,198.0,6.0,3.0,67.0,50.0
+876,Rock and Roll - Remaster,Led Zeppelin,album rock,170.0,89.0,-7.0,9.0,221.0,0.0,4.0,67.0,50.0
+877,Black Dog - Remaster,Led Zeppelin,album rock,81.0,86.0,-8.0,24.0,295.0,40.0,9.0,73.0,50.0
+878,Call Me The Breeze,J.J. Cale,blues,92.0,42.0,-15.0,10.0,157.0,75.0,4.0,58.0,51.0
+879,Famous Blue Raincoat,Leonard Cohen,canadian folk,119.0,4.0,-22.0,11.0,311.0,95.0,4.0,63.0,50.0
+880,Behind Blue Eyes,The Who,album rock,127.0,62.0,-8.0,9.0,221.0,21.0,3.0,71.0,51.0
+881,Yours Is No Disgrace - 2003 Remaster,Yes,album rock,141.0,63.0,-10.0,51.0,581.0,0.0,6.0,43.0,50.0
+882,See Emily Play,Pink Floyd,album rock,124.0,71.0,-9.0,13.0,174.0,21.0,4.0,50.0,50.0
+883,Smoke on the Water,Deep Purple,album rock,114.0,59.0,-11.0,5.0,342.0,10.0,3.0,64.0,49.0
+884,Perfect Day,Lou Reed,art rock,145.0,27.0,-12.0,10.0,225.0,74.0,3.0,69.0,49.0
+885,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John,glam rock,137.0,53.0,-9.0,9.0,282.0,43.0,3.0,82.0,49.0
+886,Heart of Gold - 2009 Remaster,Neil Young,album rock,171.0,46.0,-10.0,10.0,187.0,19.0,3.0,71.0,49.0
+888,Take It Easy - 2013 Remaster,Eagles,album rock,139.0,67.0,-10.0,13.0,212.0,34.0,3.0,75.0,50.0
+889,A Horse with No Name,America,album rock,123.0,51.0,-17.0,16.0,252.0,69.0,5.0,77.0,49.0
+890,Time In A Bottle,Jim Croce,adult standards,134.0,26.0,-12.0,15.0,148.0,85.0,3.0,58.0,49.0
+891,Lola - Live,The Kinks,album rock,134.0,51.0,-16.0,72.0,102.0,13.0,6.0,29.0,50.0
+892,Easy Livin',Uriah Heep,album rock,161.0,84.0,-7.0,28.0,157.0,0.0,10.0,56.0,50.0
+893,Ben - Single Version,Michael Jackson,pop,136.0,16.0,-11.0,11.0,167.0,91.0,3.0,53.0,49.0
+894,Walk On the Wild Side,Lou Reed,art rock,105.0,32.0,-17.0,9.0,254.0,68.0,11.0,75.0,50.0
+895,She's A Rainbow - Full Version / With Intro,The Rolling Stones,album rock,109.0,78.0,-9.0,34.0,252.0,44.0,4.0,55.0,49.0
+896,You're so Vain,Carly Simon,adult standards,106.0,68.0,-8.0,8.0,258.0,16.0,3.0,75.0,49.0
+897,Ziggy Stardust - 2012 Remaster,David Bowie,album rock,161.0,56.0,-12.0,21.0,194.0,5.0,12.0,64.0,50.0
+898,Whiskey In The Jar,Thin Lizzy,album rock,128.0,69.0,-11.0,20.0,345.0,53.0,4.0,63.0,50.0
+899,Listen to the Music,The Doobie Brothers,album rock,106.0,60.0,-13.0,7.0,227.0,22.0,3.0,75.0,50.0
+900,Top Of The World,Carpenters,adult standards,184.0,34.0,-13.0,10.0,179.0,81.0,4.0,65.0,50.0
+901,School's Out,Alice Cooper,album rock,134.0,75.0,-9.0,68.0,210.0,5.0,5.0,66.0,50.0
+902,A Thing Called Love,Johnny Cash,arkansas country,156.0,50.0,-11.0,26.0,153.0,48.0,3.0,54.0,50.0
+903,Harvest - 2009 Remaster,Neil Young,album rock,86.0,22.0,-18.0,11.0,189.0,74.0,4.0,51.0,49.0
+904,Sylvia's Mother,Dr. Hook,bubblegum pop,167.0,47.0,-13.0,34.0,228.0,69.0,5.0,58.0,50.0
+905,"Close to the Edge (i. The Solid Time of Change, ii. Total Mass Retain, iii. I Get up I Get Down, iv. Seasons of Man) - 2003 Remaster",Yes,album rock,81.0,60.0,-11.0,41.0,1121.0,27.0,6.0,47.0,49.0
+906,Ventura Highway,America,album rock,131.0,58.0,-10.0,6.0,211.0,22.0,3.0,69.0,50.0
+907,Witchy Woman - Eagles 2013 Remaster,Eagles,album rock,99.0,57.0,-12.0,12.0,251.0,36.0,3.0,56.0,50.0
+908,Song Sung Blue - Single Version,Neil Diamond,adult standards,109.0,33.0,-16.0,32.0,195.0,47.0,3.0,54.0,50.0
+909,Sylvia,Focus,album rock,109.0,78.0,-5.0,14.0,212.0,14.0,3.0,47.0,49.0
+910,Peaceful Easy Feeling - Eagles 2013 Remaster,Eagles,album rock,143.0,63.0,-12.0,25.0,258.0,49.0,3.0,65.0,49.0
+911,Do It Again,Steely Dan,album rock,125.0,54.0,-10.0,6.0,357.0,22.0,3.0,69.0,50.0
+912,Radar Love,Golden Earring,album rock,102.0,72.0,-9.0,8.0,387.0,1.0,4.0,57.0,49.0
+913,Angie,The Rolling Stones,album rock,136.0,55.0,-6.0,11.0,272.0,67.0,3.0,72.0,49.0
+914,Desperado - 2013 Remaster,Eagles,album rock,60.0,22.0,-13.0,27.0,214.0,95.0,3.0,66.0,49.0
+915,Dream On,Aerosmith,album rock,161.0,43.0,-10.0,33.0,267.0,39.0,3.0,78.0,49.0
+916,Time,Pink Floyd,album rock,120.0,48.0,-12.0,18.0,414.0,52.0,8.0,70.0,49.0
+917,Free Bird,Lynyrd Skynyrd,album rock,117.0,85.0,-8.0,6.0,559.0,1.0,5.0,71.0,49.0
+918,Money,Pink Floyd,album rock,124.0,54.0,-10.0,27.0,383.0,2.0,15.0,73.0,49.0
+919,Always On My Mind,Elvis Presley,adult standards,181.0,39.0,-14.0,12.0,218.0,75.0,3.0,61.0,48.0
+920,The Great Gig in the Sky,Pink Floyd,album rock,116.0,22.0,-14.0,8.0,284.0,77.0,3.0,66.0,49.0
+921,La Grange - 2005 Remaster,ZZ Top,album rock,81.0,64.0,-10.0,20.0,230.0,0.0,22.0,74.0,48.0
+922,"Leaving, On a Jet Plane - ""Greatest Hits"" Version",John Denver,adult standards,121.0,19.0,-13.0,11.0,246.0,85.0,3.0,64.0,49.0
+923,Us and Them,Pink Floyd,album rock,73.0,30.0,-15.0,63.0,469.0,86.0,3.0,65.0,49.0
+924,Firth of Fifth - New Stereo Mix,Genesis,album rock,85.0,60.0,-10.0,19.0,575.0,2.0,4.0,41.0,49.0
+925,Band On The Run - Remastered 2010,Paul McCartney,album rock,125.0,60.0,-9.0,11.0,313.0,8.0,3.0,71.0,48.0
+926,Sebastian - 2012 Remaster,Steve Harley & Cockney Rebel,classic uk pop,140.0,24.0,-14.0,7.0,421.0,68.0,3.0,46.0,48.0
+927,Tequila Sunrise - 2013 Remaster,Eagles,album rock,111.0,40.0,-13.0,11.0,173.0,54.0,3.0,62.0,49.0
+928,Knockin' On Heaven's Door - Remastered,Bob Dylan,album rock,140.0,40.0,-13.0,11.0,150.0,25.0,3.0,74.0,49.0
+929,Burning Love,Elvis Presley,adult standards,144.0,75.0,-11.0,28.0,170.0,10.0,3.0,68.0,49.0
+930,Goodbye Yellow Brick Road - Remastered 2014,Elton John,glam rock,121.0,47.0,-8.0,15.0,193.0,45.0,3.0,68.0,49.0
+931,Midnight Train to Georgia,Gladys Knight & The Pips,brill building pop,92.0,38.0,-12.0,10.0,279.0,27.0,5.0,67.0,49.0
+932,Daniel,Elton John,glam rock,132.0,48.0,-12.0,9.0,235.0,38.0,3.0,65.0,49.0
+933,The Joker,Steve Miller Band,album rock,83.0,45.0,-10.0,21.0,265.0,37.0,4.0,75.0,49.0
+934,Long Train Runnin',The Doobie Brothers,album rock,117.0,91.0,-7.0,6.0,207.0,9.0,4.0,71.0,48.0
+935,I'll Have To Say I Love You In A Song,Jim Croce,adult standards,134.0,51.0,-14.0,11.0,152.0,78.0,3.0,53.0,49.0
+936,The Jean Genie - 2013 Remaster,David Bowie,album rock,128.0,57.0,-9.0,36.0,248.0,38.0,3.0,64.0,48.0
+937,Merry Xmas Everybody,Slade,album rock,130.0,80.0,-3.0,18.0,223.0,22.0,4.0,76.0,49.0
+938,Woman from Tokyo,Deep Purple,album rock,127.0,54.0,-13.0,12.0,349.0,14.0,4.0,37.0,49.0
+939,Don't Let Me Down - Remastered 2009,The Beatles,british invasion,77.0,29.0,-11.0,9.0,216.0,57.0,3.0,68.0,49.0
+940,Let's Get It On,Marvin Gaye,classic soul,168.0,60.0,-11.0,8.0,291.0,4.0,5.0,69.0,49.0
+941,School,Supertramp,album rock,90.0,47.0,-15.0,7.0,335.0,54.0,8.0,63.0,48.0
+942,Jolene,Dolly Parton,classic country pop,111.0,54.0,-11.0,13.0,162.0,57.0,4.0,74.0,48.0
+943,Killer Queen - 2011 Mix,Queen,glam rock,117.0,65.0,-6.0,14.0,180.0,38.0,6.0,67.0,47.0
+944,Sweet Home Alabama,Lynyrd Skynyrd,album rock,98.0,61.0,-12.0,9.0,284.0,18.0,3.0,82.0,48.0
+945,Waterloo,ABBA,europop,148.0,93.0,-5.0,24.0,169.0,42.0,5.0,58.0,48.0
+946,Annie's Song,John Denver,adult standards,146.0,31.0,-11.0,37.0,181.0,87.0,3.0,69.0,47.0
+947,Dreamer,Supertramp,album rock,148.0,41.0,-14.0,8.0,213.0,86.0,7.0,59.0,48.0
+948,You Are So Beautiful,Joe Cocker,album rock,83.0,18.0,-11.0,13.0,160.0,85.0,3.0,57.0,47.0
+949,My Boy,Elvis Presley,adult standards,92.0,53.0,-12.0,61.0,199.0,59.0,3.0,42.0,48.0
+950,Rebel Rebel - 2016 Remaster,David Bowie,album rock,126.0,69.0,-16.0,28.0,275.0,21.0,5.0,74.0,47.0
+951,Crime Of The Century,Supertramp,album rock,123.0,42.0,-14.0,7.0,333.0,10.0,5.0,43.0,48.0
+952,Autobahn - 2009 Remaster,Kraftwerk,dance rock,82.0,50.0,-16.0,13.0,1367.0,11.0,4.0,48.0,48.0
+953,I Will Always Love You,Dolly Parton,classic country pop,136.0,14.0,-13.0,10.0,176.0,96.0,3.0,61.0,48.0
+954,Thank God I'm a Country Boy,John Denver,adult standards,106.0,54.0,-10.0,6.0,193.0,79.0,5.0,64.0,47.0
+955,The Air That I Breathe - 2008 Remaster,The Hollies,adult standards,168.0,47.0,-8.0,16.0,257.0,24.0,3.0,66.0,47.0
+956,Love Is All,Roger Glover,hard rock,112.0,81.0,-5.0,85.0,197.0,63.0,5.0,48.0,48.0
+957,Hide In Your Shell,Supertramp,album rock,112.0,36.0,-13.0,30.0,410.0,47.0,4.0,43.0,47.0
+958,Gute Nacht Freunde,Reinhard Mey,german pop,100.0,25.0,-18.0,69.0,149.0,94.0,6.0,46.0,47.0
+959,Fox On The Run,Sweet,album rock,128.0,64.0,-12.0,9.0,208.0,17.0,4.0,55.0,48.0
+960,You Ain't Seen Nothing Yet,Bachman-Turner Overdrive,album rock,118.0,44.0,-15.0,22.0,235.0,0.0,4.0,69.0,47.0
+961,Mandy,Barry Manilow,adult standards,104.0,46.0,-9.0,14.0,213.0,42.0,3.0,69.0,47.0
+962,Can't Get It out of My Head,Electric Light Orchestra,album rock,169.0,38.0,-14.0,13.0,261.0,75.0,3.0,51.0,47.0
+963,The Way We Were,Barbra Streisand,adult standards,138.0,32.0,-12.0,13.0,211.0,89.0,3.0,59.0,48.0
+964,Bohemian Rhapsody - 2011 Mix,Queen,glam rock,144.0,40.0,-10.0,24.0,354.0,29.0,5.0,77.0,47.0
+965,Love Of My Life - Remastered 2011,Queen,glam rock,79.0,18.0,-12.0,12.0,217.0,94.0,3.0,62.0,47.0
+966,Shine On You Crazy Diamond (Pts. 1-5),Pink Floyd,album rock,138.0,29.0,-12.0,11.0,811.0,77.0,3.0,66.0,47.0
+967,Born to Run,Bruce Springsteen,classic rock,146.0,94.0,-4.0,12.0,270.0,1.0,10.0,73.0,47.0
+968,Kashmir - 1990 Remaster,Led Zeppelin,album rock,81.0,54.0,-11.0,16.0,508.0,49.0,4.0,69.0,47.0
+969,"No Woman, No Cry - Live At The Lyceum, London/1975",Bob Marley & The Wailers,reggae,78.0,68.0,-9.0,73.0,428.0,27.0,6.0,70.0,46.0
+970,One of These Nights - 2013 Remaster,Eagles,album rock,110.0,61.0,-10.0,8.0,292.0,6.0,3.0,69.0,47.0
+971,Mamma Mia,ABBA,europop,138.0,75.0,-7.0,44.0,215.0,29.0,3.0,63.0,47.0
+972,Landslide,Fleetwood Mac,album rock,159.0,16.0,-22.0,12.0,199.0,88.0,3.0,77.0,47.0
+973,Thunder Road,Bruce Springsteen,classic rock,141.0,76.0,-6.0,53.0,289.0,62.0,4.0,66.0,46.0
+974,I'm Not In Love,10cc,album rock,134.0,52.0,-16.0,28.0,367.0,69.0,6.0,70.0,46.0
+975,Rhiannon,Fleetwood Mac,album rock,129.0,49.0,-15.0,9.0,253.0,11.0,3.0,68.0,46.0
+976,Lyin' Eyes - 2013 Remaster,Eagles,album rock,133.0,67.0,-10.0,16.0,382.0,20.0,2.0,65.0,46.0
+977,You're My Best Friend - Remastered 2011,Queen,glam rock,119.0,76.0,-7.0,7.0,171.0,16.0,5.0,61.0,47.0
+978,Jungleland,Bruce Springsteen,classic rock,134.0,58.0,-6.0,7.0,576.0,37.0,3.0,51.0,46.0
+979,Love Hurts,Nazareth,album rock,80.0,33.0,-12.0,33.0,233.0,1.0,3.0,58.0,46.0
+980,Down Down,Status Quo,album rock,90.0,90.0,-7.0,29.0,325.0,11.0,3.0,53.0,47.0
+981,Sailing,Rod Stewart,adult standards,129.0,37.0,-10.0,32.0,278.0,37.0,3.0,68.0,47.0
+982,39 - 2011 Mix,Queen,glam rock,102.0,58.0,-10.0,11.0,211.0,3.0,3.0,52.0,46.0
+983,Calypso,John Denver,adult standards,180.0,43.0,-9.0,12.0,216.0,82.0,3.0,54.0,47.0
+984,50 Ways to Leave Your Lover,Paul Simon,classic rock,102.0,37.0,-13.0,8.0,217.0,17.0,8.0,69.0,47.0
+985,It's A Long Way There - 2010 Digital Remaster,Little River Band,album rock,89.0,59.0,-11.0,15.0,525.0,19.0,4.0,49.0,46.0
+986,Crazy On You,Heart,album rock,130.0,46.0,-12.0,13.0,293.0,12.0,3.0,65.0,47.0
+987,Wij Zullen Doorgaan - 1975 Single Version,Ramses Shaffy,dutch cabaret,81.0,25.0,-17.0,21.0,264.0,91.0,3.0,37.0,47.0
+988,Make Me Smile (Come up and See Me) - 2014 Remaster,Steve Harley,classic uk pop,141.0,82.0,-8.0,9.0,239.0,1.0,3.0,63.0,47.0
+989,House For Sale,Lucifer,j-core,128.0,49.0,-9.0,40.0,281.0,22.0,3.0,37.0,46.0
+990,S.O.S.,ABBA,europop,125.0,70.0,-6.0,33.0,204.0,26.0,3.0,49.0,47.0
+991,Nights On Broadway,Bee Gees,adult standards,89.0,64.0,-9.0,86.0,271.0,24.0,4.0,53.0,47.0
+992,At Seventeen - Remastered,Janis Ian,classic uk pop,125.0,27.0,-17.0,11.0,284.0,88.0,5.0,48.0,47.0
+993,Take It to the Limit - 2013 Remaster,Eagles,album rock,91.0,42.0,-9.0,13.0,287.0,9.0,2.0,63.0,46.0
+994,Fame - 2016 Remaster,David Bowie,album rock,95.0,56.0,-10.0,8.0,261.0,45.0,5.0,60.0,47.0
+995,Sex Machine - Pt. 1 & 2,James Brown,funk,106.0,96.0,-6.0,35.0,715.0,18.0,9.0,27.0,47.0
+996,Show Me The Way,Peter Frampton,album rock,130.0,73.0,-8.0,10.0,243.0,43.0,3.0,66.0,46.0
+997,Meeting Across the River,Bruce Springsteen,classic rock,105.0,29.0,-10.0,18.0,197.0,82.0,3.0,43.0,47.0
+999,Still Crazy After All These Years,Paul Simon,classic rock,37.0,25.0,-12.0,9.0,207.0,80.0,4.0,61.0,47.0
+1000,Hotel California - 2013 Remaster,Eagles,album rock,147.0,51.0,-9.0,6.0,391.0,1.0,3.0,82.0,45.0
+1001,Somebody To Love - 2011 Mix,Queen,glam rock,112.0,69.0,-7.0,22.0,296.0,19.0,6.0,70.0,45.0
+1002,Dancing Queen,ABBA,europop,101.0,88.0,-7.0,76.0,231.0,38.0,4.0,72.0,45.0
+1003,The Last Resort - 2013 Remaster,Eagles,album rock,126.0,28.0,-11.0,16.0,445.0,47.0,3.0,52.0,45.0
+1004,Hurricane,Bob Dylan,album rock,136.0,83.0,-8.0,12.0,513.0,4.0,8.0,69.0,46.0
+1005,More Than a Feeling,Boston,album rock,109.0,68.0,-8.0,5.0,285.0,0.0,3.0,78.0,45.0
+1006,(Don't Fear) The Reaper,Blue Öyster Cult,album rock,141.0,93.0,-9.0,30.0,308.0,0.0,7.0,75.0,46.0
+1007,New Kid in Town - 2013 Remaster,Eagles,album rock,107.0,43.0,-10.0,11.0,305.0,38.0,3.0,64.0,46.0
+1008,If You Leave Me Now,Chicago,adult standards,104.0,56.0,-7.0,13.0,235.0,2.0,3.0,74.0,45.0
+1009,Wild Is the Wind - 2016 Remaster,David Bowie,album rock,98.0,58.0,-13.0,5.0,366.0,2.0,3.0,53.0,46.0
+1010,Tie Your Mother Down - Remastered 2011,Queen,glam rock,135.0,89.0,-6.0,35.0,287.0,9.0,7.0,50.0,45.0
+1011,Fernando,ABBA,europop,111.0,53.0,-9.0,8.0,256.0,58.0,3.0,56.0,46.0
+1012,"Knowing Me, Knowing You",ABBA,europop,107.0,74.0,-7.0,24.0,244.0,4.0,3.0,52.0,46.0
+1013,Fool To Cry - Remastered 2009,The Rolling Stones,album rock,68.0,45.0,-7.0,11.0,305.0,89.0,4.0,55.0,46.0
+1014,Carry on Wayward Son,Kansas,album rock,127.0,79.0,-6.0,45.0,323.0,0.0,3.0,75.0,45.0
+1015,New York State of Mind,Billy Joel,album rock,121.0,37.0,-9.0,32.0,362.0,50.0,3.0,61.0,46.0
+1016,Golden Years - 2016 Remaster,David Bowie,album rock,108.0,70.0,-10.0,11.0,243.0,32.0,4.0,60.0,45.0
+1017,Isn't She Lovely,Stevie Wonder,adult standards,119.0,83.0,-7.0,32.0,394.0,18.0,9.0,67.0,45.0
+1018,I Wish,Stevie Wonder,adult standards,106.0,72.0,-10.0,7.0,252.0,8.0,5.0,64.0,45.0
+1019,Tom Traubert's Blues (Four Sheets To The Wind In Copenhagen),Tom Waits,folk,135.0,28.0,-13.0,17.0,399.0,80.0,3.0,52.0,46.0
+1020,The Boys Are Back In Town,Thin Lizzy,album rock,81.0,71.0,-10.0,21.0,267.0,23.0,5.0,74.0,46.0
+1021,Livin' Thing,Electric Light Orchestra,album rock,123.0,65.0,-7.0,12.0,212.0,58.0,3.0,70.0,46.0
+1022,Sir Duke,Stevie Wonder,adult standards,107.0,57.0,-10.0,8.0,233.0,16.0,7.0,72.0,46.0
+1023,Blitzkrieg Bop - 2016 Remaster,Ramones,classic rock,177.0,78.0,-3.0,11.0,134.0,0.0,23.0,71.0,46.0
+1024,Fly Like An Eagle,Steve Miller Band,album rock,100.0,75.0,-13.0,33.0,283.0,61.0,11.0,68.0,46.0
+1025,Blinded By The Light,Manfred Mann's Earth Band,album rock,142.0,70.0,-10.0,9.0,428.0,29.0,7.0,61.0,46.0
+1026,Cocaine,J.J. Cale,blues,104.0,41.0,-15.0,14.0,169.0,41.0,5.0,59.0,46.0
+1027,The Ballroom Blitz,Sweet,album rock,109.0,88.0,-7.0,4.0,242.0,0.0,8.0,54.0,46.0
+1028,"Money, Money, Money",ABBA,europop,121.0,69.0,-7.0,11.0,187.0,52.0,4.0,44.0,46.0
+1029,Wasted Time - 2013 Remaster,Eagles,album rock,118.0,17.0,-11.0,11.0,296.0,42.0,4.0,54.0,46.0
+1030,Theme From Mahogany (Do You Know Where You're Going To) - Single Version,Diana Ross,adult standards,140.0,42.0,-11.0,10.0,204.0,55.0,3.0,49.0,45.0
+1031,Heroes - 2017 Remaster,David Bowie,album rock,112.0,76.0,-6.0,9.0,371.0,0.0,3.0,75.0,45.0
+1032,Paradise By the Dashboard Light,Meat Loaf,album rock,173.0,87.0,-8.0,46.0,508.0,21.0,12.0,67.0,45.0
+1033,Go Your Own Way - 2004 Remaster,Fleetwood Mac,album rock,135.0,94.0,-5.0,7.0,224.0,2.0,4.0,73.0,45.0
+1034,Mr. Blue Sky,Electric Light Orchestra,album rock,178.0,34.0,-10.0,25.0,303.0,65.0,3.0,80.0,45.0
+1035,Fool's Overture,Supertramp,album rock,135.0,31.0,-10.0,7.0,653.0,31.0,4.0,56.0,45.0
+1036,Whole Lotta Rosie,AC/DC,album rock,159.0,84.0,-4.0,10.0,334.0,0.0,8.0,65.0,45.0
+1037,We Will Rock You - Remastered,Queen,glam rock,81.0,50.0,-7.0,26.0,122.0,68.0,12.0,70.0,44.0
+1038,The Chain - 2004 Remaster,Fleetwood Mac,album rock,152.0,67.0,-9.0,5.0,270.0,1.0,5.0,78.0,44.0
+1039,Three Little Birds,Bob Marley & The Wailers,reggae,148.0,48.0,-10.0,5.0,180.0,1.0,6.0,78.0,45.0
+1040,We Are The Champions - Remastered 2011,Queen,glam rock,64.0,46.0,-7.0,12.0,179.0,38.0,3.0,66.0,45.0
+1041,She's Always a Woman,Billy Joel,album rock,177.0,32.0,-12.0,12.0,201.0,80.0,3.0,72.0,45.0
+1042,Worn Down Piano,The Mark & Clark Band,classic rock,112.0,71.0,-10.0,13.0,488.0,10.0,6.0,32.0,45.0
+1043,Dust in the Wind,Kansas,album rock,94.0,32.0,-11.0,11.0,206.0,37.0,3.0,77.0,45.0
+1044,Bat Out of Hell,Meat Loaf,album rock,172.0,84.0,-8.0,29.0,590.0,28.0,7.0,60.0,45.0
+1045,Solsbury Hill,Peter Gabriel,album rock,102.0,63.0,-9.0,31.0,261.0,36.0,3.0,60.0,45.0
+1046,Thank You For The Music,ABBA,europop,200.0,42.0,-9.0,10.0,232.0,84.0,4.0,48.0,44.0
+1047,Wonderful Tonight,Eric Clapton,album rock,96.0,21.0,-16.0,13.0,225.0,65.0,3.0,73.0,45.0
+1048,Lust For Life,Iggy Pop,alternative rock,104.0,97.0,-6.0,10.0,314.0,3.0,4.0,68.0,45.0
+1049,She's Not There,Santana,blues rock,130.0,70.0,-8.0,31.0,249.0,40.0,4.0,52.0,44.0
+1050,Stayin' Alive,Bee Gees,adult standards,104.0,54.0,-20.0,9.0,93.0,11.0,4.0,60.0,44.0
+1051,Psycho Killer - 2005 Remaster,Talking Heads,alternative rock,123.0,52.0,-8.0,13.0,261.0,7.0,6.0,73.0,44.0
+1052,Fantasy,"Earth, Wind & Fire",disco,89.0,75.0,-9.0,14.0,277.0,32.0,9.0,48.0,45.0
+1053,Songbird - 2004 Remaster,Fleetwood Mac,album rock,184.0,9.0,-15.0,10.0,201.0,98.0,3.0,56.0,44.0
+1054,Let There Be Rock,AC/DC,album rock,91.0,73.0,-6.0,8.0,366.0,0.0,9.0,62.0,45.0
+1055,Don't Stop - 2004 Remaster,Fleetwood Mac,album rock,119.0,72.0,-8.0,4.0,193.0,4.0,4.0,67.0,45.0
+1056,I Feel Love,Donna Summer,dance pop,127.0,71.0,-16.0,9.0,355.0,3.0,4.0,46.0,44.0
+1057,The Passenger,Iggy Pop,alternative rock,135.0,89.0,-5.0,73.0,283.0,9.0,5.0,72.0,45.0
+1058,Het Werd Zomer,Rob De Nijs,dutch pop,133.0,43.0,-11.0,16.0,251.0,43.0,3.0,49.0,44.0
+1059,Take A Chance On Me,ABBA,europop,107.0,69.0,-8.0,20.0,244.0,17.0,3.0,63.0,45.0
+1060,Give A Little Bit,Supertramp,album rock,91.0,82.0,-5.0,26.0,248.0,7.0,5.0,74.0,44.0
+1061,Sound and Vision - 2017 Remaster,David Bowie,album rock,106.0,80.0,-9.0,6.0,184.0,3.0,4.0,62.0,44.0
+1062,Spread Your Wings - 2011 Mix,Queen,glam rock,175.0,66.0,-6.0,6.0,274.0,28.0,3.0,50.0,44.0
+1063,You Took The Words Right Out of My Mouth (Hot Summer Night),Meat Loaf,album rock,125.0,68.0,-9.0,50.0,304.0,25.0,8.0,57.0,45.0
+1064,Two Out of Three Ain't Bad,Meat Loaf,album rock,80.0,48.0,-9.0,9.0,324.0,39.0,2.0,60.0,45.0
+1065,Cocaine,Eric Clapton,album rock,105.0,50.0,-13.0,32.0,222.0,6.0,3.0,68.0,44.0
+1066,Barracuda,Heart,album rock,137.0,69.0,-14.0,14.0,262.0,2.0,4.0,74.0,44.0
+1067,One Love / People Get Ready - Medley,Bob Marley & The Wailers,reggae,76.0,52.0,-10.0,7.0,173.0,8.0,32.0,74.0,44.0
+1068,Cold as Ice,Foreigner,album rock,133.0,49.0,-12.0,14.0,201.0,10.0,3.0,68.0,44.0
+1069,The Name Of The Game,ABBA,europop,77.0,56.0,-9.0,6.0,294.0,40.0,3.0,46.0,45.0
+1070,Mannish Boy,Muddy Waters,blues,111.0,74.0,-11.0,68.0,321.0,44.0,10.0,63.0,44.0
+1071,I Want You to Want Me,Cheap Trick,album rock,93.0,46.0,-13.0,15.0,191.0,78.0,3.0,70.0,44.0
+1072,Scenes from an Italian Restaurant,Billy Joel,album rock,98.0,93.0,-5.0,11.0,457.0,41.0,13.0,60.0,45.0
+1073,God Save the Queen,Sex Pistols,punk,148.0,91.0,-5.0,15.0,200.0,0.0,7.0,51.0,45.0
+1074,La vie en rose,Grace Jones,art rock,177.0,48.0,-16.0,6.0,448.0,23.0,6.0,58.0,45.0
+1075,Spanish Stroll,Mink DeVille,dutch rock,129.0,45.0,-15.0,12.0,220.0,42.0,6.0,47.0,45.0
+1076,Le Freak - 2018 Remaster,CHIC,disco,119.0,64.0,-11.0,6.0,331.0,3.0,6.0,69.0,44.0
+1077,Lovely Day,Bill Withers,classic soul,98.0,65.0,-8.0,11.0,255.0,29.0,3.0,72.0,44.0
+1078,Isn't It Time,The Babys,album rock,117.0,93.0,-7.0,82.0,244.0,39.0,10.0,49.0,45.0
+1079,Just the Way You Are,Billy Joel,album rock,139.0,45.0,-9.0,13.0,291.0,70.0,4.0,68.0,44.0
+1080,Anarchy in the U.K.,Sex Pistols,punk,134.0,98.0,-4.0,20.0,212.0,4.0,12.0,54.0,44.0
+1081,You Make Loving Fun - 2004 Remaster,Fleetwood Mac,album rock,127.0,60.0,-9.0,10.0,217.0,1.0,3.0,58.0,44.0
+1082,Sultans of Swing,Dire Straits,album rock,148.0,87.0,-7.0,32.0,350.0,6.0,3.0,66.0,43.0
+1083,Don't Stop Me Now - 2011 Mix,Queen,glam rock,156.0,87.0,-5.0,77.0,209.0,5.0,16.0,76.0,43.0
+1084,Laat Me,Ramses Shaffy,dutch cabaret,102.0,33.0,-14.0,15.0,305.0,65.0,3.0,50.0,43.0
+1085,Wuthering Heights,Kate Bush,art pop,125.0,39.0,-11.0,12.0,269.0,37.0,3.0,68.0,44.0
+1086,Saturday Night,Herman Brood & His Wild Romance,dutch indie,92.0,61.0,-7.0,68.0,223.0,60.0,3.0,48.0,44.0
+1087,Roxanne,The Police,album rock,134.0,75.0,-9.0,5.0,192.0,4.0,36.0,78.0,43.0
+1088,Hold the Line,TOTO,album rock,96.0,70.0,-12.0,15.0,236.0,4.0,6.0,75.0,44.0
+1089,The Man with the Child in His Eyes,Kate Bush,art pop,90.0,26.0,-11.0,14.0,159.0,96.0,3.0,53.0,44.0
+1090,Badlands,Bruce Springsteen,classic rock,123.0,78.0,-8.0,28.0,242.0,9.0,5.0,58.0,43.0
+1091,Baker Street,Gerry Rafferty,album rock,114.0,35.0,-14.0,26.0,366.0,9.0,3.0,69.0,44.0
+1092,Dreadlock Holiday,10cc,album rock,105.0,38.0,-13.0,20.0,268.0,54.0,6.0,67.0,43.0
+1093,Fat Bottomed Girls - Single Version,Queen,glam rock,88.0,69.0,-8.0,36.0,203.0,6.0,6.0,51.0,44.0
+1094,Runnin' with the Devil - 2015 Remaster,Van Halen,album rock,96.0,90.0,-6.0,34.0,215.0,15.0,6.0,70.0,44.0
+1095,Bicycle Race - Remastered 2011,Queen,glam rock,83.0,67.0,-6.0,10.0,181.0,6.0,8.0,55.0,43.0
+1096,Follow You Follow Me - 2007 Remaster,Genesis,album rock,93.0,72.0,-10.0,8.0,241.0,13.0,3.0,51.0,44.0
+1097,So Lonely,The Police,album rock,77.0,57.0,-8.0,9.0,290.0,1.0,16.0,66.0,44.0
+1098,How You Gonna See Me Now,Alice Cooper,album rock,137.0,34.0,-14.0,13.0,236.0,46.0,4.0,49.0,43.0
+1099,Miss You - Remastered,The Rolling Stones,album rock,110.0,71.0,-5.0,34.0,289.0,44.0,4.0,67.0,44.0
+1100,"Stir It Up - Live At The Pavillon De Paris, 1977",Bob Marley & The Wailers,reggae,91.0,82.0,-7.0,97.0,317.0,10.0,5.0,40.0,44.0
+1101,Is This Love,Bob Marley & The Wailers,reggae,122.0,56.0,-8.0,7.0,232.0,11.0,10.0,76.0,43.0
+1102,Because the Night,Patti Smith,art pop,123.0,80.0,-5.0,10.0,205.0,5.0,4.0,66.0,44.0
+1103,What a Fool Believes,The Doobie Brothers,album rock,121.0,38.0,-15.0,5.0,224.0,28.0,4.0,69.0,44.0
+1104,Still Believe,Herman Brood & His Wild Romance,dutch indie,95.0,85.0,-8.0,63.0,191.0,1.0,3.0,38.0,43.0
+1105,Rivers of Babylon,Boney M.,disco,115.0,85.0,-7.0,44.0,261.0,13.0,4.0,65.0,44.0
+1106,Don't Look Back,Boston,album rock,122.0,72.0,-10.0,36.0,360.0,2.0,4.0,55.0,44.0
+1107,Beast Of Burden - Remastered,The Rolling Stones,album rock,101.0,88.0,-4.0,4.0,265.0,39.0,3.0,74.0,44.0
+1108,Honesty,Billy Joel,album rock,135.0,27.0,-15.0,11.0,234.0,42.0,3.0,59.0,44.0
+1109,Born to Be Alive - Original Mix 79,Patrick Hernandez,disco,131.0,87.0,-6.0,21.0,188.0,8.0,3.0,66.0,44.0
+1111,You Don't Bring Me Flowers,Neil Diamond,adult standards,67.0,12.0,-18.0,16.0,195.0,88.0,4.0,56.0,43.0
+1112,Water of Love,Dire Straits,album rock,121.0,57.0,-13.0,11.0,327.0,45.0,3.0,41.0,44.0
+1113,Comfortably Numb,Pink Floyd,album rock,127.0,37.0,-13.0,8.0,382.0,15.0,3.0,75.0,42.0
+1114,Highway to Hell,AC/DC,album rock,116.0,91.0,-5.0,16.0,208.0,6.0,13.0,83.0,42.0
+1115,"Another Brick in the Wall, Pt. 2",Pink Floyd,album rock,104.0,39.0,-16.0,25.0,239.0,8.0,4.0,77.0,43.0
+1116,The Rose,Bette Midler,adult standards,134.0,23.0,-10.0,38.0,221.0,90.0,3.0,67.0,43.0
+1117,The Logical Song - Remastered 2010,Supertramp,album rock,120.0,76.0,-6.0,15.0,251.0,51.0,5.0,72.0,43.0
+1118,I Was Made For Lovin' You,KISS,album rock,128.0,85.0,-6.0,7.0,271.0,21.0,4.0,78.0,43.0
+1119,Gimme! Gimme! Gimme! (A Man After Midnight),ABBA,europop,120.0,49.0,-10.0,22.0,293.0,2.0,4.0,64.0,42.0
+1120,Message In A Bottle,The Police,album rock,151.0,81.0,-7.0,22.0,290.0,3.0,4.0,74.0,42.0
+1121,Hey You,Pink Floyd,album rock,112.0,30.0,-15.0,13.0,278.0,22.0,3.0,68.0,42.0
+1122,One Step Beyond,Madness,dance rock,155.0,94.0,-5.0,41.0,138.0,1.0,4.0,42.0,42.0
+1123,Chiquitita,ABBA,europop,84.0,56.0,-8.0,30.0,327.0,70.0,3.0,56.0,42.0
+1124,Does Your Mother Know,ABBA,europop,136.0,86.0,-6.0,6.0,196.0,15.0,4.0,45.0,43.0
+1125,How Deep Is Your Love,Bee Gees,adult standards,105.0,36.0,-9.0,13.0,245.0,11.0,3.0,77.0,42.0
+1126,Bright Eyes,Art Garfunkel,adult standards,113.0,21.0,-16.0,8.0,239.0,75.0,3.0,57.0,43.0
+1127,Take The Long Way Home - 2010 Remastered,Supertramp,album rock,77.0,70.0,-9.0,11.0,309.0,22.0,3.0,64.0,43.0
+1128,Breakfast In America - Remastered,Supertramp,album rock,75.0,66.0,-6.0,7.0,159.0,43.0,3.0,70.0,43.0
+1129,I Have A Dream,ABBA,europop,104.0,37.0,-12.0,17.0,286.0,57.0,2.0,49.0,43.0
+1130,Boogie Wonderland,"Earth, Wind & Fire",disco,132.0,76.0,-11.0,5.0,288.0,8.0,3.0,73.0,42.0
+1131,Boys Don't Cry - Single Version,The Cure,dance rock,169.0,84.0,-6.0,11.0,158.0,0.0,6.0,63.0,42.0
+1132,Voulez-Vous,ABBA,europop,127.0,78.0,-7.0,15.0,309.0,12.0,4.0,53.0,43.0
+1133,September Morn,Neil Diamond,adult standards,129.0,23.0,-17.0,22.0,232.0,63.0,4.0,59.0,42.0
+1134,MacArthur Park - Single Version,Donna Summer,dance pop,131.0,67.0,-12.0,5.0,235.0,8.0,4.0,52.0,42.0
+1135,Don't Stop 'Til You Get Enough - Single Version,Michael Jackson,pop,119.0,82.0,-10.0,18.0,365.0,13.0,9.0,74.0,43.0
+1136,London Calling - Remastered,The Clash,classic rock,134.0,80.0,-7.0,8.0,200.0,12.0,5.0,73.0,43.0
+1137,Night Boat to Cairo,Madness,dance rock,156.0,97.0,-5.0,7.0,211.0,12.0,4.0,34.0,43.0
+1138,Goodbye Stranger - 2010 Remastered,Supertramp,album rock,125.0,67.0,-7.0,6.0,351.0,61.0,5.0,66.0,43.0
+1139,Walking On The Moon,The Police,album rock,146.0,34.0,-13.0,21.0,301.0,0.0,5.0,64.0,43.0
+1140,Don't Bring Me Down,Electric Light Orchestra,album rock,116.0,87.0,-6.0,8.0,243.0,14.0,3.0,70.0,42.0
+1141,Tragedy,Bee Gees,adult standards,118.0,53.0,-11.0,30.0,303.0,9.0,3.0,64.0,43.0
+1142,Off the Wall,Michael Jackson,pop,119.0,60.0,-14.0,8.0,246.0,18.0,6.0,62.0,42.0
+1143,The Worker,Fischer-Z,dutch rock,82.0,52.0,-16.0,12.0,215.0,2.0,3.0,44.0,42.0
+1144,Sure Know Something,KISS,album rock,115.0,73.0,-6.0,13.0,242.0,28.0,3.0,52.0,42.0
+1145,Relight My Fire - Single Version,Dan Hartman,disco,120.0,66.0,-11.0,33.0,226.0,1.0,4.0,52.0,42.0
+1146,Weekend Love,Golden Earring,album rock,167.0,74.0,-6.0,11.0,255.0,28.0,4.0,44.0,42.0
+1147,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",Bee Gees,adult standards,106.0,68.0,-6.0,85.0,197.0,16.0,4.0,70.0,43.0
+1148,Rock with You - Single Version,Michael Jackson,pop,114.0,54.0,-13.0,16.0,221.0,18.0,4.0,73.0,43.0
+1149,Weekend,Earth & Fire,classic uk pop,122.0,57.0,-11.0,13.0,215.0,37.0,4.0,49.0,42.0
+1150,Dancin' Fool,Frank Zappa,album rock,133.0,64.0,-9.0,52.0,223.0,41.0,15.0,40.0,43.0
+1151,We Belong to the Night,Ellen Foley,pop,101.0,75.0,-9.0,23.0,321.0,0.0,4.0,40.0,42.0
+1152,Sausolito Summernight - Digitally Remastered 2017,Diesel,basshall,125.0,93.0,-6.0,27.0,306.0,6.0,11.0,39.0,43.0
+1153,The River,Bruce Springsteen,classic rock,117.0,54.0,-11.0,31.0,302.0,18.0,3.0,66.0,41.0
+1154,A Forest - Remastered Version,The Cure,dance rock,81.0,62.0,-11.0,10.0,355.0,34.0,6.0,53.0,41.0
+1155,The Winner Takes It All,ABBA,europop,127.0,79.0,-7.0,8.0,295.0,55.0,4.0,59.0,42.0
+1156,Ace of Spades,Motörhead,album rock,140.0,98.0,-7.0,9.0,166.0,0.0,17.0,74.0,41.0
+1157,Another One Bites The Dust - Remastered 2011,Queen,glam rock,110.0,53.0,-6.0,16.0,215.0,11.0,16.0,74.0,41.0
+1158,Back In Black,AC/DC,album rock,188.0,70.0,-6.0,8.0,255.0,1.0,5.0,83.0,42.0
+1159,Romeo and Juliet,Dire Straits,album rock,87.0,57.0,-8.0,8.0,361.0,44.0,3.0,54.0,42.0
+1160,Redemption Song,Bob Marley & The Wailers,reggae,116.0,26.0,-11.0,7.0,234.0,61.0,4.0,71.0,42.0
+1161,You Shook Me All Night Long,AC/DC,album rock,127.0,77.0,-6.0,39.0,210.0,0.0,6.0,78.0,42.0
+1162,Crazy Little Thing Called Love - Remastered 2011,Queen,glam rock,77.0,76.0,-7.0,35.0,163.0,71.0,4.0,66.0,42.0
+1163,Lay All Your Love On Me,ABBA,europop,133.0,72.0,-8.0,37.0,274.0,11.0,3.0,48.0,41.0
+1164,Long Blond Animal,Golden Earring,album rock,169.0,70.0,-8.0,28.0,217.0,1.0,4.0,39.0,42.0
+1165,Think,The Blues Brothers,blues,129.0,84.0,-6.0,24.0,195.0,50.0,19.0,56.0,42.0
+1166,Once in a Lifetime - 2005 Remaster,Talking Heads,alternative rock,117.0,92.0,-6.0,62.0,260.0,18.0,6.0,69.0,42.0
+1167,The Turn of a Friendly Card,The Alan Parsons Project,album rock,151.0,32.0,-15.0,8.0,966.0,52.0,4.0,32.0,42.0
+1168,So Long,Fischer-Z,dutch rock,127.0,38.0,-15.0,5.0,303.0,1.0,4.0,49.0,42.0
+1169,Tunnel of Love (Intro: The Carousel Waltz),Dire Straits,album rock,137.0,69.0,-11.0,28.0,489.0,25.0,4.0,43.0,42.0
+1170,Happy New Year,ABBA,europop,133.0,38.0,-9.0,12.0,264.0,82.0,3.0,50.0,41.0
+1171,Ashes to Ashes - 2017 Remaster,David Bowie,album rock,120.0,74.0,-11.0,26.0,266.0,27.0,5.0,62.0,42.0
+1172,Foto Van Vroeger,Rob De Nijs,dutch pop,178.0,29.0,-16.0,29.0,280.0,67.0,5.0,31.0,42.0
+1173,Could You Be Loved,Bob Marley & The Wailers,reggae,103.0,72.0,-9.0,10.0,237.0,36.0,10.0,77.0,42.0
+1174,9 to 5,Dolly Parton,classic country pop,105.0,78.0,-6.0,63.0,162.0,42.0,5.0,76.0,41.0
+1175,Everybody Needs Somebody to Love,The Blues Brothers,blues,194.0,93.0,-4.0,37.0,203.0,61.0,7.0,63.0,41.0
+1176,Super Trouper,ABBA,europop,118.0,63.0,-8.0,17.0,255.0,46.0,3.0,60.0,41.0
+1177,Save Me - Remastered 2011,Queen,glam rock,82.0,45.0,-7.0,13.0,230.0,36.0,3.0,51.0,42.0
+1178,Keep on Loving You,REO Speedwagon,album rock,175.0,72.0,-6.0,12.0,200.0,5.0,3.0,71.0,42.0
+1179,Woman in Love,Barbra Streisand,adult standards,170.0,28.0,-16.0,13.0,232.0,25.0,3.0,68.0,41.0
+1180,The Spirit Of Radio,Rush,album rock,136.0,92.0,-7.0,42.0,296.0,1.0,5.0,63.0,41.0
+1181,Baggy Trousers,Madness,dance rock,145.0,89.0,-5.0,34.0,167.0,14.0,4.0,33.0,42.0
+1182,Hungry Heart,Bruce Springsteen,classic rock,110.0,89.0,-7.0,16.0,199.0,9.0,3.0,69.0,42.0
+1183,Guilty (feat. Barry Gibb),Barbra Streisand,adult standards,151.0,43.0,-16.0,11.0,264.0,23.0,4.0,67.0,42.0
+1184,Biko,Peter Gabriel,album rock,179.0,36.0,-11.0,24.0,452.0,28.0,4.0,36.0,42.0
+1185,Food For Thought,UB40,reggae fusion,131.0,53.0,-13.0,20.0,250.0,1.0,8.0,50.0,42.0
+1186,Late in the Evening,Paul Simon,classic rock,119.0,88.0,-9.0,9.0,243.0,20.0,4.0,58.0,42.0
+1187,Enola Gay - Remastered,Orchestral Manoeuvres In The Dark,art rock,143.0,76.0,-7.0,8.0,214.0,0.0,3.0,65.0,41.0
+1188,Master Blaster (Jammin'),Stevie Wonder,adult standards,131.0,42.0,-15.0,18.0,308.0,4.0,5.0,61.0,42.0
+1189,Don't Stand So Close To Me,The Police,album rock,140.0,51.0,-9.0,4.0,243.0,5.0,6.0,67.0,42.0
+1190,Wish You Were Here,Pink Floyd,album rock,121.0,32.0,-14.0,38.0,321.0,72.0,5.0,47.0,40.0
+1191,In The Air Tonight - 2015 Remastered,Phil Collins,mellow gold,190.0,24.0,-14.0,7.0,336.0,55.0,3.0,77.0,41.0
+1192,Don't Stop Believin',Journey,album rock,119.0,75.0,-9.0,45.0,251.0,13.0,4.0,80.0,41.0
+1193,The Day Before You Came,ABBA,europop,108.0,39.0,-15.0,5.0,349.0,5.0,4.0,51.0,41.0
+1194,Golden Brown,The Stranglers,art rock,94.0,38.0,-15.0,14.0,207.0,14.0,3.0,67.0,41.0
+1195,Every Little Thing She Does Is Magic,The Police,album rock,82.0,77.0,-10.0,12.0,261.0,12.0,3.0,73.0,41.0
+1196,Start Me Up - Remastered,The Rolling Stones,album rock,122.0,93.0,-4.0,9.0,213.0,4.0,4.0,76.0,41.0
+1197,One Of Us,ABBA,europop,82.0,40.0,-15.0,7.0,237.0,48.0,4.0,59.0,40.0
+1198,Waiting On A Friend - Remastered 2009,The Rolling Stones,album rock,117.0,79.0,-6.0,57.0,274.0,16.0,3.0,58.0,41.0
+1199,Tainted Love,Soft Cell,dance rock,145.0,51.0,-8.0,29.0,154.0,48.0,4.0,53.0,40.0
+1200,Memory,Barbra Streisand,adult standards,76.0,24.0,-15.0,11.0,235.0,42.0,4.0,56.0,40.0
+1201,Everytime I Think of You - 2000 Remaster,The Babys,album rock,121.0,73.0,-6.0,20.0,243.0,32.0,4.0,35.0,41.0
+1202,Don't You Want Me,The Human League,art rock,118.0,74.0,-8.0,21.0,237.0,18.0,4.0,74.0,40.0
+1203,I'll Find My Way Home - Remastered,Jon & Vangelis,album rock,172.0,60.0,-10.0,7.0,271.0,31.0,3.0,43.0,41.0
+1204,Je Loog Tegen Mij,Drukwerk,dutch rock,79.0,35.0,-14.0,9.0,206.0,46.0,3.0,46.0,40.0
+1205,Africa,TOTO,album rock,93.0,37.0,-18.0,5.0,296.0,26.0,3.0,84.0,39.0
+1206,Telegraph Road,Dire Straits,album rock,125.0,59.0,-10.0,27.0,859.0,2.0,3.0,41.0,40.0
+1207,Under Pressure - Remastered,Queen,glam rock,114.0,71.0,-8.0,10.0,248.0,42.0,5.0,72.0,40.0
+1208,Old and Wise,The Alan Parsons Project,album rock,112.0,32.0,-12.0,12.0,295.0,73.0,3.0,58.0,39.0
+1209,Private Investigations,Dire Straits,album rock,84.0,10.0,-20.0,8.0,407.0,70.0,3.0,38.0,40.0
+1210,Billie Jean,Michael Jackson,pop,117.0,65.0,-3.0,4.0,294.0,2.0,4.0,81.0,40.0
+1211,Run to the Hills - 2015 Remaster,Iron Maiden,album rock,174.0,94.0,-5.0,16.0,234.0,3.0,7.0,60.0,40.0
+1212,Twilight Zone,Golden Earring,album rock,119.0,76.0,-7.0,9.0,478.0,1.0,4.0,47.0,39.0
+1213,Eye In The Sky,The Alan Parsons Project,album rock,112.0,42.0,-13.0,8.0,276.0,56.0,3.0,67.0,39.0
+1214,Rosanna,TOTO,album rock,78.0,51.0,-13.0,21.0,331.0,2.0,4.0,70.0,40.0
+1215,Is She Really Going Out With Him? - Live,Joe Jackson,album rock,111.0,42.0,-8.0,41.0,269.0,91.0,7.0,35.0,40.0
+1216,Bloedend Hart,De Dijk,dutch indie,115.0,60.0,-8.0,12.0,228.0,14.0,4.0,24.0,40.0
+1217,Belgie ... (Is Er Leven Op Pluto ...),Het Goede Doel,dutch pop,141.0,66.0,-14.0,7.0,361.0,1.0,4.0,52.0,40.0
+1218,1999,Prince,funk,119.0,73.0,-8.0,8.0,379.0,14.0,8.0,68.0,39.0
+1219,Islands In the Stream,Dolly Parton,classic country pop,204.0,41.0,-12.0,9.0,252.0,68.0,4.0,65.0,40.0
+1220,Real Men,Joe Jackson,album rock,114.0,19.0,-19.0,17.0,245.0,67.0,3.0,31.0,40.0
+1222,Kristallnaach,BAP,german pop,159.0,57.0,-14.0,6.0,299.0,49.0,12.0,47.0,39.0
+1223,State of Independence,Donna Summer,dance pop,170.0,70.0,-9.0,6.0,351.0,18.0,14.0,42.0,40.0
+1224,You Can't Hurry Love - 2016 Remaster,Phil Collins,mellow gold,98.0,94.0,-5.0,7.0,176.0,3.0,3.0,76.0,40.0
+1225,Burning Heart,Vandenberg,dutch rock,125.0,55.0,-10.0,18.0,251.0,13.0,4.0,43.0,39.0
+1226,Always On My Mind,Willie Nelson,classic country pop,73.0,26.0,-14.0,14.0,213.0,76.0,3.0,63.0,39.0
+1227,Sexual Healing,Marvin Gaye,classic soul,94.0,60.0,-10.0,6.0,239.0,12.0,6.0,71.0,40.0
+1228,Vriendschap,Het Goede Doel,dutch pop,170.0,35.0,-14.0,20.0,247.0,43.0,3.0,46.0,39.0
+1229,Human Nature,Michael Jackson,pop,93.0,51.0,-10.0,26.0,246.0,54.0,3.0,65.0,39.0
+1230,Save a Prayer - 2009 Remaster,Duran Duran,dance rock,114.0,71.0,-9.0,16.0,333.0,35.0,3.0,62.0,39.0
+1231,Should I Stay or Should I Go - Remastered,The Clash,classic rock,113.0,83.0,-6.0,38.0,189.0,8.0,12.0,79.0,39.0
+1232,P.Y.T. (Pretty Young Thing),Michael Jackson,pop,127.0,82.0,-5.0,13.0,239.0,23.0,4.0,71.0,39.0
+1233,Wanna Be Startin' Somethin',Michael Jackson,pop,122.0,92.0,-4.0,6.0,362.0,2.0,4.0,64.0,40.0
+1234,It's Raining Again,Supertramp,album rock,121.0,67.0,-7.0,26.0,264.0,62.0,3.0,60.0,39.0
+1235,Steppin' Out,Joe Jackson,album rock,159.0,54.0,-8.0,8.0,259.0,5.0,3.0,48.0,40.0
+1236,A Slow Song,Joe Jackson,album rock,176.0,26.0,-19.0,7.0,423.0,15.0,3.0,22.0,40.0
+1237,Sunday Bloody Sunday - Remastered 2008,U2,irish rock,101.0,94.0,-7.0,4.0,279.0,40.0,5.0,72.0,39.0
+1238,Every Breath You Take,The Police,album rock,117.0,45.0,-10.0,7.0,254.0,54.0,3.0,84.0,39.0
+1239,Mama - 2007 Remaster,Genesis,album rock,83.0,88.0,-9.0,38.0,408.0,38.0,6.0,45.0,38.0
+1240,99 Luftballons,Nena,german pop,95.0,56.0,-7.0,11.0,232.0,10.0,5.0,73.0,39.0
+1241,Sweet Dreams (Are Made of This) - Remastered,Eurythmics,dance pop,125.0,71.0,-7.0,12.0,217.0,23.0,3.0,81.0,38.0
+1242,I'm Still Standing,Elton John,glam rock,177.0,90.0,-7.0,14.0,183.0,36.0,18.0,79.0,39.0
+1243,Let's Dance - 2018 Remaster,David Bowie,album rock,115.0,74.0,-7.0,15.0,458.0,1.0,6.0,71.0,39.0
+1244,China Girl - 2002 Remaster,David Bowie,album rock,134.0,63.0,-10.0,11.0,257.0,2.0,3.0,57.0,38.0
+1245,Owner of a Lonely Heart,Yes,album rock,125.0,80.0,-6.0,26.0,269.0,18.0,4.0,70.0,38.0
+1246,Waterfront - 2002 Remaster,Simple Minds,art rock,120.0,79.0,-6.0,17.0,290.0,0.0,3.0,54.0,38.0
+1247,Our House,Madness,dance rock,122.0,65.0,-11.0,13.0,201.0,3.0,6.0,58.0,39.0
+1248,Just Can't Get Enough (Live in Hammersmith) - 2018 Remaster,Depeche Mode,dance rock,127.0,96.0,-11.0,64.0,335.0,4.0,5.0,45.0,38.0
+1249,Message To My Girl,Split Enz,australian alternative rock,105.0,40.0,-15.0,5.0,244.0,10.0,3.0,33.0,39.0
+1250,Hello,Lionel Richie,adult standards,61.0,25.0,-14.0,10.0,251.0,41.0,4.0,59.0,38.0
+1251,Pride and Joy,Stevie Ray Vaughan,album rock,127.0,63.0,-12.0,11.0,220.0,3.0,4.0,65.0,39.0
+1252,Uptown Girl,Billy Joel,album rock,129.0,94.0,-3.0,60.0,198.0,7.0,5.0,77.0,39.0
+1253,I Heard It Through The Grapevine,Marvin Gaye,classic soul,117.0,35.0,-11.0,11.0,197.0,20.0,4.0,71.0,39.0
+1254,Nescio,Nits,dutch indie,127.0,52.0,-13.0,11.0,287.0,34.0,3.0,40.0,39.0
+1255,Uncertain Smile,The The,art rock,143.0,76.0,-12.0,10.0,409.0,6.0,5.0,48.0,39.0
+1256,Home by the Sea - 2007 Remaster,Genesis,album rock,129.0,72.0,-8.0,8.0,308.0,50.0,4.0,43.0,39.0
+1257,Theme from Harry's Game,Clannad,celtic,132.0,7.0,-24.0,11.0,148.0,95.0,4.0,38.0,39.0
+1258,Nur geträumt,Nena,german pop,177.0,80.0,-9.0,8.0,220.0,7.0,3.0,56.0,39.0
+1259,Gloria - Live,U2,irish rock,147.0,95.0,-6.0,99.0,287.0,0.0,10.0,39.0,39.0
+1260,Here Comes the Rain Again - Remastered Version,Eurythmics,dance pop,126.0,76.0,-8.0,23.0,295.0,1.0,3.0,62.0,38.0
+1261,Girls Just Want to Have Fun,Cyndi Lauper,dance pop,120.0,80.0,-5.0,35.0,238.0,22.0,3.0,76.0,38.0
+1262,Club Tropicana,Wham!,dance rock,117.0,71.0,-9.0,65.0,266.0,3.0,5.0,66.0,38.0
+1263,Papa Can You Hear Me?,Barbra Streisand,adult standards,90.0,14.0,-16.0,9.0,211.0,93.0,4.0,46.0,38.0
+1264,Karma Chameleon - Remastered,Culture Club,dance pop,92.0,73.0,-7.0,19.0,253.0,23.0,4.0,72.0,38.0
+1265,Buffalo Soldier,Bob Marley & The Wailers,reggae,124.0,46.0,-9.0,6.0,256.0,14.0,31.0,73.0,39.0
+1266,Beast of Burden,Bette Midler,adult standards,105.0,79.0,-7.0,6.0,226.0,1.0,3.0,53.0,38.0
+1267,Purple Rain,Prince,funk,113.0,45.0,-10.0,69.0,521.0,4.0,3.0,75.0,38.0
+1268,When The Lady Smiles,Golden Earring,album rock,132.0,82.0,-7.0,35.0,340.0,44.0,3.0,53.0,37.0
+1269,Hallelujah,Leonard Cohen,canadian folk,171.0,34.0,-13.0,13.0,277.0,72.0,3.0,67.0,38.0
+1270,Summer Of '69,Bryan Adams,album rock,139.0,83.0,-6.0,7.0,216.0,2.0,4.0,81.0,37.0
+1271,Radio Ga Ga - 2011 Mix,Queen,glam rock,112.0,50.0,-8.0,19.0,348.0,18.0,4.0,66.0,37.0
+1272,The Unforgettable Fire - Remastered 2009,U2,irish rock,137.0,74.0,-9.0,10.0,294.0,0.0,3.0,46.0,38.0
+1273,Bad - Remastered 2009,U2,irish rock,99.0,68.0,-9.0,9.0,368.0,1.0,3.0,41.0,38.0
+1274,I'm On Fire,Bruce Springsteen,classic rock,89.0,45.0,-14.0,7.0,156.0,59.0,3.0,74.0,37.0
+1275,Pride (In The Name Of Love) - Remastered 2009,U2,irish rock,106.0,84.0,-7.0,78.0,228.0,0.0,3.0,59.0,38.0
+1276,Fade To Black (Remastered),Metallica,alternative metal,113.0,93.0,-7.0,11.0,417.0,0.0,11.0,62.0,37.0
+1277,Dancing In the Dark,Bruce Springsteen,classic rock,149.0,94.0,-6.0,19.0,241.0,1.0,4.0,77.0,37.0
+1278,Forever Young,Alphaville,dance rock,137.0,48.0,-9.0,24.0,227.0,42.0,3.0,74.0,38.0
+1279,When Doves Cry,Prince,funk,126.0,99.0,-5.0,44.0,353.0,1.0,5.0,70.0,38.0
+1280,I Want to Know What Love Is - 1999 Remaster,Foreigner,album rock,81.0,47.0,-10.0,13.0,305.0,19.0,3.0,77.0,37.0
+1281,Born in the U.S.A.,Bruce Springsteen,classic rock,122.0,95.0,-6.0,10.0,279.0,0.0,6.0,75.0,37.0
+1282,Vienna,Ultravox,art rock,81.0,61.0,-10.0,11.0,278.0,16.0,6.0,53.0,38.0
+1283,My Hometown,Bruce Springsteen,classic rock,117.0,34.0,-12.0,7.0,280.0,49.0,4.0,58.0,37.0
+1284,Slippery People - Live,Talking Heads,alternative rock,111.0,85.0,-8.0,68.0,241.0,22.0,4.0,54.0,37.0
+1285,The Power Of Love,Frankie Goes To Hollywood,art rock,123.0,16.0,-17.0,18.0,333.0,38.0,3.0,72.0,38.0
+1286,The Boys Of Summer,Don Henley,album rock,177.0,55.0,-14.0,18.0,289.0,50.0,4.0,76.0,37.0
+1287,Private Dancer - 2015 Remaster,Tina Turner,disco,115.0,57.0,-10.0,9.0,434.0,36.0,4.0,59.0,37.0
+1288,Easy Lover,Philip Bailey,yacht rock,129.0,92.0,-5.0,8.0,306.0,11.0,4.0,64.0,37.0
+1289,Be My Number Two,Joe Jackson,album rock,110.0,31.0,-10.0,37.0,260.0,34.0,3.0,52.0,37.0
+1290,Tinseltown in the Rain,The Blue Nile,art rock,118.0,82.0,-7.0,8.0,358.0,6.0,3.0,55.0,38.0
+1291,Glory Days,Bruce Springsteen,classic rock,117.0,96.0,-5.0,12.0,255.0,5.0,3.0,67.0,38.0
+1292,It's My Life - 1997 Remaster,Talk Talk,art rock,126.0,80.0,-8.0,40.0,232.0,20.0,3.0,69.0,38.0
+1293,Heaven,Bryan Adams,album rock,140.0,59.0,-7.0,12.0,243.0,5.0,3.0,76.0,38.0
+1294,Smalltown Boy,Bronski Beat,dance rock,135.0,58.0,-11.0,12.0,302.0,29.0,3.0,71.0,37.0
+1295,I Would Die 4 U,Prince,funk,135.0,75.0,-10.0,20.0,179.0,9.0,3.0,60.0,37.0
+1296,Thank God It's Christmas - 2011 Remaster,Queen,glam rock,86.0,42.0,-9.0,23.0,262.0,22.0,3.0,72.0,38.0
+1297,Let's Go Crazy,Prince,funk,196.0,93.0,-6.0,11.0,280.0,2.0,13.0,62.0,37.0
+1298,Wake Me up Before You Go-Go,Wham!,dance rock,82.0,57.0,-12.0,6.0,231.0,27.0,4.0,79.0,37.0
+1299,You'll Never Walk Alone,Lee Towers,dutch pop,79.0,27.0,-16.0,26.0,210.0,61.0,3.0,44.0,38.0
+1300,Run To You,Bryan Adams,album rock,127.0,81.0,-6.0,29.0,233.0,1.0,3.0,65.0,37.0
+1301,Perhaps Love,John Denver,adult standards,81.0,25.0,-11.0,10.0,177.0,79.0,4.0,59.0,38.0
+1302,Don't Answer Me,The Alan Parsons Project,album rock,115.0,78.0,-9.0,22.0,252.0,7.0,3.0,57.0,38.0
+1303,Nightporter,Japan,art pop,110.0,8.0,-20.0,10.0,408.0,75.0,3.0,41.0,37.0
+1304,Big in Japan,Alphaville,dance rock,98.0,41.0,-15.0,34.0,286.0,7.0,4.0,66.0,37.0
+1305,Relax,Frankie Goes To Hollywood,art rock,115.0,70.0,-13.0,5.0,237.0,33.0,4.0,61.0,38.0
+1306,Two Tribes,Frankie Goes To Hollywood,art rock,130.0,62.0,-13.0,37.0,208.0,0.0,4.0,54.0,38.0
+1307,Dancing with Tears in My Eyes,Ultravox,art rock,144.0,91.0,-8.0,60.0,244.0,15.0,4.0,59.0,37.0
+1308,That Was Yesterday,Foreigner,album rock,115.0,68.0,-7.0,21.0,229.0,5.0,3.0,54.0,38.0
+1309,How Soon Is Now? - 2011 Remaster,The Smiths,dance rock,191.0,93.0,-7.0,9.0,408.0,0.0,6.0,70.0,37.0
+1310,No Surrender,Bruce Springsteen,classic rock,154.0,95.0,-5.0,56.0,240.0,0.0,5.0,52.0,37.0
+1311,Brothers in Arms,Dire Straits,album rock,79.0,44.0,-9.0,12.0,419.0,50.0,4.0,52.0,37.0
+1312,Jeanny,Falco,austropop,106.0,66.0,-10.0,19.0,356.0,45.0,5.0,58.0,36.0
+1313,Money for Nothing,Dire Straits,album rock,134.0,66.0,-9.0,6.0,506.0,5.0,4.0,62.0,37.0
+1314,Kronenburg Park,Frank Boeijen Groep,dutch cabaret,90.0,55.0,-13.0,10.0,244.0,45.0,3.0,53.0,36.0
+1315,Walk of Life,Dire Straits,album rock,172.0,94.0,-7.0,12.0,252.0,44.0,11.0,61.0,37.0
+1316,Take on Me,a-ha,dance rock,84.0,90.0,-8.0,9.0,225.0,2.0,5.0,83.0,37.0
+1317,Groot Hart,De Dijk,dutch indie,129.0,46.0,-14.0,22.0,195.0,46.0,4.0,26.0,36.0
+1318,Alive And Kicking,Simple Minds,art rock,103.0,91.0,-4.0,13.0,289.0,8.0,4.0,64.0,36.0
+1319,Holding Back the Years - 2008 Remaster,Simply Red,british soul,86.0,51.0,-9.0,10.0,270.0,58.0,3.0,68.0,36.0
+1320,Running Up That Hill (A Deal With God),Kate Bush,art pop,108.0,55.0,-13.0,6.0,299.0,72.0,6.0,67.0,37.0
+1321,Cloudbusting,Kate Bush,art pop,113.0,25.0,-17.0,8.0,310.0,70.0,3.0,60.0,37.0
+1322,Binnen Zonder Kloppen,De Dijk,dutch indie,117.0,47.0,-13.0,14.0,284.0,17.0,4.0,26.0,36.0
+1323,Nikita,Elton John,glam rock,87.0,66.0,-9.0,7.0,343.0,12.0,3.0,68.0,37.0
+1324,Everybody Wants To Rule The World,Tears For Fears,art rock,112.0,80.0,-12.0,10.0,251.0,35.0,5.0,80.0,36.0
+1325,Eye of the Tiger,Survivor,album rock,109.0,60.0,-9.0,9.0,246.0,13.0,3.0,76.0,37.0
+1326,Russians,Sting,permanent wave,116.0,28.0,-18.0,18.0,238.0,46.0,4.0,50.0,37.0
+1327,Dancing in the Street - 2002 Remaster,David Bowie,album rock,131.0,82.0,-14.0,13.0,205.0,12.0,4.0,57.0,36.0
+1328,Raspberry Beret,Prince,funk,121.0,67.0,-13.0,7.0,215.0,21.0,4.0,69.0,37.0
+1329,Your Latest Trick,Dire Straits,album rock,123.0,41.0,-14.0,14.0,394.0,72.0,3.0,46.0,37.0
+1330,Road to Nowhere,Talking Heads,alternative rock,110.0,71.0,-8.0,15.0,259.0,4.0,3.0,55.0,36.0
+1331,Why Worry,Dire Straits,album rock,94.0,13.0,-21.0,11.0,511.0,93.0,3.0,44.0,36.0
+1333,So Far Away,Dire Straits,album rock,114.0,46.0,-12.0,6.0,312.0,25.0,3.0,50.0,36.0
+1334,Broken Wings,Mr. Mister,album rock,99.0,50.0,-14.0,11.0,344.0,13.0,4.0,60.0,37.0
+1335,Shout,Tears For Fears,art rock,98.0,94.0,-10.0,14.0,394.0,17.0,4.0,71.0,37.0
+1336,Josephine,Chris Rea,art rock,110.0,47.0,-16.0,5.0,238.0,2.0,3.0,57.0,36.0
+1337,Greatest Love of All,Whitney Houston,dance pop,131.0,31.0,-16.0,12.0,291.0,48.0,3.0,66.0,36.0
+1338,In Between Days - 2006 Remaster,The Cure,dance rock,143.0,83.0,-6.0,17.0,178.0,11.0,3.0,54.0,37.0
+1339,I Got You Babe,UB40,reggae fusion,174.0,61.0,-13.0,11.0,189.0,8.0,7.0,65.0,36.0
+1340,Moon Over Bourbon Street,Sting,permanent wave,125.0,6.0,-22.0,10.0,240.0,67.0,4.0,51.0,37.0
+1341,We Are The World,U.S.A. For Africa,electro,73.0,45.0,-15.0,7.0,427.0,19.0,4.0,70.0,36.0
+1342,Out In The Fields,Gary Moore,album rock,180.0,95.0,-8.0,39.0,258.0,3.0,6.0,52.0,36.0
+1343,Hunting High and Low,a-ha,dance rock,117.0,67.0,-8.0,11.0,224.0,4.0,3.0,37.0,37.0
+1344,Take Me Home - 2016 Remaster,Phil Collins,mellow gold,119.0,81.0,-8.0,5.0,354.0,47.0,5.0,56.0,36.0
+1345,Master of Puppets (Remastered),Metallica,alternative metal,105.0,83.0,-9.0,15.0,515.0,0.0,4.0,67.0,36.0
+1346,Angel Of Death,Slayer,alternative metal,90.0,100.0,-4.0,15.0,291.0,0.0,16.0,57.0,36.0
+1347,Livin' On A Prayer,Bon Jovi,glam metal,123.0,89.0,-4.0,29.0,249.0,8.0,3.0,83.0,35.0
+1348,Graceland,Paul Simon,classic rock,118.0,71.0,-9.0,8.0,291.0,63.0,3.0,65.0,35.0
+1349,Don't Give Up - 2012 Remaster,Peter Gabriel,album rock,161.0,26.0,-16.0,8.0,394.0,83.0,5.0,45.0,36.0
+1350,Sometimes It Snows in April,Prince,funk,104.0,6.0,-24.0,10.0,409.0,83.0,4.0,53.0,35.0
+1351,A Kind Of Magic - Remastered 2011,Queen,glam rock,130.0,78.0,-6.0,12.0,264.0,2.0,4.0,54.0,35.0
+1352,The Final Countdown,Europe,album rock,118.0,84.0,-7.0,6.0,310.0,6.0,6.0,75.0,35.0
+1353,De Verzoening,Frank Boeijen Groep,dutch cabaret,101.0,31.0,-15.0,6.0,302.0,70.0,3.0,47.0,36.0
+1354,I Want You,Elvis Costello & The Attractions,art rock,123.0,13.0,-18.0,36.0,401.0,35.0,8.0,51.0,36.0
+1355,You Can Call Me Al,Paul Simon,classic rock,128.0,76.0,-8.0,8.0,280.0,18.0,5.0,75.0,36.0
+1356,Don't Dream It's Over,Crowded House,australian pop,82.0,42.0,-17.0,7.0,237.0,1.0,4.0,72.0,35.0
+1357,Land of Confusion - 2007 Remaster,Genesis,album rock,115.0,91.0,-7.0,23.0,287.0,4.0,4.0,56.0,35.0
+1358,Life's What You Make It - 1997 Remaster,Talk Talk,art rock,92.0,80.0,-8.0,4.0,269.0,0.0,3.0,59.0,36.0
+1359,There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,dance rock,136.0,77.0,-6.0,14.0,245.0,4.0,3.0,73.0,36.0
+1360,You Give Love A Bad Name,Bon Jovi,glam metal,123.0,96.0,-3.0,34.0,223.0,7.0,5.0,80.0,36.0
+1361,The Lady In Red,Chris de Burgh,classic uk pop,77.0,29.0,-17.0,4.0,256.0,33.0,3.0,74.0,35.0
+1362,One Vision - Remastered 2011,Queen,glam rock,120.0,92.0,-7.0,34.0,311.0,4.0,26.0,49.0,36.0
+1363,Diamonds on the Soles of Her Shoes,Paul Simon,classic rock,111.0,68.0,-10.0,22.0,349.0,78.0,4.0,63.0,36.0
+1364,Absolute Beginners - 2002 Remaster,David Bowie,album rock,114.0,77.0,-9.0,21.0,338.0,7.0,4.0,46.0,35.0
+1365,Friends Will Be Friends - Remastered 2011,Queen,glam rock,75.0,53.0,-8.0,34.0,247.0,4.0,3.0,50.0,36.0
+1366,Kiss,Prince,funk,111.0,27.0,-12.0,5.0,226.0,1.0,9.0,74.0,36.0
+1367,In A Lifetime,Clannad,celtic,134.0,38.0,-16.0,7.0,192.0,66.0,3.0,32.0,36.0
+1368,Wanted Dead Or Alive,Bon Jovi,glam metal,150.0,80.0,-4.0,31.0,309.0,13.0,4.0,73.0,36.0
+1369,True Colors,Cyndi Lauper,dance pop,172.0,14.0,-17.0,10.0,226.0,79.0,4.0,69.0,35.0
+1370,Bigmouth Strikes Again - 2011 Remaster,The Smiths,dance rock,135.0,90.0,-5.0,54.0,193.0,7.0,4.0,67.0,35.0
+1371,Anne,Herman van Veen,dutch pop,115.0,8.0,-27.0,17.0,228.0,67.0,4.0,42.0,36.0
+1372,You Can Leave Your Hat On,Joe Cocker,album rock,174.0,54.0,-13.0,19.0,255.0,12.0,3.0,58.0,36.0
+1373,Living in Another World - 1997 Remaster,Talk Talk,art rock,111.0,86.0,-8.0,23.0,418.0,0.0,3.0,53.0,35.0
+1374,"Fire - Live at the Winterland, San Francisco, CA - December 1978",Bruce Springsteen,classic rock,120.0,32.0,-21.0,98.0,193.0,20.0,17.0,41.0,36.0
+1375,Sledgehammer - 2012 Remaster,Peter Gabriel,album rock,96.0,68.0,-8.0,4.0,312.0,4.0,4.0,57.0,36.0
+1376,Don't Leave Me This Way (with Sarah Jane Morris),The Communards,dance rock,132.0,93.0,-6.0,13.0,271.0,14.0,3.0,64.0,35.0
+1377,The Way It Is,Bruce Hornsby,album rock,111.0,69.0,-12.0,14.0,298.0,61.0,3.0,66.0,35.0
+1378,Walk This Way (feat. Aerosmith),Run–D.M.C.,east coast hip hop,106.0,58.0,-13.0,6.0,310.0,1.0,5.0,68.0,35.0
+1379,I'll Be Over You,TOTO,album rock,82.0,28.0,-18.0,26.0,230.0,6.0,3.0,68.0,36.0
+1380,Why Can't This Be Love,Van Halen,album rock,88.0,63.0,-13.0,8.0,228.0,6.0,5.0,65.0,36.0
+1381,In Your Eyes - 2012 Remaster,Peter Gabriel,album rock,89.0,65.0,-9.0,7.0,330.0,6.0,4.0,54.0,36.0
+1382,Fight For Your Right,Beastie Boys,alternative rock,134.0,86.0,-6.0,8.0,209.0,1.0,7.0,68.0,35.0
+1383,Homeless (with Ladysmith Black Mambazo),Paul Simon,classic rock,91.0,27.0,-16.0,26.0,228.0,88.0,7.0,49.0,36.0
+1384,Live to Tell,Madonna,dance pop,110.0,31.0,-14.0,11.0,353.0,41.0,3.0,56.0,36.0
+1385,West End Girls - 2001 Remaster,Pet Shop Boys,art pop,113.0,95.0,-7.0,29.0,286.0,1.0,4.0,68.0,35.0
+1386,Invisible Touch - 2007 Remaster,Genesis,album rock,131.0,88.0,-6.0,7.0,210.0,34.0,3.0,60.0,35.0
+1387,Over De Muur,Klein Orkest,dutch indie,96.0,32.0,-15.0,14.0,209.0,63.0,5.0,55.0,35.0
+1388,Sweet Child O' Mine,Guns N' Roses,glam metal,125.0,95.0,-5.0,11.0,356.0,9.0,5.0,73.0,34.0
+1389,With Or Without You - Remastered,U2,irish rock,110.0,43.0,-12.0,14.0,296.0,0.0,3.0,80.0,34.0
+1390,Where The Streets Have No Name - Remastered,U2,irish rock,126.0,72.0,-10.0,16.0,338.0,1.0,4.0,66.0,35.0
+1391,I Still Haven't Found What I'm Looking For,U2,irish rock,101.0,77.0,-9.0,9.0,277.0,1.0,4.0,76.0,35.0
+1392,Paradise City,Guns N' Roses,glam metal,100.0,98.0,-6.0,18.0,406.0,2.0,10.0,71.0,34.0
+1393,Fragile,Sting,permanent wave,82.0,20.0,-21.0,9.0,236.0,91.0,4.0,62.0,35.0
+1394,Englishman In New York,Sting,permanent wave,102.0,35.0,-18.0,9.0,267.0,40.0,4.0,71.0,35.0
+1395,Troy,Sinéad O'Connor,folk,116.0,31.0,-9.0,44.0,391.0,48.0,3.0,51.0,35.0
+1396,Welcome To The Jungle,Guns N' Roses,glam metal,124.0,99.0,-4.0,27.0,273.0,2.0,9.0,72.0,34.0
+1397,Tougher Than the Rest,Bruce Springsteen,classic rock,99.0,51.0,-11.0,11.0,274.0,20.0,2.0,62.0,35.0
+1398,Smooth Criminal - 2012 Remaster,Michael Jackson,pop,118.0,98.0,-4.0,31.0,258.0,25.0,8.0,76.0,34.0
+1399,Patience,Guns N' Roses,glam metal,120.0,30.0,-13.0,11.0,355.0,69.0,3.0,66.0,35.0
+1400,Everywhere - 2017 Remaster,Fleetwood Mac,album rock,115.0,49.0,-11.0,9.0,227.0,26.0,3.0,78.0,35.0
+1401,I Will Follow - Live,U2,irish rock,140.0,90.0,-7.0,96.0,239.0,0.0,6.0,42.0,34.0
+1402,Alone,Heart,album rock,175.0,45.0,-13.0,10.0,219.0,64.0,4.0,73.0,34.0
+1403,Sign 'O' the Times,Prince,funk,198.0,52.0,-7.0,8.0,303.0,1.0,10.0,54.0,35.0
+1404,In the Dutch Mountains,Nits,dutch indie,85.0,50.0,-11.0,6.0,206.0,55.0,3.0,44.0,35.0
+1405,Never Tear Us Apart,INXS,australian rock,97.0,69.0,-6.0,17.0,186.0,5.0,3.0,60.0,34.0
+1406,Here I Go Again - 2018 Remaster,Whitesnake,album rock,90.0,82.0,-7.0,16.0,275.0,1.0,4.0,65.0,35.0
+1407,Liefde Van Later,Herman van Veen,dutch pop,121.0,8.0,-22.0,11.0,252.0,97.0,5.0,41.0,35.0
+1408,Unchain My Heart,Joe Cocker,album rock,118.0,67.0,-13.0,32.0,304.0,2.0,4.0,62.0,34.0
+1409,"Non, je ne regrette rien",Édith Piaf,chanson,87.0,35.0,-7.0,17.0,142.0,86.0,3.0,64.0,35.0
+1410,Never Gonna Give You Up,Rick Astley,dance pop,113.0,94.0,-12.0,15.0,213.0,14.0,4.0,66.0,35.0
+1411,Running To Stand Still,U2,irish rock,95.0,20.0,-19.0,33.0,257.0,86.0,3.0,55.0,35.0
+1412,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,dance pop,119.0,82.0,-9.0,9.0,291.0,21.0,5.0,81.0,34.0
+1413,Have A Little Faith In Me,John Hiatt,alternative country,156.0,41.0,-11.0,12.0,245.0,74.0,3.0,51.0,35.0
+1414,Suzanne,Herman van Veen,dutch pop,129.0,16.0,-21.0,12.0,239.0,93.0,3.0,43.0,35.0
+1415,The Way You Make Me Feel - 2012 Remaster,Michael Jackson,pop,114.0,85.0,-5.0,14.0,298.0,5.0,15.0,72.0,35.0
+1416,The One I Love - Remastered,R.E.M.,alternative rock,128.0,84.0,-5.0,35.0,198.0,0.0,4.0,63.0,35.0
+1417,Bad - 2012 Remaster,Michael Jackson,pop,114.0,89.0,-4.0,7.0,247.0,0.0,4.0,68.0,35.0
+1418,Apache,The Shadows,adult standards,134.0,45.0,-13.0,10.0,174.0,1.0,3.0,53.0,35.0
+1419,The Cross,Prince,funk,99.0,64.0,-7.0,64.0,286.0,53.0,6.0,42.0,35.0
+1420,Luka,Suzanne Vega,folk,125.0,70.0,-11.0,12.0,232.0,19.0,3.0,45.0,34.0
+1421,Seven Wonders - 2017 Remaster,Fleetwood Mac,album rock,119.0,63.0,-10.0,10.0,222.0,3.0,3.0,63.0,34.0
+1422,Lessons In Love,Level 42,art rock,113.0,84.0,-8.0,30.0,246.0,16.0,4.0,62.0,35.0
+1423,Brilliant Disguise,Bruce Springsteen,classic rock,126.0,73.0,-12.0,3.0,255.0,15.0,3.0,57.0,35.0
+1424,It's a Sin - 2001 Remaster,Pet Shop Boys,art pop,127.0,86.0,-6.0,25.0,299.0,25.0,4.0,66.0,34.0
+1425,Bullet The Blue Sky,U2,irish rock,153.0,64.0,-10.0,13.0,272.0,1.0,4.0,55.0,35.0
+1426,Wonderful Life,Black,dance rock,106.0,52.0,-12.0,21.0,288.0,71.0,3.0,64.0,35.0
+1427,It's The End Of The World As We Know It (And I Feel Fine),R.E.M.,alternative rock,206.0,89.0,-9.0,3.0,247.0,3.0,4.0,67.0,35.0
+1428,Is This Love - 2018 Remaster,Whitesnake,album rock,180.0,76.0,-7.0,23.0,284.0,6.0,4.0,58.0,35.0
+1429,Laat Mij Maar Alleen,Klein Orkest,dutch indie,153.0,74.0,-10.0,23.0,201.0,2.0,6.0,40.0,34.0
+1430,You Win Again,Bee Gees,adult standards,169.0,83.0,-11.0,22.0,241.0,9.0,3.0,63.0,34.0
+1431,Liberian Girl - 2012 Remastered Version,Michael Jackson,pop,105.0,55.0,-7.0,13.0,233.0,46.0,10.0,59.0,35.0
+1432,Winter in Hamburg,Frank Boeijen Groep,dutch cabaret,125.0,47.0,-14.0,11.0,318.0,70.0,3.0,37.0,35.0
+1433,One (Remastered),Metallica,alternative metal,103.0,69.0,-9.0,42.0,446.0,0.0,6.0,67.0,33.0
+1434,Fast Car,Tracy Chapman,folk,104.0,29.0,-16.0,13.0,297.0,31.0,4.0,77.0,34.0
+1435,Dreams,Fleetwood Mac,album rock,120.0,34.0,-16.0,50.0,254.0,14.0,4.0,59.0,33.0
+1436,Sara,Fleetwood Mac,album rock,127.0,39.0,-17.0,9.0,382.0,38.0,3.0,56.0,34.0
+1437,Stop Loving You,TOTO,album rock,102.0,65.0,-13.0,6.0,269.0,23.0,3.0,63.0,34.0
+1438,Can I Play with Madness - 2015 Remaster,Iron Maiden,album rock,141.0,98.0,-3.0,26.0,211.0,9.0,10.0,42.0,34.0
+1439,Tonight (With David Bowie) - Live,Tina Turner,disco,102.0,72.0,-13.0,93.0,255.0,20.0,5.0,44.0,34.0
+1440,Tusk,Fleetwood Mac,album rock,181.0,62.0,-17.0,45.0,210.0,24.0,8.0,54.0,34.0
+1441,Maid Of Orleans,Orchestral Manoeuvres In The Dark,art rock,110.0,53.0,-14.0,5.0,252.0,7.0,3.0,34.0,34.0
+1442,Like The Way I Do,Melissa Etheridge,folk,101.0,84.0,-13.0,6.0,324.0,4.0,4.0,57.0,34.0
+1444,Zwart Wit,Frank Boeijen Groep,dutch cabaret,132.0,63.0,-12.0,37.0,186.0,3.0,3.0,46.0,34.0
+1445,All I Want Is You,U2,irish rock,186.0,44.0,-11.0,7.0,390.0,11.0,3.0,63.0,34.0
+1446,Take This Waltz,Leonard Cohen,canadian folk,142.0,18.0,-16.0,24.0,358.0,84.0,3.0,40.0,34.0
+1447,Musica è,Eros Ramazzotti,italian pop,125.0,28.0,-14.0,18.0,659.0,24.0,3.0,38.0,33.0
+1448,When Love Comes To Town,U2,irish rock,116.0,67.0,-11.0,13.0,254.0,5.0,4.0,50.0,34.0
+1449,Ich bin wie du,Marianne Rosenberg,classic schlager,129.0,74.0,-10.0,5.0,218.0,1.0,8.0,45.0,33.0
+1450,Pamela,TOTO,album rock,98.0,41.0,-16.0,6.0,310.0,13.0,3.0,53.0,33.0
+1451,Orinoco Flow,Enya,celtic,115.0,31.0,-17.0,10.0,266.0,80.0,3.0,57.0,34.0
+1452,Listen to Your Heart,Roxette,europop,86.0,58.0,-5.0,11.0,328.0,11.0,3.0,76.0,34.0
+1453,Fairytale of New York (feat. Kirsty MacColl),The Pogues,celtic punk,119.0,65.0,-6.0,24.0,272.0,50.0,3.0,83.0,34.0
+1454,Living Years,Mike & The Mechanics,album rock,98.0,42.0,-13.0,7.0,330.0,58.0,3.0,55.0,34.0
+1455,Mushanga,TOTO,album rock,122.0,31.0,-19.0,9.0,335.0,9.0,4.0,45.0,34.0
+1456,Baby Can I Hold You,Tracy Chapman,folk,74.0,42.0,-11.0,8.0,193.0,8.0,3.0,72.0,34.0
+1457,Big Love,Fleetwood Mac,album rock,125.0,76.0,-12.0,13.0,219.0,1.0,5.0,49.0,33.0
+1458,Angel Of Harlem,U2,irish rock,103.0,69.0,-11.0,11.0,229.0,10.0,3.0,59.0,34.0
+1459,Handle With Care,Traveling Wilburys,album rock,115.0,77.0,-6.0,25.0,200.0,11.0,3.0,63.0,33.0
+1460,(Something Inside) So Strong,Labi Siffre,classic uk pop,82.0,38.0,-10.0,10.0,337.0,42.0,3.0,50.0,33.0
+1461,Into Temptation,Crowded House,australian pop,84.0,37.0,-16.0,8.0,274.0,48.0,3.0,49.0,33.0
+1462,Twist in My Sobriety,Tanita Tikaram,new wave pop,115.0,56.0,-11.0,7.0,292.0,7.0,3.0,46.0,34.0
+1463,Sympathy For The Devil,The Rolling Stones,album rock,115.0,69.0,-11.0,5.0,377.0,60.0,28.0,56.0,32.0
+1464,Another Day in Paradise - 2016 Remaster,Phil Collins,mellow gold,102.0,56.0,-7.0,6.0,322.0,74.0,3.0,74.0,33.0
+1465,Niemand In De Stad,De Dijk,dutch indie,90.0,41.0,-13.0,31.0,291.0,6.0,3.0,41.0,33.0
+1466,Rockin' in the Free World,Neil Young,album rock,132.0,88.0,-5.0,37.0,282.0,0.0,3.0,65.0,33.0
+1467,Poison,Alice Cooper,album rock,119.0,91.0,-6.0,18.0,270.0,3.0,11.0,70.0,33.0
+1468,I Want It All - Remastered 2011,Queen,glam rock,92.0,84.0,-6.0,37.0,242.0,3.0,5.0,55.0,32.0
+1469,Ik Kan Het Niet Alleen,De Dijk,dutch indie,142.0,85.0,-12.0,30.0,239.0,31.0,4.0,52.0,33.0
+1470,Leningrad,Billy Joel,album rock,139.0,52.0,-6.0,12.0,243.0,38.0,3.0,49.0,32.0
+1471,Have I Told You Lately,Van Morrison,classic rock,144.0,48.0,-10.0,14.0,260.0,28.0,3.0,68.0,33.0
+1472,Lullaby,The Cure,dance rock,94.0,56.0,-11.0,6.0,250.0,19.0,3.0,53.0,32.0
+1473,The Best,Tina Turner,disco,104.0,74.0,-10.0,12.0,330.0,11.0,3.0,64.0,32.0
+1474,Breakthru - Remastered 2011,Queen,glam rock,90.0,86.0,-6.0,36.0,248.0,6.0,9.0,48.0,32.0
+1475,Need Your Love So Bad,Fleetwood Mac,album rock,147.0,18.0,-19.0,10.0,233.0,13.0,3.0,49.0,32.0
+1476,Daar Gaat Ze,Clouseau,belgian rock,87.0,33.0,-15.0,13.0,229.0,83.0,3.0,39.0,33.0
+1477,Personal Jesus - Original Seven Inch Version,Depeche Mode,dance rock,130.0,68.0,-12.0,5.0,225.0,1.0,4.0,61.0,32.0
+1478,Kingston Town,UB40,reggae fusion,102.0,25.0,-13.0,4.0,228.0,16.0,6.0,49.0,33.0
+1479,Woman In Chains,Tears For Fears,art rock,160.0,61.0,-8.0,6.0,391.0,2.0,3.0,66.0,33.0
+1480,Nergens Goed Voor,De Dijk,dutch indie,102.0,59.0,-12.0,27.0,262.0,12.0,3.0,47.0,33.0
+1481,I Wish It Would Rain Down - 2016 Remaster,Phil Collins,mellow gold,126.0,67.0,-5.0,31.0,328.0,29.0,3.0,61.0,33.0
+1482,If You Don't Know Me by Now - 2008 Remaster,Simply Red,british soul,94.0,35.0,-9.0,11.0,204.0,49.0,3.0,72.0,32.0
+1483,Free Fallin',Tom Petty,album rock,84.0,45.0,-13.0,6.0,256.0,21.0,3.0,76.0,32.0
+1484,Let Love Rule,Lenny Kravitz,permanent wave,153.0,45.0,-13.0,7.0,342.0,3.0,4.0,51.0,33.0
+1485,Epic,Faith No More,alternative metal,174.0,89.0,-7.0,13.0,294.0,2.0,12.0,68.0,33.0
+1486,Black Velvet,Alannah Myles,classic canadian rock,91.0,37.0,-10.0,11.0,287.0,27.0,3.0,71.0,33.0
+1487,We Didn't Start the Fire,Billy Joel,album rock,145.0,97.0,-5.0,36.0,288.0,8.0,5.0,73.0,32.0
+1488,Sowing The Seeds Of Love,Tears For Fears,art rock,172.0,80.0,-7.0,36.0,377.0,1.0,4.0,62.0,32.0
+1489,New York Minute,Don Henley,album rock,132.0,29.0,-12.0,4.0,395.0,33.0,3.0,55.0,32.0
+1490,Something Happened on the Way to Heaven - 2016 Remaster,Phil Collins,mellow gold,115.0,88.0,-4.0,27.0,292.0,18.0,3.0,57.0,33.0
+1491,Lovesong,The Cure,dance rock,140.0,81.0,-8.0,22.0,210.0,34.0,3.0,60.0,33.0
+1492,Monkey Gone to Heaven,Pixies,alternative rock,116.0,39.0,-12.0,32.0,177.0,2.0,3.0,61.0,32.0
+1493,The Miracle - Remastered 2011,Queen,glam rock,92.0,65.0,-6.0,55.0,301.0,16.0,3.0,33.0,33.0
+1494,The Invisible Man - Remastered 2011,Queen,glam rock,120.0,79.0,-7.0,33.0,238.0,19.0,4.0,47.0,33.0
+1495,If I Could Turn Back Time,Cher,dance pop,108.0,57.0,-10.0,12.0,240.0,24.0,3.0,72.0,33.0
+1496,Love Shack,The B-52's,art rock,134.0,82.0,-6.0,85.0,322.0,3.0,5.0,69.0,33.0
+1497,Thunderstruck,AC/DC,album rock,134.0,89.0,-5.0,22.0,293.0,0.0,4.0,81.0,32.0
+1498,Papa,Stef Bos,christelijk,120.0,32.0,-13.0,8.0,193.0,72.0,3.0,57.0,31.0
+1499,Enjoy the Silence - Single Mix,Depeche Mode,dance rock,113.0,81.0,-8.0,8.0,257.0,16.0,3.0,65.0,31.0
+1500,Still Got The Blues,Gary Moore,album rock,170.0,39.0,-14.0,12.0,371.0,26.0,4.0,65.0,31.0
+1501,Wind Of Change,Scorpions,album rock,152.0,52.0,-10.0,10.0,312.0,32.0,4.0,77.0,31.0
+1502,Nothing Compares 2 U,Sinéad O'Connor,folk,120.0,57.0,-7.0,11.0,280.0,4.0,3.0,71.0,32.0
+1503,Silent Lucidity - Remastered/2003,Queensrÿche,album rock,140.0,63.0,-6.0,12.0,348.0,5.0,3.0,61.0,32.0
+1504,Such a Shame,Talk Talk,art rock,112.0,68.0,-11.0,30.0,258.0,21.0,3.0,57.0,32.0
+1505,Hunger Strike,Temple Of The Dog,alternative metal,138.0,57.0,-11.0,9.0,246.0,2.0,3.0,59.0,32.0
+1506,Candy,Iggy Pop,alternative rock,144.0,59.0,-11.0,5.0,253.0,4.0,3.0,60.0,31.0
+1507,Send Me An Angel,Scorpions,album rock,81.0,42.0,-12.0,21.0,273.0,43.0,3.0,69.0,32.0
+1508,Don't Go Breaking My Heart,Elton John,glam rock,131.0,86.0,-8.0,7.0,271.0,18.0,4.0,69.0,31.0
+1509,"Night Fever - From ""Saturday Night Fever"" Soundtrack",Bee Gees,adult standards,109.0,51.0,-16.0,14.0,210.0,2.0,3.0,54.0,32.0
+1510,More Than Words,Extreme,album rock,92.0,13.0,-15.0,11.0,334.0,47.0,3.0,67.0,31.0
+1511,"It Must Have Been Love - From the Film ""Pretty Woman""",Roxette,europop,81.0,65.0,-7.0,26.0,259.0,34.0,3.0,73.0,31.0
+1512,Domino,Clouseau,belgian rock,75.0,19.0,-16.0,22.0,248.0,72.0,4.0,31.0,32.0
+1513,Met Hart En Ziel,Tröckener Kecks,dutch indie,167.0,61.0,-12.0,26.0,226.0,11.0,3.0,38.0,32.0
+1514,Love Rears Its Ugly Head,Living Colour,alternative metal,156.0,48.0,-9.0,23.0,259.0,6.0,9.0,50.0,31.0
+1515,Hard To Handle,The Black Crowes,album rock,104.0,79.0,-4.0,31.0,188.0,0.0,4.0,68.0,31.0
+1516,Black,Pearl Jam,alternative rock,77.0,68.0,-6.0,34.0,343.0,32.0,3.0,75.0,30.0
+1517,De Boer Is De Keerl,Normaal,dutch rock,85.0,40.0,-13.0,8.0,221.0,21.0,3.0,51.0,30.0
+1518,November Rain,Guns N' Roses,glam metal,80.0,64.0,-9.0,11.0,536.0,2.0,3.0,80.0,30.0
+1519,Nothing Else Matters,Metallica,alternative metal,142.0,36.0,-11.0,8.0,389.0,5.0,3.0,69.0,31.0
+1520,Smells Like Teen Spirit,Nirvana,alternative rock,117.0,91.0,-5.0,11.0,302.0,0.0,6.0,74.0,30.0
+1521,Innuendo - Remastered 2011,Queen,glam rock,73.0,73.0,-6.0,30.0,393.0,18.0,6.0,49.0,30.0
+1522,Alive,Pearl Jam,alternative rock,75.0,88.0,-6.0,40.0,341.0,1.0,4.0,75.0,30.0
+1523,Enter Sandman,Metallica,alternative metal,123.0,82.0,-9.0,6.0,332.0,0.0,3.0,74.0,31.0
+1524,Who Wants To Live Forever - Remastered 2011,Queen,glam rock,87.0,40.0,-9.0,12.0,295.0,58.0,4.0,51.0,30.0
+1525,Under the Bridge,Red Hot Chili Peppers,alternative rock,85.0,35.0,-13.0,14.0,264.0,6.0,5.0,81.0,31.0
+1526,Deurdonderen,Normaal,dutch rock,175.0,79.0,-10.0,11.0,234.0,1.0,8.0,49.0,31.0
+1527,The Show Must Go On - 2011 Mix,Queen,glam rock,83.0,69.0,-7.0,11.0,278.0,41.0,3.0,58.0,31.0
+1528,Losing My Religion,R.E.M.,alternative rock,126.0,86.0,-5.0,10.0,268.0,18.0,3.0,81.0,31.0
+1529,Come As You Are,Nirvana,alternative rock,120.0,82.0,-6.0,9.0,219.0,0.0,4.0,72.0,31.0
+1530,Jeremy,Pearl Jam,alternative rock,109.0,85.0,-6.0,18.0,318.0,4.0,4.0,73.0,30.0
+1531,One,U2,irish rock,181.0,53.0,-9.0,16.0,276.0,25.0,4.0,77.0,31.0
+1532,Knockin' On Heaven's Door,Guns N' Roses,glam metal,132.0,74.0,-7.0,11.0,336.0,2.0,4.0,77.0,30.0
+1533,The Unforgiven,Metallica,alternative metal,139.0,60.0,-10.0,13.0,387.0,1.0,3.0,65.0,31.0
+1534,These Are The Days Of Our Lives - 2011 Remaster,Queen,glam rock,113.0,40.0,-10.0,6.0,255.0,37.0,3.0,49.0,30.0
+1535,Lithium,Nirvana,alternative rock,123.0,66.0,-6.0,6.0,257.0,0.0,4.0,68.0,31.0
+1536,Lekker Op De Trekker ('n Boerinnen-Wervingslied),Mannenkoor Karrespoor,levenslied,132.0,49.0,-12.0,11.0,216.0,73.0,4.0,39.0,31.0
+1537,Estranged,Guns N' Roses,glam metal,89.0,76.0,-8.0,37.0,564.0,1.0,3.0,63.0,31.0
+1538,Even Flow,Pearl Jam,alternative rock,105.0,94.0,-7.0,30.0,293.0,0.0,8.0,75.0,31.0
+1539,Hammer To Fall - Remastered 2011,Queen,glam rock,127.0,79.0,-5.0,13.0,218.0,32.0,9.0,55.0,30.0
+1540,Sad But True,Metallica,alternative metal,89.0,85.0,-6.0,6.0,325.0,0.0,3.0,63.0,30.0
+1541,Year of the Cat - 2001 Remaster,Al Stewart,album rock,117.0,61.0,-10.0,12.0,401.0,1.0,3.0,61.0,31.0
+1542,Don't Cry (Original),Guns N' Roses,glam metal,125.0,59.0,-9.0,10.0,284.0,0.0,3.0,74.0,31.0
+1543,(Everything I Do) I Do It For You,Bryan Adams,album rock,131.0,37.0,-13.0,6.0,394.0,8.0,3.0,64.0,31.0
+1544,No More Tears,Ozzy Osbourne,album rock,103.0,75.0,-7.0,65.0,443.0,0.0,4.0,66.0,30.0
+1545,You,Ten Sharp,pop,174.0,90.0,-8.0,19.0,273.0,43.0,3.0,61.0,30.0
+1546,Heal the World,Michael Jackson,pop,81.0,49.0,-8.0,10.0,384.0,54.0,5.0,68.0,31.0
+1547,Bestel Mar (edit),Rowwen Hèze,carnaval limburg,160.0,85.0,-7.0,12.0,187.0,7.0,10.0,48.0,31.0
+1548,On Every Street,Dire Straits,album rock,132.0,27.0,-11.0,17.0,302.0,58.0,4.0,56.0,31.0
+1549,Give It Away,Red Hot Chili Peppers,alternative rock,92.0,94.0,-10.0,15.0,283.0,0.0,5.0,73.0,30.0
+1550,Four Seasons In One Day,Crowded House,australian pop,89.0,26.0,-17.0,9.0,170.0,82.0,3.0,51.0,30.0
+1551,Walking in Memphis,Marc Cohn,folk,130.0,51.0,-9.0,30.0,253.0,55.0,4.0,69.0,30.0
+1552,Learning To Fly,Tom Petty and the Heartbreakers,album rock,117.0,77.0,-10.0,36.0,242.0,21.0,3.0,71.0,31.0
+1553,Live And Let Die,Guns N' Roses,glam metal,153.0,78.0,-9.0,12.0,183.0,1.0,6.0,68.0,30.0
+1555,Weather With You,Crowded House,australian pop,94.0,61.0,-13.0,21.0,224.0,25.0,3.0,69.0,31.0
+1556,Shiny Happy People,R.E.M.,alternative rock,125.0,91.0,-4.0,23.0,226.0,3.0,4.0,70.0,30.0
+1557,Stars,Simply Red,british soul,104.0,82.0,-7.0,24.0,249.0,15.0,3.0,49.0,31.0
+1558,I'm Going Slightly Mad - Remastered 2011,Queen,glam rock,116.0,83.0,-6.0,19.0,263.0,57.0,5.0,48.0,30.0
+1559,On the Border - 2001 Remaster,Al Stewart,album rock,98.0,64.0,-12.0,8.0,202.0,6.0,3.0,49.0,30.0
+1560,Diamonds and Pearls,Prince,funk,81.0,55.0,-10.0,7.0,285.0,5.0,3.0,47.0,30.0
+1561,I Can't Dance - 2007 Remaster,Genesis,album rock,108.0,53.0,-9.0,5.0,241.0,50.0,5.0,54.0,30.0
+1562,No Son of Mine - 2007 Remaster,Genesis,album rock,104.0,60.0,-9.0,10.0,399.0,13.0,3.0,39.0,31.0
+1563,I Can't Make You Love Me,Bonnie Raitt,classic rock,125.0,15.0,-17.0,24.0,333.0,85.0,3.0,66.0,30.0
+1564,Love of the Common People,Paul Young,album rock,91.0,61.0,-11.0,6.0,221.0,9.0,8.0,55.0,30.0
+1565,Mysterious Ways,U2,irish rock,100.0,66.0,-8.0,11.0,244.0,0.0,3.0,63.0,31.0
+1566,We Don't Need Another Hero (Thunderdome),Tina Turner,disco,99.0,67.0,-6.0,12.0,255.0,20.0,5.0,61.0,31.0
+1567,Calling Elvis,Dire Straits,album rock,120.0,57.0,-12.0,16.0,385.0,9.0,3.0,54.0,31.0
+1568,Killing In The Name,Rage Against The Machine,alternative metal,89.0,83.0,-4.0,3.0,314.0,3.0,30.0,78.0,30.0
+1569,Fear of the Dark - 2015 Remaster,Iron Maiden,album rock,110.0,87.0,-6.0,23.0,438.0,0.0,6.0,55.0,30.0
+1570,Bed Of Roses,Bon Jovi,glam metal,165.0,60.0,-6.0,21.0,394.0,10.0,3.0,73.0,29.0
+1571,Everybody Hurts,R.E.M.,alternative rock,94.0,32.0,-10.0,12.0,320.0,62.0,3.0,74.0,29.0
+1572,Kayleigh,Marillion,album rock,106.0,67.0,-7.0,9.0,243.0,2.0,3.0,58.0,30.0
+1573,"Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",Eric Clapton,album rock,94.0,52.0,-12.0,94.0,289.0,32.0,5.0,70.0,30.0
+1574,I Will Always Love You,Whitney Houston,dance pop,67.0,21.0,-13.0,8.0,271.0,84.0,4.0,77.0,30.0
+1575,Nightswimming,R.E.M.,alternative rock,114.0,39.0,-11.0,10.0,258.0,80.0,3.0,62.0,29.0
+1576,Conquest of Paradise,Vangelis,cyberpunk,74.0,30.0,-14.0,23.0,278.0,70.0,3.0,61.0,29.0
+1577,Would?,Alice In Chains,alternative metal,101.0,83.0,-8.0,9.0,207.0,0.0,4.0,71.0,30.0
+1578,Friday I'm in Love,The Cure,dance rock,136.0,76.0,-12.0,34.0,214.0,0.0,3.0,67.0,30.0
+1579,Sharp Dressed Man,ZZ Top,album rock,125.0,77.0,-8.0,10.0,252.0,0.0,3.0,53.0,30.0
+1580,Man On The Moon,R.E.M.,alternative rock,119.0,70.0,-8.0,20.0,314.0,42.0,3.0,67.0,30.0
+1581,Gimme All Your Lovin',ZZ Top,album rock,120.0,79.0,-7.0,6.0,240.0,5.0,3.0,44.0,30.0
+1582,What's Up?,4 Non Blondes,new wave pop,134.0,56.0,-10.0,11.0,296.0,16.0,3.0,78.0,30.0
+1583,Lavender,Marillion,album rock,138.0,55.0,-6.0,9.0,224.0,31.0,3.0,51.0,30.0
+1584,Plush - 2017 Remaster,Stone Temple Pilots,alternative metal,144.0,94.0,-5.0,14.0,314.0,1.0,4.0,61.0,30.0
+1585,Eloise,Barry Ryan,bubblegum pop,131.0,59.0,-12.0,36.0,345.0,22.0,3.0,45.0,30.0
+1586,Harvest Moon,Neil Young,album rock,113.0,31.0,-12.0,12.0,303.0,53.0,3.0,71.0,29.0
+1587,Drive,R.E.M.,alternative rock,143.0,43.0,-12.0,23.0,271.0,18.0,3.0,62.0,30.0
+1588,Remedy,The Black Crowes,album rock,160.0,98.0,-4.0,8.0,323.0,0.0,5.0,56.0,29.0
+1589,I've Got Dreams to Remember,Otis Redding,classic soul,142.0,28.0,-13.0,14.0,196.0,50.0,3.0,49.0,29.0
+1590,Jump Around,House Of Pain,gangster rap,107.0,71.0,-6.0,17.0,215.0,1.0,8.0,74.0,30.0
+1591,Human Touch,Bruce Springsteen,classic rock,115.0,52.0,-14.0,10.0,389.0,0.0,3.0,58.0,30.0
+1592,Vlieg Met Me Mee - Live,Paul de Leeuw,dutch cabaret,176.0,47.0,-14.0,77.0,312.0,77.0,20.0,40.0,29.0
+1593,In These Arms,Bon Jovi,glam metal,123.0,92.0,-3.0,21.0,319.0,1.0,6.0,59.0,30.0
+1594,Out Of Space,The Prodigy,big beat,147.0,87.0,-11.0,11.0,298.0,0.0,6.0,48.0,30.0
+1595,Find The River,R.E.M.,alternative rock,145.0,44.0,-9.0,14.0,230.0,22.0,3.0,58.0,30.0
+1596,I Have Nothing,Whitney Houston,dance pop,153.0,40.0,-10.0,16.0,289.0,58.0,4.0,73.0,30.0
+1597,Rosalyn,Vitesse,nederpop,102.0,51.0,-13.0,7.0,208.0,1.0,6.0,39.0,30.0
+1598,Rooster,Alice In Chains,alternative metal,144.0,55.0,-8.0,12.0,374.0,3.0,3.0,68.0,29.0
+1599,Why,Annie Lennox,europop,91.0,47.0,-9.0,13.0,294.0,28.0,2.0,64.0,29.0
+1600,Rhythm Is A Dancer,SNAP!,diva house,124.0,65.0,-15.0,9.0,332.0,21.0,3.0,57.0,29.0
+1601,Keep The Faith,Bon Jovi,glam metal,118.0,97.0,-4.0,8.0,347.0,0.0,5.0,58.0,30.0
+1602,No Rain,Blind Melon,alternative metal,148.0,48.0,-9.0,26.0,217.0,62.0,3.0,73.0,30.0
+1603,Creep,Radiohead,alternative rock,92.0,43.0,-10.0,13.0,239.0,1.0,4.0,82.0,28.0
+1604,Proud Mary,Tina Turner,disco,171.0,50.0,-11.0,11.0,327.0,8.0,7.0,66.0,28.0
+1605,Fields Of Gold,Sting,permanent wave,104.0,34.0,-12.0,7.0,222.0,37.0,2.0,69.0,29.0
+1606,Eagle - Short Version,ABBA,europop,86.0,83.0,-8.0,17.0,263.0,0.0,3.0,41.0,29.0
+1607,Linger,The Cranberries,irish rock,95.0,43.0,-15.0,14.0,275.0,8.0,3.0,75.0,29.0
+1608,Alles Geprobeerd,Het Goede Doel,dutch pop,76.0,56.0,-15.0,8.0,388.0,11.0,4.0,38.0,29.0
+1609,I'd Do Anything For Love (But I Won't Do That) - Single Edit,Meat Loaf,album rock,105.0,67.0,-6.0,41.0,316.0,62.0,9.0,59.0,29.0
+1610,Shape Of My Heart,Sting,permanent wave,84.0,37.0,-10.0,8.0,279.0,69.0,3.0,72.0,29.0
+1611,I Will Survive - Single Version,Gloria Gaynor,disco,116.0,62.0,-13.0,32.0,199.0,2.0,5.0,60.0,29.0
+1612,Ordinary World,Duran Duran,dance rock,140.0,65.0,-10.0,14.0,340.0,1.0,3.0,72.0,29.0
+1613,Disarm - Remastered,The Smashing Pumpkins,alternative metal,130.0,42.0,-10.0,14.0,197.0,14.0,3.0,62.0,29.0
+1614,Mr. Jones,Counting Crows,alternative rock,142.0,82.0,-7.0,28.0,272.0,18.0,4.0,76.0,29.0
+1615,Heart-Shaped Box,Nirvana,alternative rock,203.0,64.0,-10.0,9.0,281.0,20.0,6.0,74.0,29.0
+1616,Daughter (Remastered),Pearl Jam,alternative rock,97.0,70.0,-10.0,6.0,234.0,1.0,3.0,68.0,28.0
+1617,In-A-Gadda-Da-Vida - Single Version,Iron Butterfly,art rock,119.0,53.0,-10.0,18.0,174.0,0.0,3.0,57.0,29.0
+1618,Gaia,Valensia,classical rock,174.0,33.0,-13.0,21.0,331.0,74.0,3.0,39.0,29.0
+1619,Mull Of Kintyre - 1993 Digital Remaster,Wings,album rock,93.0,26.0,-15.0,12.0,283.0,0.0,3.0,56.0,28.0
+1620,Cose della vita,Eros Ramazzotti,italian pop,176.0,60.0,-9.0,22.0,289.0,6.0,3.0,48.0,29.0
+1621,Are You Gonna Go My Way,Lenny Kravitz,permanent wave,129.0,67.0,-10.0,33.0,212.0,0.0,4.0,72.0,29.0
+1622,What's Love Got to Do with It,Tina Turner,disco,98.0,41.0,-12.0,9.0,227.0,22.0,7.0,69.0,28.0
+1623,Rearviewmirror (Remastered),Pearl Jam,alternative rock,159.0,96.0,-5.0,35.0,283.0,0.0,7.0,58.0,29.0
+1624,La solitudine,Laura Pausini,europop,132.0,47.0,-6.0,15.0,241.0,74.0,4.0,57.0,28.0
+1625,Up Where We Belong,Joe Cocker,album rock,139.0,43.0,-9.0,8.0,233.0,60.0,3.0,54.0,28.0
+1626,Rape Me,Nirvana,alternative rock,112.0,75.0,-11.0,7.0,170.0,1.0,5.0,64.0,29.0
+1627,Round Here,Counting Crows,alternative rock,94.0,48.0,-9.0,8.0,331.0,14.0,3.0,61.0,29.0
+1628,I Want You Back,The Jackson 5,adult standards,98.0,54.0,-13.0,28.0,181.0,49.0,3.0,65.0,29.0
+1629,Younger Days,The Fatal Flowers,dutch indie,116.0,85.0,-7.0,31.0,188.0,2.0,4.0,42.0,29.0
+1630,All Apologies,Nirvana,alternative rock,113.0,63.0,-12.0,9.0,233.0,8.0,3.0,67.0,28.0
+1631,Zombie,The Cranberries,irish rock,167.0,64.0,-9.0,37.0,306.0,2.0,3.0,80.0,27.0
+1632,Hallelujah,Jeff Buckley,alternative rock,97.0,14.0,-10.0,18.0,414.0,93.0,3.0,73.0,27.0
+1633,Oude Maasweg,The Amazing Stroopwafels,dutch rock,90.0,26.0,-15.0,12.0,206.0,70.0,4.0,45.0,28.0
+1634,Lightning Crashes,Live,alternative metal,90.0,43.0,-9.0,11.0,326.0,24.0,4.0,64.0,28.0
+1635,Black Hole Sun,Soundgarden,alternative metal,105.0,83.0,-5.0,8.0,319.0,0.0,4.0,76.0,28.0
+1636,The Man Who Sold The World,Nirvana,alternative rock,115.0,75.0,-9.0,26.0,261.0,43.0,8.0,73.0,28.0
+1637,Basket Case,Green Day,modern rock,85.0,94.0,-3.0,9.0,182.0,0.0,6.0,79.0,27.0
+1638,Where Did You Sleep Last Night,Nirvana,alternative rock,109.0,59.0,-8.0,69.0,306.0,67.0,6.0,68.0,27.0
+1639,High Hopes,Pink Floyd,album rock,75.0,41.0,-13.0,35.0,511.0,20.0,3.0,59.0,28.0
+1640,Kiss from a Rose,Seal,british soul,132.0,53.0,-7.0,31.0,288.0,68.0,3.0,72.0,28.0
+1641,Always,Bon Jovi,glam metal,141.0,66.0,-6.0,8.0,353.0,12.0,3.0,76.0,27.0
+1642,All I Want for Christmas Is You,Mariah Carey,dance pop,150.0,63.0,-7.0,7.0,241.0,16.0,4.0,95.0,27.0
+1643,I Alone,Live,alternative metal,90.0,82.0,-7.0,37.0,231.0,0.0,5.0,62.0,28.0
+1644,Sabotage,Beastie Boys,alternative rock,168.0,94.0,-7.0,10.0,178.0,3.0,10.0,71.0,28.0
+1645,Smooth Operator - Single Version,Sade,british soul,119.0,58.0,-7.0,3.0,259.0,24.0,3.0,66.0,28.0
+1646,Glory Box,Portishead,art pop,120.0,43.0,-10.0,6.0,309.0,18.0,4.0,67.0,28.0
+1647,Dromen Zijn Bedrog,Marco Borsato,dutch cabaret,132.0,86.0,-9.0,26.0,243.0,3.0,4.0,56.0,28.0
+1648,Ode To My Family,The Cranberries,irish rock,94.0,45.0,-10.0,28.0,271.0,6.0,2.0,69.0,28.0
+1649,No Good (Start the Dance) [Remastered],The Prodigy,big beat,145.0,99.0,-7.0,16.0,378.0,1.0,5.0,56.0,27.0
+1650,When I Come Around,Green Day,modern rock,98.0,91.0,-4.0,23.0,178.0,2.0,3.0,75.0,28.0
+1651,Live Forever - Remastered,Oasis,britpop,84.0,79.0,-4.0,36.0,277.0,0.0,4.0,55.0,28.0
+1652,Mmm Mmm Mmm Mmm,Crash Test Dummies,canadian rock,93.0,57.0,-8.0,8.0,235.0,25.0,2.0,57.0,28.0
+1653,Annabel,Hans De Booij,dutch cabaret,174.0,52.0,-14.0,10.0,213.0,6.0,30.0,45.0,28.0
+1654,Polly,Nirvana,alternative rock,115.0,39.0,-12.0,91.0,196.0,68.0,4.0,57.0,28.0
+1655,Grace,Jeff Buckley,alternative rock,128.0,87.0,-4.0,22.0,322.0,3.0,4.0,59.0,28.0
+1656,Stil In Mij,Van Dik Hout,dutch cabaret,99.0,65.0,-9.0,13.0,245.0,22.0,3.0,58.0,26.0
+1657,Wonderwall - Remastered,Oasis,britpop,175.0,87.0,-5.0,23.0,259.0,0.0,4.0,71.0,26.0
+1658,Don't Look Back In Anger - Remastered,Oasis,britpop,163.0,92.0,-4.0,13.0,290.0,6.0,6.0,63.0,27.0
+1659,Streets of Philadelphia - Single Edit,Bruce Springsteen,classic rock,94.0,29.0,-13.0,9.0,195.0,29.0,3.0,70.0,27.0
+1660,Earth Song,Michael Jackson,pop,138.0,44.0,-8.0,9.0,406.0,48.0,3.0,63.0,27.0
+1661,Street Spirit (Fade Out),Radiohead,alternative rock,138.0,45.0,-12.0,18.0,254.0,31.0,3.0,62.0,27.0
+1662,Man in the Mirror,Michael Jackson,pop,100.0,80.0,-6.0,11.0,319.0,43.0,4.0,64.0,27.0
+1663,Aan De Kust,BLØF,dutch pop,78.0,31.0,-10.0,13.0,223.0,93.0,5.0,47.0,27.0
+1664,Beat It,Michael Jackson,pop,139.0,80.0,-6.0,17.0,258.0,3.0,4.0,60.0,27.0
+1666,Vivo per lei,Andrea Bocelli,adult standards,136.0,46.0,-6.0,18.0,266.0,70.0,3.0,64.0,27.0
+1667,Circle Of Life,Elton John,glam rock,160.0,61.0,-8.0,11.0,290.0,28.0,4.0,54.0,26.0
+1668,They Don't Care About Us,Michael Jackson,pop,90.0,91.0,-6.0,32.0,284.0,21.0,13.0,69.0,27.0
+1669,Champagne Supernova - Remastered,Oasis,britpop,150.0,80.0,-5.0,36.0,448.0,47.0,4.0,63.0,27.0
+1670,You Do Something To Me,Paul Weller,britpop,73.0,34.0,-13.0,11.0,219.0,48.0,3.0,58.0,27.0
+1671,Lemon Tree,Fools Garden,german pop rock,143.0,48.0,-9.0,12.0,191.0,64.0,4.0,73.0,27.0
+1672,Weak,Skunk Anansie,british alternative rock,94.0,77.0,-6.0,26.0,212.0,1.0,3.0,24.0,26.0
+1673,Ik Leef Niet Meer Voor Jou,Marco Borsato,dutch cabaret,150.0,82.0,-9.0,4.0,217.0,2.0,5.0,60.0,27.0
+1674,Gangsta's Paradise,Coolio,g funk,80.0,51.0,-10.0,40.0,241.0,7.0,6.0,80.0,27.0
+1675,Con Te Partirò,Andrea Bocelli,adult standards,135.0,37.0,-8.0,9.0,251.0,84.0,3.0,66.0,27.0
+1676,Don't Speak,No Doubt,alternative rock,76.0,71.0,-7.0,18.0,264.0,25.0,4.0,67.0,26.0
+1677,Heaven For Everyone - Remastered 2011,Queen,glam rock,110.0,43.0,-10.0,17.0,336.0,29.0,3.0,49.0,26.0
+1678,Fake Plastic Trees,Radiohead,alternative rock,74.0,23.0,-13.0,20.0,291.0,17.0,3.0,70.0,26.0
+1679,Too Much Love Will Kill You - 2011 Remaster,Queen,glam rock,73.0,40.0,-8.0,16.0,259.0,58.0,3.0,49.0,27.0
+1680,1979 - Remastered 2012,The Smashing Pumpkins,alternative metal,127.0,79.0,-10.0,5.0,266.0,2.0,3.0,74.0,26.0
+1681,Avalon,Roxy Music,album rock,137.0,49.0,-11.0,21.0,257.0,67.0,3.0,46.0,27.0
+1682,You Don't Fool Me - Remastered 2011,Queen,glam rock,122.0,83.0,-6.0,38.0,325.0,10.0,4.0,45.0,26.0
+1683,Can You Feel The Love Tonight,Elton John,glam rock,123.0,36.0,-9.0,10.0,240.0,81.0,3.0,58.0,27.0
+1684,Dear Mama,2Pac,g funk,84.0,54.0,-7.0,13.0,280.0,37.0,10.0,72.0,27.0
+1685,Diane,Therapy?,alternative metal,124.0,43.0,-12.0,25.0,300.0,68.0,4.0,44.0,26.0
+1686,Stranger in Moscow,Michael Jackson,pop,130.0,47.0,-9.0,32.0,344.0,25.0,4.0,58.0,26.0
+1687,An American Trilogy,Elvis Presley,adult standards,84.0,13.0,-14.0,96.0,272.0,73.0,3.0,31.0,26.0
+1688,Secret Garden,Bruce Springsteen,classic rock,87.0,33.0,-14.0,12.0,267.0,58.0,3.0,61.0,27.0
+1689,"Tonight, Tonight - Remastered 2012",The Smashing Pumpkins,alternative metal,149.0,67.0,-9.0,24.0,255.0,0.0,4.0,68.0,27.0
+1690,Bullet With Butterfly Wings - Remastered 2012,The Smashing Pumpkins,alternative metal,122.0,72.0,-9.0,5.0,258.0,0.0,6.0,71.0,27.0
+1691,A Winter's Tale - 2011 Remaster,Queen,glam rock,54.0,56.0,-6.0,31.0,230.0,18.0,3.0,29.0,27.0
+1692,Gold,Prince,funk,90.0,86.0,-3.0,13.0,443.0,0.0,3.0,46.0,27.0
+1693,High And Dry,Radiohead,alternative rock,88.0,38.0,-12.0,9.0,257.0,7.0,3.0,72.0,27.0
+1694,Fairground,Simply Red,british soul,123.0,73.0,-6.0,8.0,333.0,21.0,4.0,56.0,26.0
+1695,Avond,Boudewijn de Groot,dutch indie,98.0,37.0,-15.0,12.0,277.0,66.0,4.0,40.0,25.0
+1696,She - Tous les visages de l’amour,Charles Aznavour,chanson,132.0,39.0,-10.0,15.0,153.0,22.0,3.0,60.0,26.0
+1697,Insomnia,Faithless,big beat,127.0,58.0,-10.0,17.0,527.0,18.0,4.0,55.0,26.0
+1698,Jesus to a Child,George Michael,dance rock,174.0,42.0,-12.0,8.0,411.0,31.0,3.0,62.0,25.0
+1699,Down Under,Men At Work,album rock,107.0,79.0,-5.0,5.0,221.0,5.0,3.0,74.0,26.0
+1700,Jump,Van Halen,album rock,130.0,82.0,-7.0,6.0,240.0,7.0,3.0,57.0,26.0
+1701,Het Is Een Nacht... (Levensecht),Guus Meeuwis,dutch pop,138.0,62.0,-7.0,16.0,225.0,54.0,3.0,58.0,26.0
+1702,Where the Wild Roses Grow - 2011 - Remaster,Nick Cave & The Bad Seeds,art rock,155.0,47.0,-11.0,10.0,237.0,38.0,3.0,59.0,25.0
+1703,Beautiful Noise,Neil Diamond,adult standards,127.0,35.0,-15.0,15.0,193.0,12.0,3.0,57.0,25.0
+1704,Yesterday When I Was Young,Charles Aznavour,chanson,68.0,51.0,-9.0,37.0,215.0,40.0,6.0,53.0,25.0
+1705,De Waarheid,Marco Borsato,dutch cabaret,61.0,36.0,-11.0,33.0,312.0,11.0,3.0,50.0,25.0
+1706,Wereld Zonder Jou,Marco Borsato,dutch cabaret,121.0,36.0,-10.0,17.0,236.0,51.0,3.0,55.0,26.0
+1707,Wannabe,Spice Girls,dance pop,110.0,86.0,-6.0,16.0,173.0,10.0,3.0,80.0,26.0
+1708,Hedonism (Just Because You Feel Good),Skunk Anansie,british alternative rock,81.0,54.0,-9.0,16.0,207.0,9.0,3.0,32.0,25.0
+1709,Killing Me Softly With His Song,Fugees,east coast hip hop,92.0,29.0,-17.0,57.0,299.0,3.0,14.0,74.0,25.0
+1710,You Have Been Loved,George Michael,dance rock,137.0,24.0,-16.0,11.0,331.0,24.0,3.0,53.0,25.0
+1711,Children,Robert Miles,eurodance,137.0,76.0,-11.0,6.0,243.0,0.0,3.0,67.0,25.0
+1712,No Diggity,Blackstreet,boy band,89.0,65.0,-5.0,28.0,305.0,30.0,29.0,76.0,26.0
+1713,"Casser la voix - Live ""Si Ce Soir""",Patrick Bruel,chanson,135.0,72.0,-10.0,84.0,455.0,2.0,6.0,35.0,26.0
+1714,Beautiful Goodbye,Amanda Marshall,canadian pop,99.0,29.0,-8.0,18.0,317.0,65.0,3.0,37.0,26.0
+1715,Ain't Nobody,Chaka Khan,dance pop,104.0,88.0,-7.0,14.0,281.0,19.0,4.0,70.0,26.0
+1716,A Long December,Counting Crows,alternative rock,71.0,58.0,-7.0,22.0,295.0,47.0,3.0,63.0,26.0
+1717,Novocaine For The Soul,Eels,alternative rock,169.0,72.0,-8.0,8.0,189.0,0.0,4.0,54.0,26.0
+1718,Per Spoor (Kedeng Kedeng),Guus Meeuwis,dutch pop,126.0,88.0,-7.0,15.0,253.0,20.0,5.0,49.0,26.0
+1719,Bitter Sweet Symphony,The Verve,alternative rock,171.0,92.0,-6.0,41.0,357.0,3.0,5.0,78.0,25.0
+1720,Zeg Me Dat Het Niet Zo Is,Frank Boeijen,dutch cabaret,70.0,13.0,-14.0,17.0,161.0,85.0,4.0,48.0,24.0
+1721,Du hast,Rammstein,alternative metal,125.0,92.0,-6.0,33.0,234.0,0.0,4.0,67.0,25.0
+1722,"Take Me Home, Country Roads",John Denver,adult standards,164.0,43.0,-13.0,19.0,198.0,55.0,3.0,77.0,25.0
+1723,Karma Police,Radiohead,alternative rock,75.0,51.0,-9.0,17.0,264.0,6.0,3.0,74.0,25.0
+1724,Everlong,Foo Fighters,alternative metal,158.0,88.0,-6.0,8.0,251.0,0.0,4.0,77.0,24.0
+1725,Op Fietse,Skik,dutch indie,104.0,86.0,-5.0,24.0,291.0,19.0,3.0,46.0,25.0
+1726,Paranoid Android,Radiohead,alternative rock,164.0,85.0,-7.0,5.0,387.0,4.0,6.0,67.0,24.0
+1727,Lopen Tot De Zon Komt,Acda en de Munnik,dutch cabaret,100.0,33.0,-9.0,14.0,206.0,89.0,3.0,49.0,24.0
+1728,Into My Arms - 2011 Remastered Version,Nick Cave & The Bad Seeds,art rock,94.0,9.0,-18.0,11.0,256.0,89.0,4.0,65.0,25.0
+1729,Engel,Rammstein,alternative metal,96.0,66.0,-6.0,30.0,264.0,1.0,3.0,60.0,25.0
+1730,k Heb Je Lief,Paul de Leeuw,dutch cabaret,136.0,37.0,-12.0,9.0,284.0,73.0,4.0,54.0,24.0
+1731,Chan Chan,Buena Vista Social Club,latin jazz,166.0,50.0,-12.0,10.0,257.0,83.0,4.0,68.0,24.0
+1732,Firestarter,The Prodigy,big beat,142.0,95.0,-5.0,16.0,280.0,0.0,8.0,64.0,24.0
+1733,The Unforgiven II,Metallica,alternative metal,133.0,88.0,-5.0,27.0,396.0,0.0,4.0,55.0,25.0
+1734,Smack My Bitch Up,The Prodigy,big beat,136.0,99.0,-5.0,11.0,343.0,0.0,15.0,65.0,25.0
+1735,You'll Never Walk Alone,Gerry & The Pacemakers,adult standards,113.0,37.0,-5.0,19.0,160.0,25.0,3.0,55.0,24.0
+1736,Good Riddance (Time of Your Life),Green Day,modern rock,95.0,43.0,-8.0,16.0,153.0,18.0,3.0,75.0,25.0
+1737,Candle In The Wind 1997,Elton John,glam rock,126.0,31.0,-8.0,17.0,250.0,98.0,3.0,53.0,24.0
+1738,No Surprises,Radiohead,alternative rock,76.0,39.0,-11.0,11.0,229.0,6.0,3.0,71.0,24.0
+1739,Als Het Vuur Gedoofd Is,Acda en de Munnik,dutch cabaret,92.0,64.0,-8.0,14.0,234.0,49.0,3.0,42.0,24.0
+1740,Little Green Bag,George Baker Selection,classic uk pop,103.0,61.0,-14.0,8.0,195.0,4.0,3.0,44.0,24.0
+1741,Beds Are Burning - Remastered,Midnight Oil,australian rock,119.0,50.0,-9.0,9.0,258.0,1.0,4.0,63.0,24.0
+1742,"My Heart Will Go On - Love Theme from ""Titanic""",Céline Dion,canadian pop,99.0,28.0,-12.0,12.0,280.0,73.0,3.0,75.0,25.0
+1743,t Dondert En 't Bliksemt,Guus Meeuwis,dutch pop,121.0,95.0,-4.0,9.0,192.0,64.0,7.0,50.0,25.0
+1744,Breathe,The Prodigy,big beat,130.0,82.0,-6.0,4.0,335.0,1.0,5.0,66.0,24.0
+1745,The Memory Remains,Metallica,alternative metal,144.0,90.0,-4.0,21.0,279.0,0.0,4.0,51.0,24.0
+1746,N'oubliez Jamais,Joe Cocker,album rock,87.0,49.0,-8.0,6.0,283.0,14.0,2.0,35.0,25.0
+1747,Tell Him,Barbra Streisand,adult standards,76.0,40.0,-9.0,11.0,291.0,76.0,4.0,47.0,25.0
+1748,Mooi Liedje,Acda en de Munnik,dutch cabaret,177.0,21.0,-11.0,10.0,179.0,96.0,4.0,42.0,24.0
+1749,Can't Stand Losing You,The Police,album rock,142.0,63.0,-10.0,4.0,181.0,35.0,31.0,45.0,25.0
+1750,Songbird,Eva Cassidy,adult standards,153.0,23.0,-12.0,13.0,225.0,85.0,3.0,61.0,25.0
+1751,Hier Komt De Storm,Frank Boeijen Groep,dutch cabaret,89.0,77.0,-8.0,24.0,388.0,51.0,4.0,31.0,25.0
+1752,The Drugs Don't Work,The Verve,alternative rock,77.0,52.0,-9.0,15.0,305.0,18.0,3.0,64.0,25.0
+1753,Around the World,Daft Punk,electro,121.0,80.0,-5.0,9.0,430.0,0.0,15.0,70.0,25.0
+1754,Somebody to Love,George Michael,dance rock,110.0,86.0,-7.0,97.0,319.0,5.0,5.0,57.0,24.0
+1755,Nobody's Wife,Anouk,dutch indie,98.0,91.0,-7.0,17.0,206.0,1.0,4.0,33.0,24.0
+1756,Als Ze Er Niet Is,De Dijk,dutch indie,166.0,49.0,-12.0,11.0,211.0,24.0,6.0,50.0,23.0
+1757,Careless Whisper,George Michael,dance rock,153.0,63.0,-9.0,27.0,300.0,13.0,4.0,76.0,24.0
+1758,Whiskey In The Jar,Metallica,alternative metal,133.0,97.0,-4.0,19.0,305.0,0.0,4.0,61.0,23.0
+1759,Don't Let the Sun Go Down on Me,George Michael,dance rock,135.0,55.0,-8.0,54.0,347.0,49.0,3.0,66.0,24.0
+1760,The Whole of the Moon,The Waterboys,art rock,106.0,85.0,-6.0,60.0,299.0,7.0,3.0,59.0,24.0
+1761,Liefs Uit Londen,BLØF,dutch pop,77.0,13.0,-19.0,18.0,239.0,81.0,4.0,51.0,23.0
+1762,Narcotic - Long Version,Liquido,german alternative rock,102.0,59.0,-7.0,8.0,278.0,0.0,3.0,42.0,24.0
+1763,New Year's Day,U2,irish rock,133.0,80.0,-6.0,61.0,257.0,0.0,3.0,58.0,24.0
+1764,Cowboys and Angels,George Michael,dance rock,128.0,51.0,-13.0,13.0,435.0,4.0,3.0,43.0,24.0
+1765,Zelfs Je Naam Is Mooi,Henk Westbroek,alternative pop rock,94.0,46.0,-7.0,21.0,270.0,38.0,2.0,49.0,24.0
+1766,Toen Ik Je Zag - Single Version,Hero,pop,81.0,20.0,-14.0,30.0,205.0,71.0,4.0,47.0,23.0
+1767,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",Aerosmith,album rock,121.0,66.0,-5.0,25.0,299.0,17.0,3.0,76.0,24.0
+1768,Fields Of Gold,Eva Cassidy,adult standards,80.0,9.0,-15.0,8.0,282.0,97.0,3.0,62.0,24.0
+1769,A Different Corner,George Michael,dance rock,99.0,29.0,-10.0,11.0,244.0,86.0,3.0,58.0,24.0
+1770,Teardrop,Massive Attack,big beat,77.0,42.0,-9.0,14.0,331.0,2.0,4.0,69.0,24.0
+1771,Faith,George Michael,dance rock,96.0,50.0,-10.0,7.0,194.0,1.0,10.0,46.0,24.0
+1772,Father Figure,George Michael,dance rock,102.0,39.0,-11.0,8.0,340.0,23.0,3.0,51.0,23.0
+1773,Niet Of Nooit Geweest,Acda en de Munnik,dutch cabaret,122.0,51.0,-10.0,17.0,242.0,38.0,4.0,54.0,24.0
+1774,Is Dit Nu Later,Stef Bos,christelijk,134.0,51.0,-9.0,69.0,257.0,52.0,4.0,39.0,23.0
+1775,De Bestemming,Marco Borsato,dutch cabaret,109.0,50.0,-9.0,10.0,266.0,28.0,3.0,50.0,24.0
+1777,Onderuit,De Dijk,dutch indie,118.0,57.0,-9.0,9.0,313.0,10.0,3.0,35.0,24.0
+1778,Non non rien n'a changé,Les Poppys,alternative pop rock,84.0,48.0,-8.0,20.0,190.0,48.0,9.0,50.0,24.0
+1779,I'm Not so Tough,Ilse DeLange,dutch americana,117.0,58.0,-8.0,10.0,268.0,2.0,3.0,40.0,23.0
+1780,Killer / Papa Was a Rollin' Stone,George Michael,dance rock,122.0,98.0,-7.0,76.0,255.0,3.0,5.0,51.0,23.0
+1781,I Knew You Were Waiting (For Me),George Michael,dance rock,108.0,84.0,-5.0,24.0,238.0,26.0,5.0,63.0,24.0
+1782,If You Tolerate This Your Children Will Be Next,Manic Street Preachers,alternative rock,96.0,80.0,-6.0,9.0,291.0,0.0,4.0,37.0,23.0
+1783,Praying for Time,George Michael,dance rock,128.0,80.0,-8.0,9.0,281.0,2.0,3.0,45.0,24.0
+1784,Hilversum 3,Herman van Veen,dutch pop,91.0,22.0,-15.0,11.0,233.0,92.0,6.0,39.0,23.0
+1785,The Reflex,Duran Duran,dance rock,127.0,90.0,-6.0,57.0,267.0,12.0,10.0,50.0,24.0
+1786,World of Hurt,Ilse DeLange,dutch americana,99.0,47.0,-10.0,13.0,234.0,62.0,4.0,40.0,24.0
+1787,As,George Michael,dance rock,93.0,74.0,-8.0,20.0,282.0,14.0,19.0,61.0,23.0
+1788,Pure Morning,Placebo,alternative rock,81.0,90.0,-7.0,11.0,255.0,4.0,7.0,60.0,23.0
+1789,She's The One,Robbie Williams,dance pop,167.0,61.0,-8.0,22.0,258.0,66.0,3.0,68.0,24.0
+1790,Ik Heb Je Lief,Stef Bos,christelijk,131.0,48.0,-12.0,73.0,231.0,77.0,6.0,44.0,23.0
+1791,Pretty Fly (For A White Guy),The Offspring,alternative metal,143.0,90.0,-4.0,7.0,189.0,9.0,10.0,72.0,24.0
+1792,I Can't Make You Love Me,George Michael,dance rock,116.0,19.0,-13.0,11.0,321.0,73.0,3.0,53.0,24.0
+1793,Praise You,Fatboy Slim,big beat,110.0,89.0,-9.0,17.0,323.0,10.0,5.0,44.0,23.0
+1794,Sacrifice,Anouk,dutch indie,136.0,17.0,-13.0,9.0,238.0,74.0,5.0,11.0,23.0
+1795,Toveren,Herman van Veen,dutch pop,145.0,28.0,-15.0,21.0,206.0,58.0,3.0,44.0,23.0
+1796,Kissing a Fool,George Michael,dance rock,117.0,27.0,-14.0,11.0,275.0,17.0,3.0,56.0,24.0
+1797,Hijo de la Luna,Mecano,latin,179.0,54.0,-7.0,6.0,266.0,68.0,3.0,62.0,24.0
+1798,"Slaap Zacht , Elisabeth",Acda en de Munnik,dutch cabaret,174.0,38.0,-11.0,10.0,263.0,36.0,3.0,37.0,24.0
+1799,Angels,Robbie Williams,dance pop,150.0,59.0,-7.0,10.0,266.0,15.0,3.0,50.0,22.0
+1800,Tears in Heaven,Eric Clapton,album rock,154.0,24.0,-12.0,13.0,272.0,84.0,3.0,61.0,23.0
+1801,Californication,Red Hot Chili Peppers,alternative rock,96.0,77.0,-3.0,13.0,330.0,0.0,3.0,81.0,23.0
+1802,Harder Dan Ik Hebben Kan,BLØF,dutch pop,90.0,40.0,-10.0,15.0,254.0,9.0,2.0,57.0,22.0
+1803,Learn to Fly,Foo Fighters,alternative metal,136.0,92.0,-4.0,26.0,235.0,0.0,4.0,74.0,23.0
+1804,Total Eclipse of the Heart,Bonnie Tyler,europop,130.0,66.0,-8.0,10.0,270.0,20.0,7.0,75.0,22.0
+1805,Scar Tissue,Red Hot Chili Peppers,alternative rock,89.0,72.0,-5.0,11.0,216.0,8.0,3.0,77.0,23.0
+1806,Otherside,Red Hot Chili Peppers,alternative rock,123.0,80.0,-3.0,8.0,255.0,0.0,6.0,78.0,22.0
+1807,"You'll Be In My Heart - From ""Tarzan""/Soundtrack Version",Phil Collins,mellow gold,97.0,74.0,-6.0,9.0,258.0,6.0,3.0,62.0,23.0
+1808,Let Me Entertain You,Robbie Williams,dance pop,125.0,96.0,-5.0,9.0,261.0,0.0,7.0,44.0,23.0
+1809,Road Trippin',Red Hot Chili Peppers,alternative rock,204.0,47.0,-8.0,12.0,205.0,31.0,4.0,62.0,23.0
+1810,Jesus He Knows Me,Genesis,album rock,95.0,87.0,-7.0,8.0,256.0,57.0,4.0,18.0,23.0
+1811,The Family Tree,Venice,alternative rock,127.0,10.0,-16.0,10.0,205.0,81.0,3.0,41.0,23.0
+1812,Porcelain,Moby,downtempo,95.0,64.0,-8.0,25.0,241.0,0.0,3.0,54.0,22.0
+1813,Unintended,Muse,modern rock,139.0,28.0,-12.0,11.0,237.0,65.0,3.0,61.0,23.0
+1814,LA Song,Beth Hart,blues rock,130.0,62.0,-8.0,9.0,217.0,10.0,4.0,41.0,22.0
+1815,The Dolphin's Cry,Live,alternative metal,150.0,79.0,-6.0,14.0,264.0,0.0,4.0,56.0,22.0
+1816,All Star,Smash Mouth,alternative rock,104.0,87.0,-6.0,9.0,200.0,4.0,3.0,80.0,22.0
+1817,Why Does My Heart Feel So Bad?,Moby,downtempo,98.0,62.0,-7.0,8.0,265.0,0.0,3.0,45.0,23.0
+1818,Il Volo,Zucchero,classic italian pop,150.0,40.0,-12.0,6.0,332.0,3.0,3.0,24.0,22.0
+1819,The Next Episode,Dr. Dre,g funk,95.0,91.0,-2.0,9.0,162.0,3.0,27.0,70.0,23.0
+1820,Geen Kind Meer,Karin Bloemen,dutch cabaret,77.0,17.0,-16.0,14.0,263.0,95.0,3.0,38.0,23.0
+1821,All The Small Things,blink-182,pop punk,149.0,90.0,-5.0,61.0,167.0,1.0,5.0,79.0,22.0
+1822,Run To The Water,Live,alternative metal,181.0,85.0,-5.0,9.0,268.0,0.0,5.0,48.0,22.0
+1823,Hart Van Mijn Gevoel,De Kast,dutch pop,140.0,43.0,-10.0,14.0,269.0,54.0,3.0,44.0,22.0
+1824,Smooth (feat. Rob Thomas),Santana,blues rock,116.0,92.0,-4.0,30.0,295.0,16.0,3.0,70.0,22.0
+1825,My Name Is,Eminem,detroit hip hop,86.0,68.0,-6.0,9.0,268.0,4.0,32.0,72.0,23.0
+1826,Desert Rose,Sting,permanent wave,112.0,65.0,-8.0,11.0,286.0,1.0,3.0,52.0,22.0
+1827,Hey Boy Hey Girl,The Chemical Brothers,alternative dance,127.0,92.0,-5.0,11.0,290.0,12.0,5.0,65.0,22.0
+1828,At Last,Etta James,adult standards,87.0,35.0,-9.0,33.0,180.0,55.0,3.0,74.0,62.0
+1829,Can't Help Falling in Love,Elvis Presley,adult standards,100.0,29.0,-14.0,11.0,182.0,94.0,3.0,78.0,60.0
+1830,Fly Me To The Moon (In Other Words),Frank Sinatra,adult standards,119.0,26.0,-14.0,6.0,147.0,45.0,5.0,77.0,60.0
+1831,Stand by Me,Ben E. King,adult standards,118.0,31.0,-9.0,7.0,180.0,57.0,4.0,77.0,60.0
+1832,"Oh, Pretty Woman",Roy Orbison,adult standards,127.0,60.0,-9.0,7.0,179.0,72.0,3.0,73.0,60.0
+1833,Ring of Fire,Johnny Cash,arkansas country,104.0,59.0,-8.0,35.0,158.0,62.0,3.0,71.0,58.0
+1834,Blowin' in the Wind,Bob Dylan,album rock,175.0,10.0,-21.0,6.0,165.0,91.0,5.0,69.0,59.0
+1835,In Dreams,Roy Orbison,adult standards,108.0,44.0,-10.0,13.0,169.0,67.0,3.0,57.0,59.0
+1836,Twist And Shout - Remastered 2009,The Beatles,british invasion,125.0,85.0,-9.0,4.0,155.0,64.0,5.0,74.0,59.0
+1837,Are You Lonesome Tonight,Elvis Presley,adult standards,66.0,9.0,-18.0,11.0,187.0,92.0,5.0,59.0,58.0
+1838,I Saw Her Standing There - Remastered 2009,The Beatles,british invasion,160.0,80.0,-10.0,7.0,174.0,27.0,4.0,71.0,59.0
+1839,"Don't Think Twice, It's All Right",Bob Dylan,album rock,111.0,24.0,-17.0,25.0,217.0,89.0,4.0,65.0,58.0
+1840,The Sound of Silence - Acoustic Version,Simon & Garfunkel,classic rock,107.0,22.0,-14.0,11.0,185.0,84.0,3.0,75.0,57.0
+1841,House Of The Rising Sun,The Animals,album rock,117.0,58.0,-7.0,10.0,271.0,0.0,3.0,69.0,58.0
+1842,Folsom Prison Blues,Johnny Cash,arkansas country,111.0,53.0,-10.0,28.0,156.0,19.0,3.0,58.0,57.0
+1843,The Times They Are A-Changin',Bob Dylan,album rock,172.0,40.0,-8.0,8.0,192.0,89.0,3.0,69.0,57.0
+1844,A Change Is Gonna Come,Sam Cooke,adult standards,174.0,38.0,-10.0,30.0,191.0,72.0,3.0,66.0,58.0
+1845,A Hard Day's Night - Remastered 2009,The Beatles,british invasion,139.0,81.0,-6.0,10.0,154.0,14.0,4.0,69.0,58.0
+1846,Nathalie,Gilbert Bécaud,chanson,135.0,63.0,-7.0,59.0,245.0,75.0,8.0,53.0,57.0
+1847,Eight Days A Week - Remastered 2009,The Beatles,british invasion,138.0,58.0,-8.0,12.0,164.0,41.0,4.0,66.0,57.0
+1848,It's All Over Now - Mono Version,The Rolling Stones,album rock,99.0,69.0,-11.0,33.0,206.0,2.0,3.0,46.0,57.0
+1849,Yesterday - Remastered 2009,The Beatles,british invasion,97.0,18.0,-12.0,9.0,126.0,88.0,3.0,78.0,57.0
+1850,(I Can't Get No) Satisfaction - Mono Version,The Rolling Stones,album rock,136.0,86.0,-8.0,13.0,223.0,4.0,3.0,77.0,57.0
+1851,Like a Rolling Stone,Bob Dylan,album rock,95.0,72.0,-7.0,19.0,370.0,73.0,3.0,71.0,57.0
+1852,Norwegian Wood (This Bird Has Flown) - Remastered 2009,The Beatles,british invasion,177.0,37.0,-12.0,11.0,125.0,18.0,4.0,69.0,57.0
+1853,Help! - Remastered 2009,The Beatles,british invasion,95.0,73.0,-8.0,10.0,140.0,19.0,3.0,73.0,57.0
+1854,Unchained Melody,The Righteous Brothers,adult standards,99.0,21.0,-17.0,18.0,218.0,40.0,3.0,70.0,57.0
+1855,Michelle - Remastered 2009,The Beatles,british invasion,117.0,29.0,-13.0,11.0,162.0,65.0,3.0,67.0,57.0
+1856,Feeling Good,Nina Simone,adult standards,79.0,33.0,-9.0,19.0,174.0,86.0,4.0,74.0,56.0
+1857,My Generation - Stereo Version,The Who,album rock,97.0,78.0,-9.0,8.0,199.0,31.0,6.0,71.0,56.0
+1858,In My Life - Remastered 2009,The Beatles,british invasion,103.0,44.0,-11.0,11.0,146.0,45.0,3.0,74.0,57.0
+1859,As Tears Go By - Mono Version,The Rolling Stones,album rock,113.0,28.0,-11.0,18.0,165.0,72.0,3.0,53.0,57.0
+1860,It Was A Very Good Year,Frank Sinatra,adult standards,80.0,14.0,-15.0,11.0,267.0,86.0,3.0,62.0,56.0
+1861,Time Is On My Side - Mono Version,The Rolling Stones,album rock,100.0,65.0,-9.0,11.0,179.0,29.0,4.0,53.0,56.0
+1862,Little Red Rooster - Mono Version,The Rolling Stones,album rock,109.0,43.0,-12.0,10.0,186.0,7.0,4.0,47.0,56.0
+1863,Mr. Tambourine Man,The Byrds,art rock,120.0,47.0,-10.0,44.0,149.0,51.0,3.0,62.0,57.0
+1864,"Paint It, Black",The Rolling Stones,album rock,159.0,80.0,-9.0,40.0,202.0,5.0,9.0,78.0,55.0
+1865,God Only Knows - Remastered,The Beach Boys,baroque pop,117.0,49.0,-8.0,6.0,173.0,25.0,3.0,72.0,55.0
+1866,California Dreamin' - Single Version,The Mamas & The Papas,adult standards,112.0,61.0,-10.0,5.0,162.0,35.0,3.0,76.0,56.0
+1867,Eleanor Rigby - Remastered 2009,The Beatles,british invasion,138.0,28.0,-9.0,31.0,127.0,94.0,4.0,71.0,56.0
+1868,River Deep - Mountain High,Ike & Tina Turner,brill building pop,83.0,75.0,-7.0,14.0,215.0,78.0,4.0,57.0,56.0
+1869,That's Life,Frank Sinatra,adult standards,112.0,44.0,-14.0,44.0,187.0,53.0,7.0,75.0,56.0
+1870,Jumpin' Jack Flash - Mono,The Rolling Stones,album rock,137.0,90.0,-7.0,7.0,219.0,4.0,5.0,65.0,55.0
+1871,Scarborough Fair / Canticle,Simon & Garfunkel,classic rock,129.0,25.0,-16.0,11.0,190.0,65.0,3.0,63.0,56.0
+1872,Sloop John B - Remastered,The Beach Boys,baroque pop,126.0,75.0,-5.0,9.0,180.0,40.0,3.0,61.0,55.0
+1873,Homeward Bound,Simon & Garfunkel,classic rock,93.0,38.0,-12.0,10.0,150.0,83.0,3.0,65.0,55.0
+1874,Under My Thumb,The Rolling Stones,album rock,127.0,49.0,-14.0,9.0,222.0,30.0,4.0,64.0,56.0
+1875,I Want You,Bob Dylan,album rock,100.0,68.0,-8.0,8.0,185.0,36.0,4.0,58.0,56.0
+1876,When a Man Loves a Woman,Percy Sledge,classic soul,97.0,15.0,-20.0,12.0,174.0,13.0,3.0,66.0,56.0
+1877,Sunny Afternoon - Mono Mix,The Kinks,album rock,125.0,47.0,-8.0,6.0,211.0,10.0,3.0,67.0,55.0
+1878,How Can We Hang On To A Dream,Tim Hardin,classic uk pop,127.0,18.0,-15.0,15.0,123.0,83.0,4.0,48.0,56.0
+1879,"Monday, Monday - Single Version",The Mamas & The Papas,adult standards,110.0,46.0,-9.0,57.0,208.0,74.0,3.0,62.0,55.0
+1880,For No One - Remastered 2009,The Beatles,british invasion,81.0,35.0,-10.0,12.0,120.0,78.0,3.0,63.0,56.0
+1881,"It's A Man's, Man's, Man's World",James Brown & The Famous Flames,motown,81.0,24.0,-17.0,13.0,167.0,69.0,4.0,63.0,56.0
+1882,Try a Little Tenderness,Otis Redding,classic soul,103.0,13.0,-15.0,26.0,202.0,19.0,6.0,64.0,56.0
+1883,Wouldn't It Be Nice - Stereo Mix,The Beach Boys,baroque pop,125.0,63.0,-7.0,13.0,153.0,72.0,3.0,72.0,55.0
+1884,Nights In White Satin - Single Version / Mono Mix,The Moody Blues,album rock,85.0,48.0,-5.0,7.0,269.0,47.0,3.0,68.0,55.0
+1885,The End,The Doors,album rock,106.0,30.0,-12.0,14.0,703.0,16.0,3.0,61.0,54.0
+1886,A Day In The Life - Remastered 2009,The Beatles,british invasion,163.0,46.0,-14.0,92.0,337.0,29.0,7.0,67.0,55.0
+1887,Brown Eyed Girl,Van Morrison,classic rock,151.0,58.0,-11.0,41.0,183.0,18.0,4.0,79.0,55.0
+1889,White Rabbit,Jefferson Airplane,album rock,107.0,29.0,-13.0,9.0,151.0,49.0,3.0,69.0,54.0
+1890,Penny Lane,The Beatles,british invasion,114.0,39.0,-10.0,10.0,182.0,41.0,4.0,45.0,54.0
+1891,Suzanne,Leonard Cohen,canadian folk,132.0,17.0,-16.0,11.0,229.0,92.0,4.0,66.0,54.0
+1892,Hey Joe,Jimi Hendrix,album rock,169.0,77.0,-6.0,2.0,210.0,1.0,4.0,71.0,54.0
+1893,Good Vibrations - Remastered,The Beach Boys,baroque pop,133.0,47.0,-8.0,11.0,219.0,33.0,3.0,71.0,55.0
+1894,Light My Fire,The Doors,album rock,125.0,73.0,-6.0,9.0,430.0,37.0,3.0,72.0,54.0
+1895,Strawberry Fields Forever - Remastered 2009,The Beatles,british invasion,98.0,50.0,-12.0,7.0,247.0,34.0,18.0,70.0,55.0
+1896,"So Long, Marianne",Leonard Cohen,canadian folk,95.0,40.0,-11.0,10.0,341.0,70.0,3.0,62.0,55.0
+1897,Little Wing,Jimi Hendrix,album rock,71.0,53.0,-8.0,5.0,146.0,18.0,8.0,69.0,55.0
+1898,The Fool On The Hill - Remastered 2009,The Beatles,british invasion,144.0,26.0,-11.0,11.0,179.0,91.0,3.0,58.0,54.0
+1899,People Are Strange,The Doors,album rock,119.0,47.0,-9.0,32.0,130.0,69.0,4.0,70.0,55.0
+1900,The Wind Cries Mary,Jimi Hendrix,album rock,80.0,50.0,-11.0,20.0,201.0,35.0,5.0,63.0,54.0
+1901,Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009,The Beatles,british invasion,96.0,67.0,-9.0,80.0,123.0,9.0,7.0,65.0,54.0
+1902,Lucy In The Sky With Diamonds - Remastered 2009,The Beatles,british invasion,15.0,33.0,-9.0,14.0,208.0,5.0,3.0,69.0,55.0
+1903,Purple Haze,Jimi Hendrix,album rock,109.0,91.0,-5.0,7.0,171.0,1.0,8.0,72.0,54.0
+1904,Ruby Tuesday,The Rolling Stones,album rock,105.0,55.0,-11.0,17.0,196.0,83.0,3.0,63.0,55.0
+1905,All You Need Is Love - Remastered 2009,The Beatles,british invasion,103.0,48.0,-8.0,16.0,230.0,35.0,3.0,68.0,55.0
+1906,"He Ain't Heavy, He's My Brother",The Hollies,adult standards,76.0,44.0,-7.0,51.0,258.0,41.0,3.0,50.0,54.0
+1907,When I'm Sixty Four - Remastered 2009,The Beatles,british invasion,140.0,24.0,-13.0,9.0,158.0,63.0,5.0,65.0,54.0
+1908,Somebody Will Know Someday,Cuby & The Blizzards,dutch indie,82.0,24.0,-14.0,12.0,413.0,18.0,4.0,37.0,55.0
+1909,I Am The Walrus - Remastered 2009,The Beatles,british invasion,85.0,56.0,-11.0,59.0,276.0,8.0,5.0,65.0,55.0
+1910,Guitar Man,Elvis Presley,adult standards,114.0,66.0,-13.0,7.0,139.0,54.0,6.0,41.0,54.0
+1911,Ain't No Mountain High Enough,Marvin Gaye,classic soul,130.0,60.0,-11.0,18.0,152.0,43.0,3.0,80.0,54.0
+1912,San Francisco (Be Sure to Wear Some Flowers In Your Hair),Scott McKenzie,bubblegum pop,112.0,67.0,-6.0,22.0,179.0,5.0,3.0,53.0,54.0
+1913,She's Leaving Home - Remastered 2009,The Beatles,british invasion,128.0,21.0,-12.0,11.0,215.0,94.0,3.0,63.0,55.0
+1914,I'm a Believer - 2006 Remaster,The Monkees,brill building pop,80.0,78.0,-6.0,22.0,167.0,71.0,4.0,73.0,54.0
+1915,Waterloo Sunset - Mono Mix,The Kinks,album rock,108.0,69.0,-7.0,17.0,194.0,16.0,2.0,66.0,55.0
+1916,Sunshine Of Your Love,Cream,album rock,115.0,48.0,-13.0,12.0,250.0,48.0,4.0,74.0,55.0
+1917,Break on Through (To the Other Side),The Doors,album rock,90.0,75.0,-10.0,17.0,146.0,20.0,5.0,72.0,55.0
+1918,Somebody to Love,Jefferson Airplane,album rock,132.0,58.0,-9.0,32.0,175.0,41.0,3.0,69.0,54.0
+1919,Green Green Grass Of Home,Tom Jones,adult standards,95.0,41.0,-13.0,10.0,185.0,16.0,3.0,62.0,55.0
+1920,To Love Somebody,Bee Gees,adult standards,90.0,38.0,-13.0,27.0,182.0,73.0,3.0,66.0,55.0
+1921,Pastorale - Remastered,Liesbeth List,dutch rock,112.0,52.0,-9.0,28.0,256.0,65.0,3.0,45.0,53.0
+1922,(Sittin' On) the Dock of the Bay,Otis Redding,classic soul,104.0,37.0,-11.0,8.0,164.0,68.0,3.0,73.0,54.0
+1923,Blackbird - Remastered 2009,The Beatles,british invasion,94.0,13.0,-14.0,6.0,138.0,75.0,3.0,74.0,53.0
+1924,I Put A Spell On You,Creedence Clearwater Revival,album rock,100.0,73.0,-8.0,10.0,272.0,0.0,3.0,60.0,53.0
+1925,While My Guitar Gently Weeps - Remastered 2009,The Beatles,british invasion,115.0,65.0,-9.0,17.0,285.0,2.0,3.0,70.0,54.0
+1926,All Along the Watchtower,Jimi Hendrix,album rock,113.0,81.0,-6.0,8.0,241.0,0.0,6.0,77.0,53.0
+1927,"Window Of My Eyes - From ""The American"" Soundtrack",Cuby & The Blizzards,dutch indie,184.0,53.0,-9.0,31.0,206.0,19.0,3.0,43.0,54.0
+1928,I Say a Little Prayer,Aretha Franklin,adult standards,133.0,36.0,-14.0,6.0,217.0,48.0,4.0,75.0,53.0
+1929,(You Make Me Feel Like) A Natural Woman,Aretha Franklin,adult standards,111.0,32.0,-9.0,19.0,167.0,21.0,3.0,69.0,54.0
+1930,White Room,Cream,album rock,110.0,58.0,-13.0,4.0,298.0,19.0,3.0,74.0,53.0
+1931,"Mrs. Robinson - From ""The Graduate"" Soundtrack",Simon & Garfunkel,classic rock,92.0,46.0,-14.0,7.0,244.0,71.0,5.0,76.0,54.0
+1932,What A Wonderful World - Single Version,Louis Armstrong,adult standards,77.0,17.0,-21.0,12.0,139.0,73.0,4.0,68.0,54.0
+1933,Lea,The Cats,classic uk pop,167.0,52.0,-8.0,6.0,222.0,39.0,3.0,48.0,53.0
+1934,The Weight - Remastered,The Band,album rock,144.0,55.0,-9.0,10.0,274.0,37.0,5.0,72.0,54.0
+1935,Ain't Got No - I Got Life - Remastered,Nina Simone,adult standards,122.0,72.0,-10.0,76.0,176.0,20.0,4.0,48.0,53.0
+1936,Voodoo Child (Slight Return),Jimi Hendrix,album rock,176.0,91.0,-7.0,5.0,313.0,48.0,39.0,67.0,53.0
+1937,Suzie Q,Creedence Clearwater Revival,album rock,130.0,62.0,-11.0,17.0,517.0,6.0,3.0,56.0,54.0
+1938,Born To Be Wild - Single Version,Steppenwolf,album rock,146.0,73.0,-12.0,24.0,213.0,26.0,10.0,67.0,53.0
+1939,Words,Bee Gees,adult standards,80.0,29.0,-10.0,16.0,198.0,14.0,3.0,59.0,54.0
+1940,Massachussetts,Bee Gees,adult standards,102.0,44.0,-14.0,6.0,148.0,1.0,3.0,57.0,53.0
+1941,Times Were When,The Cats,classic uk pop,99.0,56.0,-9.0,5.0,191.0,24.0,3.0,43.0,54.0
+1942,I Started A Joke,Bee Gees,adult standards,145.0,46.0,-9.0,13.0,188.0,16.0,3.0,66.0,54.0
+1943,MacArthur Park,Richard Harris,pop,170.0,34.0,-16.0,14.0,450.0,80.0,3.0,36.0,54.0
+1944,I'd Rather Go Blind,Etta James,adult standards,83.0,43.0,-6.0,15.0,157.0,69.0,2.0,67.0,54.0
+1945,Daydream Believer,The Monkees,brill building pop,126.0,49.0,-10.0,11.0,180.0,26.0,3.0,69.0,53.0
+1946,Back In The U.S.S.R. - Remastered 2009,The Beatles,british invasion,142.0,97.0,-7.0,6.0,163.0,7.0,9.0,66.0,54.0
+1947,"Girl, You'll Be A Woman Soon",Neil Diamond,adult standards,110.0,64.0,-6.0,32.0,180.0,57.0,3.0,59.0,54.0
+1948,Here Comes The Sun - Remastered 2009,The Beatles,british invasion,129.0,54.0,-10.0,18.0,186.0,3.0,3.0,82.0,53.0
+1949,Space Oddity - 2015 Remaster,David Bowie,album rock,140.0,44.0,-13.0,18.0,319.0,7.0,3.0,73.0,53.0
+1950,Gimme Shelter,The Rolling Stones,album rock,119.0,63.0,-8.0,17.0,271.0,45.0,3.0,76.0,52.0
+1951,Suspicious Minds,Elvis Presley,adult standards,117.0,38.0,-11.0,41.0,261.0,4.0,3.0,72.0,52.0
+1952,Whole Lotta Love - 1990 Remaster,Led Zeppelin,album rock,90.0,90.0,-12.0,41.0,334.0,5.0,41.0,76.0,53.0
+1953,Sweet Caroline,Neil Diamond,adult standards,63.0,13.0,-16.0,24.0,204.0,61.0,3.0,78.0,53.0
+1954,Fortunate Son,Creedence Clearwater Revival,album rock,133.0,66.0,-8.0,15.0,141.0,20.0,4.0,80.0,53.0
+1955,In the Ghetto,Elvis Presley,adult standards,89.0,27.0,-17.0,11.0,167.0,72.0,3.0,63.0,53.0
+1956,Bad Moon Rising,Creedence Clearwater Revival,album rock,179.0,77.0,-6.0,6.0,142.0,6.0,3.0,77.0,53.0
+1957,You Can't Always Get What You Want,The Rolling Stones,album rock,86.0,62.0,-10.0,25.0,449.0,64.0,6.0,67.0,52.0
+1958,With A Little Help From My Friends,Joe Cocker,album rock,145.0,43.0,-11.0,10.0,312.0,29.0,6.0,69.0,52.0
+1959,My Way,Frank Sinatra,adult standards,75.0,38.0,-7.0,12.0,277.0,70.0,3.0,73.0,52.0
+1960,Come Together - Remastered 2009,The Beatles,british invasion,165.0,38.0,-12.0,9.0,260.0,3.0,4.0,79.0,52.0
+1961,Something - Remastered 2009,The Beatles,british invasion,134.0,34.0,-11.0,14.0,182.0,20.0,3.0,72.0,53.0
+1962,Albatross - 2018 Remaster,Fleetwood Mac,album rock,136.0,6.0,-22.0,14.0,191.0,83.0,4.0,50.0,53.0
+1963,Just A Little Bit Of Peace In My Heart,Golden Earring,album rock,95.0,72.0,-6.0,6.0,320.0,1.0,3.0,42.0,52.0
+1964,Venus,Shocking Blue,classic rock,128.0,76.0,-6.0,8.0,188.0,46.0,4.0,59.0,52.0
+1965,Son of a Preacher Man,Dusty Springfield,adult standards,182.0,50.0,-11.0,13.0,149.0,39.0,8.0,61.0,52.0
+1966,Pinball Wizard,The Who,album rock,124.0,72.0,-9.0,26.0,181.0,2.0,4.0,69.0,52.0
+1967,Marian,The Cats,classic uk pop,80.0,45.0,-10.0,19.0,240.0,0.0,3.0,46.0,52.0
+1968,Proud Mary,Creedence Clearwater Revival,album rock,121.0,39.0,-17.0,5.0,187.0,16.0,3.0,60.0,53.0
+1969,Beautiful People,Melanie,classic uk pop,129.0,44.0,-9.0,40.0,215.0,61.0,5.0,44.0,53.0
+1970,Oh Well (Pt. 1) - 2013 Remaster,Fleetwood Mac,album rock,103.0,59.0,-10.0,14.0,202.0,20.0,14.0,41.0,52.0
+1971,Born On The Bayou,Creedence Clearwater Revival,album rock,117.0,39.0,-16.0,11.0,315.0,7.0,5.0,59.0,53.0
+1972,Scarlet Ribbons,The Cats,classic uk pop,101.0,42.0,-10.0,14.0,197.0,9.0,3.0,44.0,53.0
+1973,The Thrill Is Gone,B.B. King,blues,91.0,46.0,-9.0,10.0,325.0,34.0,3.0,60.0,53.0
+1974,Dazed and Confused,Led Zeppelin,album rock,87.0,55.0,-10.0,10.0,386.0,4.0,5.0,63.0,53.0
+1975,Overture,The Who,album rock,118.0,62.0,-10.0,14.0,320.0,6.0,3.0,43.0,53.0
+1976,Streets of London,Ralph McTell,british folk,156.0,30.0,-15.0,10.0,249.0,63.0,3.0,57.0,52.0
+1977,Down On The Corner,Creedence Clearwater Revival,album rock,108.0,54.0,-9.0,7.0,166.0,58.0,8.0,73.0,53.0
+1978,Appleknockers Flophouse,Cuby & The Blizzards,dutch indie,297.0,71.0,-9.0,26.0,151.0,0.0,10.0,34.0,53.0
+1979,The First Time Ever I Saw Your Face,Roberta Flack,adult standards,121.0,3.0,-22.0,16.0,261.0,73.0,4.0,64.0,53.0
+1980,Touch Me,The Doors,album rock,109.0,90.0,-5.0,12.0,190.0,41.0,7.0,68.0,52.0
+1981,Summertime,Brainbox,dutch prog,89.0,55.0,-9.0,31.0,263.0,4.0,3.0,36.0,53.0
+1982,Midnight Rambler,The Rolling Stones,album rock,75.0,66.0,-10.0,17.0,413.0,77.0,12.0,50.0,52.0
+1983,Get Ready,Rare Earth,blues rock,127.0,87.0,-6.0,83.0,1292.0,0.0,4.0,45.0,52.0
+1984,Black Magic Woman - 2018 Remaster,Fleetwood Mac,album rock,129.0,41.0,-11.0,28.0,173.0,5.0,4.0,48.0,52.0
+1985,Suite: Judy Blue Eyes - Remastered,"Crosby, Stills & Nash",album rock,154.0,36.0,-13.0,20.0,444.0,47.0,4.0,67.0,52.0
+1986,Blue Suede Shoes,Elvis Presley,adult standards,95.0,66.0,-8.0,14.0,119.0,65.0,6.0,62.0,65.0
+1987,Jailhouse Rock,Elvis Presley,adult standards,167.0,58.0,-10.0,7.0,146.0,41.0,8.0,73.0,64.0
+1988,My Baby Just Cares for Me - 2013 Remastered Version,Nina Simone,adult standards,119.0,24.0,-15.0,9.0,216.0,83.0,12.0,68.0,64.0
+1989,Summertime,Louis Armstrong,adult standards,168.0,7.0,-21.0,14.0,298.0,92.0,3.0,66.0,63.0
+1990,Heartbreak Hotel,Elvis Presley,adult standards,94.0,21.0,-12.0,11.0,128.0,84.0,7.0,63.0,64.0
+1991,Hound Dog,Elvis Presley,adult standards,175.0,76.0,-8.0,76.0,136.0,73.0,6.0,69.0,64.0
+1992,Johnny B. Goode,Chuck Berry,blues rock,168.0,80.0,-9.0,31.0,162.0,74.0,7.0,74.0,63.0
+1993,Take Five,The Dave Brubeck Quartet,bebop,174.0,26.0,-13.0,7.0,324.0,54.0,4.0,65.0,62.0
+1994,Blueberry Hill,Fats Domino,adult standards,133.0,50.0,-10.0,16.0,148.0,74.0,3.0,56.0,63.0
